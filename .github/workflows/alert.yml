@@ -11,7 +11,7 @@ on:
         type: boolean
         default: false
   push:
-    branches: [test-run]   # 개발용: 이 브랜치에 올리면 시험 실행
+    branches: [test-run, run-now]   # 개발용: test-run=시험 실행, run-now=바로 실제 실행
 
 permissions:
   contents: write
@@ -26,6 +26,8 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -46,8 +48,8 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
-          DRY_RUN: ${{ (github.event_name == 'push' || inputs.dry_run) && '1' || '0' }}
-          DEBUG_BODY: ${{ github.event_name == 'push' && '1' || '0' }}
+          DRY_RUN: ${{ (github.ref_name == 'test-run' || inputs.dry_run) && '1' || '0' }}
+          DEBUG_BODY: ${{ github.ref_name == 'test-run' && '1' || '0' }}
         run: python -m jobalert.main
 
       - name: 결과 요약
@@ -55,7 +57,7 @@ jobs:
         run: test -f report.md && cat report.md >> "$GITHUB_STEP_SUMMARY" || true
 
       - name: 기록 저장
-        if: github.event_name != 'push' && !inputs.dry_run
+        if: github.ref_name != 'test-run' && !inputs.dry_run
         run: |
           git config user.name "job-alert-bot"
           git config user.email "job-alert-bot@users.noreply.github.com"
@@ -67,7 +69,7 @@ jobs:
           fi
 
       - name: 시험 실행 결과 저장
-        if: always() && github.event_name == 'push'
+        if: always() && github.ref_name == 'test-run'
         run: |
           git config user.name "job-alert-bot"
           git config user.email "job-alert-bot@users.noreply.github.com"
