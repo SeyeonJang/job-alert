@@ -21,7 +21,7 @@ ROLE_STRONG_INCLUDE = [
 
 # 제목에 있으면 관련 직무로 본다.
 ROLE_INCLUDE = [
-    "기획자", "플랫폼 기획", "정책 기획", "프로덕트 기획", "제품 기획",
+    "기획자", "운영기획", "운영 기획", "서비스 운영", "플랫폼 기획", "정책 기획", "프로덕트 기획", "제품 기획",
     "program manager", "프로그램 매니저", "product lead", "product operations",
     "operations manager", "오퍼레이션", "bizops", "business operations",
     "strategy", "strategist", "전략", "chief of staff", "strategy staff", "ceo staff",
@@ -35,7 +35,7 @@ ROLE_INCLUDE_ACRONYMS = ["PM", "PO", "TPM", "BA"]
 CATEGORY_INCLUDE = [
     "product management", "프로덕트 매니지먼트", "프로덕트", "product",
     "data", "데이터", "business analysis", "전략", "strategy",
-    "service & business", "서비스 기획", "pm", "기획",
+    "product development", "서비스 기획", "pm", "기획",
 ]
 
 # 제목에 있으면 제외한다.
@@ -48,7 +48,8 @@ ROLE_EXCLUDE = [
     # 디자인·콘텐츠 제작
     "designer", "디자이너", "디자인 그룹", "design lead", "illustrator", "일러스트",
     "animator", "애니메이터", "photographer", "포토그래퍼", "retoucher", "리터처",
-    "에디터", "editor", "조연출", "영상 제작", "video", "스타일리스트",
+    "에디터", "editor", "조연출", "영상", "콘텐츠 제작", "video", "스타일리스트",
+    "executive assistant",
     # MD·영업·마케팅
     " md", "md ", "md(", "머천다이저", "바이어", "buyer", "vmd",
     "영업", "sales", "세일즈", "account manager", "어카운트",
@@ -69,7 +70,8 @@ ROLE_EXCLUDE = [
     # 게임 개발 직군
     "게임 기획", "레벨 디자인", "시나리오", "전투 기획", "클래스/", "밸런스", "내러티브",
     "시스템 기획자", "콘텐츠 기획자 (게임", "월드 빌더", "아티스트", "artist", "원화",
-    "모델러", "사운드", "애니메이션", "그래픽",
+    "모델러", "사운드", "애니메이션", "그래픽", "파밍", "캐릭터 기획", "아이템",
+    "라이브서비스 기획", "컨텐츠 기획자", "퀘스트", "로컬라이제이션", "ua실", "ua 매니저",
     # 현장 단기직
     "피킹", "패킹", "스태프", "일용직", "초단시간",
     # 상시 인재풀·이벤트
@@ -85,6 +87,8 @@ CATEGORY_EXCLUDE = [
     "fc운영", "fc기획", "ehs", "scm", "photographer", "editor",
     "production management", "video production", "general affair",
     "content design", "fashion design", "package design", "tech",
+    "backend", "frontend", "ml", "risk", "aml", "pr", "insurance", "culture",
+    "customer", "hr", "compensation", "audit", "it planning", "ux", "account management",
 ]
 
 # ── 고용형태 ────────────────────────────────────────────────────────

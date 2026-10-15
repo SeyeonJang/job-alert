@@ -35,6 +35,9 @@ def run():
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
     source = os.environ.get("SHEET_CSV_URL", "").strip() or str(ROOT / "tools" / "test_companies.csv")
     only = {s.strip() for s in os.environ.get("ONLY", "").split(",") if s.strip()}
+    only_file = ROOT / "tools" / "only.txt"   # 시험 실행 브랜치에서만 쓰는 파일
+    if not only and only_file.exists():
+        only = {l.strip() for l in only_file.read_text(encoding="utf-8").splitlines() if l.strip()}
     if not dry and not webhook:
         sys.exit("DISCORD_WEBHOOK_URL 이 비어 있어. 레포 Settings → Secrets 에 넣어줘.")
     state = State.load() if (not dry or os.environ.get("USE_STATE") == "1") else State({})
@@ -100,6 +103,9 @@ def run():
             (new if initialized else initial).append(item)
             ev = f" — {v.evidence}" if v.evidence else ""
             sent_lines.append(f"- **{job.title}** · {v.career_label} {' '.join(v.flags)}{ev}  `{job.career}|{job.employment}|{job.category}`  {job.url}")
+            if os.environ.get("DEBUG_BODY") == "1" and job.body:
+                req = filters.requirement_section(job.body)
+                sent_lines.append("    > " + (" / ".join(req)[:400] if req else "(자격요건 구역 못 찾음) " + job.body[:300].replace("\n", " / ")))
 
         comp.update(initialized=True, last_count=len(jobs), fail_streak=0, adapter=adapter.name)
         report += [f"## {name} ({adapter.name}) — {len(jobs)}건 · " + ", ".join(f"{k} {v}" for k, v in stats.items()), ""]

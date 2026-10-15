@@ -14,8 +14,13 @@ def _norm(text: str) -> str:
 
 def _has_any(text: str, words) -> Optional[str]:
     for w in words:
-        if w in text:
-            return w.strip()
+        k = w.strip()
+        if k.isascii() and len(k) <= 3:
+            # 짧은 영문 약어(pr, ml, hr ...)는 단어 단위로만 찾는다 (product, html 오탐 방지)
+            if re.search(rf"(?<![a-z0-9]){re.escape(k)}(?![a-z0-9])", text):
+                return k
+        elif w in text:
+            return k
     return None
 
 
@@ -130,6 +135,22 @@ def _heading_kind(line: str) -> Optional[str]:
     if any(h in s for h in rules.OTHER_HEADINGS):
         return "other"
     return None
+
+
+def requirement_section(body: str) -> list:
+    """디버그용: 자격요건 구역으로 판단한 줄들."""
+    lines = [l.strip() for l in (body or "").splitlines() if l.strip()]
+    out, state = [], "neutral"
+    for line in lines:
+        kind = _heading_kind(line)
+        if kind:
+            state = kind
+            if kind == "req":
+                out.append(f"[{line}]")
+            continue
+        if state == "req":
+            out.append(line)
+    return out
 
 
 def requirement_years(body: str) -> Tuple[Optional[int], str]:

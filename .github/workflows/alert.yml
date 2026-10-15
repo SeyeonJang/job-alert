@@ -47,6 +47,7 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
           DRY_RUN: ${{ (github.event_name == 'push' || inputs.dry_run) && '1' || '0' }}
+          DEBUG_BODY: ${{ github.event_name == 'push' && '1' || '0' }}
         run: python -m jobalert.main
 
       - name: 결과 요약
