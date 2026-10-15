@@ -1,0 +1,1817 @@
+[
+ {
+  "href": "https://toss.im/career",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/joining-guide",
+  "text": "합류 여정",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/culture",
+  "text": "팀 문화",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/article",
+  "text": "아티클",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/faq?category=0",
+  "text": "자주 묻는 질문",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8000716003",
+  "text": "토스증권 Data Engineer 직군 집중채용 (~10/25)\n\n데이터엔지니어링 ・ 데이터엔지니어 ・ 데이터\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7995639003",
+  "text": "토스커뮤니티 Server Developer 대규모 채용 (3년 이하) (~10/15)\n\n개발 ・ Server ・ Kotlin ・ Spring\n토스\n증권\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8002139003",
+  "text": "토스페이먼츠 Sales Development Specialist 1차 대규모채용 (~10/31)\n\n집중채용 ・ Sales ・ 페이먼츠 ・ 영업 ・ 방문 영업 ・ 전화 영업\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7601721003",
+  "text": "토스플레이스 Direct Sales Associate 특별 추가 채용 (~10/15)\n\n집중채용 ・ 신입채용 ・ 영업 ・ Direct Sales\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6008890003",
+  "text": "Account Manager\n\n오프라인 ・ 토스페이 ・ 페이스페이 ・ 영업 ・ 제휴\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4734599003",
+  "text": "Account Manager\n\nCredit ・ 금융영업 ・ 영업\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7697841003",
+  "text": "Account Manager (BPO 영업/운영)\n\n콜센터 ・ 컨택센터 ・ bpo영업 ・ 영업 ・ Sales ・ B2B Sales\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5715138003",
+  "text": "Account Manager (광고)\n\n광고 ・ 비즈니스 ・ 영업 ・ 아웃바운드 ・ 제휴 ・ 프로모션\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6260458003",
+  "text": "Account Manager (토스페이/쿠폰)\n\n토스페이 ・ 쿠폰 ・ 광고 ・ 영업 ・ 제휴\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7789761003",
+  "text": "Account Manager (플랫폼 제휴/사업개발)\n\nMD/AM 집중채용 ・ 사업 개발 ・ 대형 플랫폼 제휴 ・ 파트너십\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8010174003",
+  "text": "Accounting Manager\n\n회계 ・ 재무회계 ・ 결산\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6257655003",
+  "text": "Accounting Manager (연결)\n\n회계 ・ 재무회계 ・ 결산\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7990802003",
+  "text": "AI Engineer\n\nLLM ・ RAG ・ Agent\n토스\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7827198003",
+  "text": "AI Manager\n\nAI ・ ML ・ Data\n토스\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8007436003",
+  "text": "AI Platform Engineer\n\nAI ・ Infra ・ LLM\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7775866003",
+  "text": "AI Product Team Leader\n\nAI Product ・ ML ・ LLM ・ Leader\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8000575003",
+  "text": "AI Solution Engineer\n\nAI Solution ・ AI Solution Engineer ・ Forward Deployed Engineer\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7702581003",
+  "text": "AIOps Platform Engineer\n\nInfra ・ AIOps ・ 자동화 ・ 플랫폼\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8008997003",
+  "text": "AML Manager\n\n자금세탁방지 ・ 내부통제 ・ KYC ・ STR\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4153931003",
+  "text": "AML Manager\n\nAML ・ STR ・ 자금세탁방지 ・ 내부통제\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6520290003",
+  "text": "AML Manager (Global)\n\n자금세탁방지 ・ 내부통제 ・ KYC ・ STR ・ Global ・ AML\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7550111003",
+  "text": "AML Monitoring Manager\n\nAML ・ 모니터링 ・ STR ・ 자금세탁방지\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7818486003",
+  "text": "AML/CFT Manager (Gerente de PLD/FT, Toss Brazil)\n\nAML ・ Compliance ・ Anti-Money Laundering ・ Brazil ・ Global\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6576715003",
+  "text": "Android Developer\n\n개발 ・ Android ・ Kotlin\n토스\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7691793003",
+  "text": "Anti-Fraud Manager\n\n사기방지 ・ Anti-Fraud ・ 리스크\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7559116003",
+  "text": "Asset Specialist (2년 이하)\n\n자산관리 ・ 구매 ・ 운영\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7879491003",
+  "text": "B2C 패션몰 단순문의 상담원 (정규직, 신입 / 경력)\n\n고정 근무 ・ 정규직 ・ 인바운드 ・ 쇼핑몰 단순상담\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7639910003",
+  "text": "Banking Product Owner\n\n프로덕트 ・ 상품기획 ・ 여신 ・ SOHO\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4071178003",
+  "text": "Barista\n\n경영지원 ・ 서비스 ・ 음료제조\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4167756003",
+  "text": "Barista Support\n\n경영지원 ・ 서비스 ・ 음료제조\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6269297003",
+  "text": "Brand Design Assistant\n\n디자인 ・ 어시스턴트 ・ 광고 ・ 그래픽\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7847465003",
+  "text": "Brand Manager\n\n마케팅 ・ 브랜드마케팅 ・ 브랜딩\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7980102003",
+  "text": "Brand Marketing Specialist\n\n마케팅 ・ 브랜딩 ・ 브랜드캠페인\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8012925003",
+  "text": "Brand Operations Specialist\n\n커뮤니케이션 ・ 관리 ・ 지원 ・ 운영\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6279876003",
+  "text": "Business Analyst\n\n세일즈 ・ 성과관리 ・ 성과측정 ・ 전략\n토스\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7853400003",
+  "text": "Business Development Representative\n\n비즈니스 ・ 마케팅 ・ Marketing ・ 파트너십 ・ 계약\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7991005003",
+  "text": "Business FP&A Manager\n\nFP&A ・ 사업기획 ・ 관리회계 ・ 실적분석\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4076156003",
+  "text": "Business Operations Manager\n\n서비스운영 ・ 운영 ・ 운영기획 ・ 사업운영 ・ 정책수립\n증권\n페이먼츠\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6004757003",
+  "text": "Business Operations Specialist\n\n비즈니스 ・ 결제 ・ 운영 ・ 서비스 ・ 심사\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7818770003",
+  "text": "Business Public Affairs Manager\n\nPublic Affairs ・ 대외협력 ・ 규제개선\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4651099003",
+  "text": "CA Operations Manager\n\n수신 ・ 통장 ・ 예금 ・ 수신운영\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7798373003",
+  "text": "Call Infra Engineer (IPCC, AICC 구축 운영)\n\n인프라 ・ 콜시스템 ・ IPCC ・ AICC\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6574124003",
+  "text": "Call Sales Assistant\n\n콜 영업 ・ 영업기회발굴 ・ 영업 ・ 영업관리\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7478795003",
+  "text": "Card Operations Specialist\n\n체크카드 ・ 운영 ・ 정산 ・ 사후관리\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8032794003",
+  "text": "Category MD (가공식품)\n\nMD/AM 집중채용 ・ MD ・ Merchandiser ・ Brand Manager\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7806870003",
+  "text": "Category MD (뷰티)\n\nMD/AM 집중채용 ・ MD ・ Merchandiser ・ Brand Manager\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5546961003",
+  "text": "Category MD (생활 - 가구/홈데코/주방용품)\n\nMD/AM 집중채용 ・ MD ・ Merchandiser ・ Brand Manager\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7893777003",
+  "text": "Category MD (신선식품 Unit Leader - 과일, 채소)\n\nMD/AM 집중채용 ・ MD ・ Merchandiser ・ Brand Manager\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7203827003",
+  "text": "CEO Staff\n\nCEO Staff ・ 업무지원 ・ 어시스턴트\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5861650003",
+  "text": "Channel Account Manager\n\nVAN대리점 ・ 실적관리 ・ 대리점영업\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7509161003",
+  "text": "Childcare Teacher(토스커뮤니티 어린이집 교사)\n\n어린이집 ・ 교사 ・ HR ・ 원아교육\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5677593003",
+  "text": "Client Solutions Manager\n\n광고 ・ 최적화솔루션 ・ 컨설팅 ・ 전략\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7818816003",
+  "text": "Collections Manager\n\n채권관리 ・ 여신운영 ・ 사후관리 ・ 공적구제\n토스\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8011145003",
+  "text": "Commerce Demand & Capacity Planner\n\n커머스 ・ 물류 ・ 물류기획 ・ SCM ・ 풀필먼트\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8011144003",
+  "text": "Commerce Fulfillment Planning Lead\n\n커머스 ・ 물류 ・ 물류기획 ・ SCM ・ 풀필먼트\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8011151003",
+  "text": "Commerce Partner SLA manager\n\n커머스 ・ 물류 ・ 풀필먼트 ・ SLA\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8007757003",
+  "text": "Commerce Planning Manager\n\n커머스 ・ 상품전략 ・ 상품기획 ・ 카테고리기획\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8011150003",
+  "text": "Commerce Risk & Cost manager\n\n커머스 ・ 물류 ・ 물류재무 ・ 원가관리 ・ 재무분석\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5340733003",
+  "text": "Commission Manager\n\n수수료 ・ 정산 ・ 환수 ・ 검증\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7701589003",
+  "text": "Communications Manager\n\nPR ・ 언론홍보 ・ 이슈대응\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7507332003",
+  "text": "Communications Manager\n\n언론홍보 ・ 이슈대응 ・ PR ・ 커뮤니케이션\n토스\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5885438003",
+  "text": "Community Specialist\n\n복지 ・ 커뮤니티 ・ 운영/관리 ・ 컨시어지\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7923676003",
+  "text": "Compensation Manager\n\nGHR ・ 보상운영 ・ 보상기획 ・ compensation\n토스\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8014326003",
+  "text": "Compliance Assistant (광고 모니터링)\n\n광고 ・ 검수 ・ QA ・ Quality Assurance ・ 운영 ・ 지원\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8014338003",
+  "text": "Compliance Assistant (보험 서류 검수)\n\n보험 서류 검수 ・ 단순 사무보조 ・ 확인서 ・ 사무보조 ・ 사무행정\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4167754003",
+  "text": "Compliance Manager\n\n컴플라이언스 ・ 준법지원 ・ 여신 ・ 수신\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7648633003",
+  "text": "Compliance Manager (모니터링/점검)\n\n컴플라이언스 ・ 모니터링\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7830494003",
+  "text": "Consumer Protection Manager\n\n소비자보호 ・ 정책기획 ・ 내부통제\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7788122003",
+  "text": "Content Producer\n\nPD ・ 기획 ・ 제작 ・ 콘텐츠\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7994038003",
+  "text": "Content Producer (일반계약직)\n\nPD ・ 기획 ・ 제작 ・ 콘텐츠\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5498911003",
+  "text": "Corp Legal Team Leader\n\n법무 ・ 변호사 ・ 법무총괄 ・ M&A ・ 기업법무\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6991648003",
+  "text": "Corporate Credit Rating Team Leader\n\n신용모형 ・ 기업금융 ・ 리스크 ・ 리더십\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8001652003",
+  "text": "Corporate Development Director\n\nM&A ・ IB ・ VC ・ 전략컨설팅 ・ Professional Firm ・ PE\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4074251003",
+  "text": "Corporate Development Manager\n\nM&A ・ IB ・ VC ・ 전략컨설팅 ・ Professional Firm ・ PE\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4708486003",
+  "text": "Corporate Public Affairs Manager\n\nPublic Affairs ・ 대외협력 ・ 규제개선\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7690345003",
+  "text": "Credit Rating Modeler\n\n신용모형 ・ 기업금융 ・ 리스크\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7814972003",
+  "text": "CS Risk Manager\n\nriskmanager ・ risk manager ・ 2차 민원 ・ 민원 상담 ・ CS상담 ・ 상담\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6647540003",
+  "text": "Culture Business Partner\n\n인사 ・ 문화 ・ 조직문화 ・ 핵심가치\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7317493003",
+  "text": "Customer Guider (단순 OB 영업 지원)\n\n토스페이 ・ Sales ・ 영업 ・ 콜드콜 ・ 지원\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7372842003",
+  "text": "Customer Guider (단순상담)\n\n9 to 6 고정 근무 ・ 기본 문의 응대 ・ 부담 없는 전화 상담\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7621552003",
+  "text": "Customer Hero 플랫폼/쇼핑 (정착지원금 50만원)\n\n신입 ・ 토스앱 ・ 토스쇼핑 ・ 6개월 근속 시 50만원 분할지급\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6600401003",
+  "text": "Customer Hero 플레이스\n\n신입 ・ 토스플레이스 ・ POS ・ 단말기 ・ 고객센터\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7317884003",
+  "text": "Customer Protection Manager (FDS/금융사기대응)\n\n소비자보호 ・ FDS ・ 금융사기대응\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4221550003",
+  "text": "Customer Protection Manager (민원)\n\n소비자보호 ・ 민원대응\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7998148003",
+  "text": "Customer Protection Manager (사전협의)\n\n소비자보호 ・ 사전협의 ・ 정책개선\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5851767003",
+  "text": "Customer Success Manager\n\n고객센터 ・ CS ・ VOC\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7809186003",
+  "text": "Customer Success Specialist\n\n고객센터 ・ VOC ・ CS\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7528516003",
+  "text": "CX Planning Manager\n\n경영전략 ・ 고객서비스 ・ 데이터분석 ・ VOC ・ 시스템개선 ・ 운영전략\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7742346003",
+  "text": "Data Analyst\n\n데이터분석 ・ 제품분석 ・ SQL\n토스 외 3개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5960616003",
+  "text": "Data Analytics Engineer\n\nData ・ SQL ・ DW DM\n토스 외 3개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7782783003",
+  "text": "Data Analytics Specialist (2년 이하)\n\nData Analysis ・ 데이터분석 ・ Product ・ DA\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4695176003",
+  "text": "Data Engineer\n\nData ・ 데이터플랫폼 ・ Airflow ・ Hadoop\n토스 외 4개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7702489003",
+  "text": "Data Governance Manager\n\nData ・ 데이터거버넌스 ・ 정책 ・ 카탈로그\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6603749003",
+  "text": "Data Platform Engineer (Streaming)\n\nData ・ 데이터엔지니어링 ・ Kafka ・ 주니어\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6675539003",
+  "text": "Data Product Manager\n\nData ・ AI ・ Mart ・ Product\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7728018003",
+  "text": "Data Scientist\n\n데이터분석 ・ 데이터사이언스 ・ 모델분석\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7995370003",
+  "text": "DataOps Manager\n\n데이터추출 ・ 데이터시각화 ・ SQL\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4071131003",
+  "text": "DBA\n\nData ・ MySQL ・ Oracle\n토스\n증권\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5589072003",
+  "text": "Design Assistant\n\n디자이너 ・ 디자인 ・ 그래픽 ・ 편집디자인\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7816833003",
+  "text": "Design Staff (Product Designer)\n\n디자인 ・ Product Design ・ UXUI\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7990875003",
+  "text": "Design System Assistant\n\nDesign ・ 디자인 ・ 어시스턴트\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7858223003",
+  "text": "Developer Relations Manager\n\nDevRel ・ 기술조직문화 ・ 개발자경험 ・ 기술브랜딩\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6078684003",
+  "text": "Device Hardware Quality Engineer\n\nHW 신뢰성 검증 ・ 양산 품질 관리 ・ EMS/ODM 파트너 관리\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5366219003",
+  "text": "Device Software Engineer (Android)\n\n엔지니어 ・ 개발 ・ AOSP\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6544397003",
+  "text": "Device Software Quality Engineer (Android)\n\n엔지니어 ・ 하드웨어\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6508471003",
+  "text": "Device 관련 포지션 인재풀 등록\n\nHardware ・ Device ・ 단말기\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4071151003",
+  "text": "DevOps Engineer\n\nKubernetes ・ Istio ・ CI/CD ・ Cloud Native\n토스 외 3개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4773317003",
+  "text": "DevOps Engineer [산업기능요원/전문연구요원]\n\n병특 ・ 개발 ・ CI/CD ・ Kubernetes\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7814940003",
+  "text": "Direct Sales Manager\n\n비즈니스 ・ 영업 ・ Direct Sales ・ 영업관리\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7996696003",
+  "text": "Direct Sales Operations Manager\n\n비즈니스 ・ 영업전략 ・ 영업관리 ・ 가맹점\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7984223003",
+  "text": "Enterprise Account Manager\n\nVAN/결제 ・ B2B 영업 ・ 법인영업 ・ 프랜차이즈\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7971642003",
+  "text": "Enterprise Marketing Manager\n\n엔터프라이즈 마케팅 ・ 비즈니스 ・ 전략 ・ B2B\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7777423003",
+  "text": "Equity Operations Manager (국내주식 운영관리)\n\n증권 ・ 국내주식운영 ・ 국내주식관리 ・ 영업추진 ・ 영업관리\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7609570003",
+  "text": "Executive Assistant\n\nEA ・ 업무지원 ・ 어시스턴트\n토스\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8009265003",
+  "text": "FDS Manager (토스앱 플랫폼)\n\nFDS ・ 금융 ・ 고객관리 ・ 상담 ・ 모니터링 ・ 이상거래\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8010137003",
+  "text": "FDS Monitoring Specialist\n\nFDS ・ 금융 ・ 고객관리 ・ 상담\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6434513003",
+  "text": "Finance Data System Developer\n\nData ・ ALM ・ 리스크\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7800933003",
+  "text": "Finance Manager\n\n재무 ・ 회계 ・ 결산 ・ 법인카드\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7816844003",
+  "text": "Financial Compliance Manager (금융복합기업집단)\n\n리스크 ・ 모니터링 ・ 자본적정성 ・ 규제보고\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7985134003",
+  "text": "Financial Data Analyst (Accounting)\n\nAccounting ・ Finance ・ Data ・ Analyst\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7499044003",
+  "text": "Financial Data Analyst (FP&A)\n\nFP&A ・ Finance ・ Data ・ Analyst\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5682361003",
+  "text": "Financial Systems Manager (SAP)\n\n재무시스템 ・ 회계시스템 ・ 시스템운영\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7996773003",
+  "text": "Forward Deployed Engineer\n\nFDE ・ Forward Deployed Engineer ・ Forward Deployed\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8032705003",
+  "text": "Fraud Risk Manager\n\n이상거래탐지시스템 ・ 리스크 ・ 결제 ・ 정산\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4076130003",
+  "text": "Frontend Developer\n\n개발 ・ Frontend ・ TypeScript ・ JavaScript\n증권 외 3개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6615122003",
+  "text": "Frontend Developer (보훈특별채용)\n\n개발 ・ Frontend ・ TypeScript ・ JavaScript ・ 보훈\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7545902003",
+  "text": "Frontend Platform Engineer\n\n개발 ・ Frontend ・ TypeScript ・ JavaScript\n토스\n증권\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5218086003",
+  "text": "General Affairs Manager\n\n경영지원 ・ 총무\n뱅크 외 4개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6219801003",
+  "text": "General Affairs Specialist\n\n경영지원 ・ 총무 ・ GA ・ 자산관리\n뱅크\n씨엑스\n인컴",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7912920003",
+  "text": "Global Beta Tester (Foreigner)\n\n글로벌 ・ 해외금융 ・ 버그리포팅 ・ 유저리서치\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8006388003",
+  "text": "Global UX Research Program Manager\n\n글로벌 ・ UX ・ 모바일 ・ 리서치 ・ 인터뷰 ・ 사용자\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4208133003",
+  "text": "Global UX Researcher\n\n글로벌 ・ UX ・ 모바일 ・ 리서치 ・ 인터뷰 ・ 사용자\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7788116003",
+  "text": "GRC Manager\n\n해외변호사 ・ 법무 ・ 자문\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7158459003",
+  "text": "HR Coordinator\n\n인사 ・ 채용 ・ 오퍼레이션 ・ HR\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7630838003",
+  "text": "HR Operations Manager\n\n인사 담당자 ・ HRM ・ People team ・ HR ・ HR manager ・ People\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5548248003",
+  "text": "HRBP\n\nHRBP ・ 인사 ・ HR ・ 인사기획 ・ 인사제도 ・ 인사운영\n토스\n뱅크\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7342236003",
+  "text": "IDC Assistant (단기계약직)\n\nIDC ・ 데이터센터\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7719156003",
+  "text": "IDC Infrastructure Engineer (Network & System)\n\n인프라 ・ 네트워크 ・ 시스템 ・ IDC\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7821171003",
+  "text": "IDC Manager\n\nIDC Manager ・ IDC ・ Data Center\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7804462003",
+  "text": "Information Security Manager\n\n보안 ・ 정책 ・ 금융보안 ・ 컴플라이언스\n토스\n뱅크\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8003265003",
+  "text": "Infra Strategy Manager\n\n인프라 ・ 전략\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8016322003",
+  "text": "Internal Auditor (IT)\n\n컴플라이언스 ・ 감사 ・ 내부통제 ・ 재무\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8016316003",
+  "text": "Internal Auditor (업무)\n\n컴플라이언스 ・ 감사 ・ 내부통제 ・ 재무\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8016317003",
+  "text": "Internal Auditor (재무)\n\n컴플라이언스 ・ 감사 ・ 내부통제 ・ 재무\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7711697003",
+  "text": "iOS Developer\n\n개발 ・ iOS ・ Swift\n토스\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7009142003",
+  "text": "IR Manager\n\n경영지원 ・ 증권 ・ 공시\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7606091003",
+  "text": "IT Assistant (단기계약직)(인재풀)\n\nIT ・ 헬프데스크 ・ 자산관리\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7700084003",
+  "text": "IT Assurance Manager\n\nIT내부통제 ・ IT자체감사 ・ IT감사\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7497931003",
+  "text": "IT Audit Manager\n\nIT자체감사 ・ IT내부통제\n토스\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6535733003",
+  "text": "IT Auditor\n\nIT감사 ・ IT자체감사 ・ IT내부통제\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7531919003",
+  "text": "IT Governance Manager (BCP)\n\nIT거버넌스 ・ BCP ・ 업무위수탁 ・ 제3자리스크\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7867603003",
+  "text": "IT Manager (IT 인프라 운영 및 기획)\n\nIT ・ 인프라 ・ 컨택센터 ・ BPO\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6615985003",
+  "text": "IT Operations Specialist\n\nIT ・ Help ・ 운영체제 ・ 인프라\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7736910003",
+  "text": "IT Operations Specialist (Call Infra)(2년 이하)\n\nIT General Admin ・ IT운영 ・ Helpdesk\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6685329003",
+  "text": "IT Planning Manager\n\nIT기획 ・ 투자관리 ・ 사업관리\n뱅크\n증권\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7700016003",
+  "text": "IT Planning Team Leader\n\nIT기획 ・ 내부통제 ・ 프로젝트 ・ 리더십\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8000384003",
+  "text": "IT Security Specialist\n\nIT ・ Help ・ 운영체제 ・ 자산관리\n토스\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5387339003",
+  "text": "IT SOX Manager\n\n재무회계 ・ 결산지원 ・ 내부회계 ・ SOX\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7922647003",
+  "text": "IT Strategy Manager\n\nIT기획 ・ IT전략 ・ 기술전략\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7629197003",
+  "text": "IT Supporter(보훈제한경쟁)\n\n자산관리 ・ 전산 ・ 운영체제 ・ IT운영\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7972728003",
+  "text": "KYC Specialist\n\nBank ・ KYC ・ 고객확인제도 운영\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4258312003",
+  "text": "Leadership Talent Acquisition Manager\n\n인사 ・ 임원채용\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5643035003",
+  "text": "Legal Counsel\n\n법무 ・ 변호사 ・ 기업자문\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5267674003",
+  "text": "Loan Operations Manager\n\n여신심사 ・ 운영 ・ 전세대출 ・ 부동산담보대출\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6258609003",
+  "text": "Marketing Manager\n\n비즈니스 ・ 마케팅\n토스\n인슈어런스\n인컴",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8010171003",
+  "text": "Marketing Specialist\n\n마케팅 ・ 커머스 ・ 콘텐츠\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7993829003",
+  "text": "Marketing Team Leader (Global)\n\n비즈니스 ・ 마케팅 ・ 리더십\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5179585003",
+  "text": "Merchant Onboarding Specialist\n\n비즈니스 ・ 입점 ・ 계약\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6600650003",
+  "text": "ML Backend Engineer\n\nML ・ Backend ・ Python ・ 모델서빙\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6025151003",
+  "text": "ML Data Assistant\n\n오퍼레이션 ・ 어시스턴트 ・ 사무보조\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7825079003",
+  "text": "ML Engineer\n\nMachine Learning ・ MLE ・ CSS\n토스\n뱅크\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7998953003",
+  "text": "ML Engineer [Ads]\n\nAds ・ Retrieval ・ Machine Learning ・ 광고\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7992223003",
+  "text": "ML Engineer [Commerce]\n\nMachine Learning ・ MLE ・ 모델 서빙\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4770769003",
+  "text": "ML Engineer [전문연구요원]\n\n병역특례 ・ Machine Learning ・ 모델설계 ・ 서빙\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4071172003",
+  "text": "Network Engineer\n\n인프라 ・ 네트워크 ・ 스위치 ・ 방화벽\n토스\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5398782003",
+  "text": "Network Security Engineer\n\n인프라 ・ 네트워크 ・ 방화벽 ・ 보안\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6620395003",
+  "text": "Network Software Engineer\n\ngolang ・ 백엔드 ・ 제로트러스트 ・ 네트워크\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7734083003",
+  "text": "Node.js Developer\n\n개발 ・ Typescript ・ Nest.js ・ Node.js\n토스\n증권\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7737352003",
+  "text": "Office Manager(부산)\n\nIT ・ 전산 ・ 총무 ・ 오피스관리\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5730737003",
+  "text": "Operations Assistant (Commerce/Risk)\n\n커머스 ・ 세일즈 ・ 검수 ・ 운영지원\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5779492003",
+  "text": "Operations Enablement Assistant (Internship)\n\nSales ・ 경영지원 ・ 데이터 추출 ・ 검수\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6215740003",
+  "text": "Operations Enablement Specialist\n\n비즈니스 ・ 영업지원 ・ 가맹점운영 ・ 고객대응\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7868486003",
+  "text": "Operations Manager (제품운영/인력운영) (인재풀)\n\n운영 ・ 인력운영 ・ 제품운영 ・ Operation\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7657378003",
+  "text": "Operations Partner (가맹점 입점 온보딩)\n\n서류심사 ・ 가맹점 대응 ・ 사무보조 ・ POS기\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7805645003",
+  "text": "Operations Supporter (가맹점 서류심사)\n\n서류심사 ・ 신입 ・ 가맹점 대응 ・ 단순 사무보조\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6082255003",
+  "text": "Operations Supporter (광고 검수)\n\n광고 ・ 검수 ・ QA ・ Quality Assurance ・ 운영 ・ 지원\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6570754003",
+  "text": "Operations Supporter (인재풀)\n\n사무보조 ・ 서류처리 ・ 운영성업무\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4516042003",
+  "text": "Overseas Operations Specialist\n\n증권 ・ 해외주식운영 ・ 글로벌데스크 ・ 상담 ・ 야간데스크\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4710951003",
+  "text": "People Systems Manager(Workday)\n\n인사 ・ 인사기획 ・ HR시스템\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7989660003",
+  "text": "Platform Engineer [전문연구요원]\n\n병역특례 ・ 개발 ・ Frontend ・ TypeScript\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6355421003",
+  "text": "Platform Product Owner\n\n프로덕트 ・ 서비스기획 ・ 제품고도화\n토스\n뱅크\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7746633003",
+  "text": "Platform Product Owner (Global)\n\nProduct ・ Product Management ・ Strategy\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8026801003",
+  "text": "Privacy Assistant\n\nprivacy ・ security ・ 사무보조 ・ 단기계약직\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5841414003",
+  "text": "Privacy Manager\n\n보안 ・ 정책 ・ 보안 규제 ・ 개인정보보호\n토스 외 4개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7569779003",
+  "text": "Privacy Operations Specialist\n\n보안 ・ 개인정보보호 ・ 신용정보보호 ・ 컴플라이언스\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7992209003",
+  "text": "Privacy Protection Team Leader\n\n보안 ・ 개인정보보호 ・ 신용정보보호 ・ 리더십\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6613948003",
+  "text": "Product Design Assistant\n\nDesign ・ 페이먼츠 ・ 디자인 ・ WEB\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7551680003",
+  "text": "Product Design Assistant\n\n프로덕트디자인 ・ 디자인어시스턴트 ・ 프로덕트디자이너 ・ PD\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4326315003",
+  "text": "Product Designer\n\n디자인 ・ Product Design ・ UXUI\n토스 외 4개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7992206003",
+  "text": "Product Excellence Manager (Strategy & Execution)\n\n프로덕트 ・ 프로젝트관리 ・ Process ・ Excellence\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7611090003",
+  "text": "Product Manager\n\n프로덕트 ・ LLM ・ AI ・ Data\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7798466003",
+  "text": "Product Operations Manager\n\n프로덕트 ・ 서비스운영 ・ 그로스 ・ POM\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7533218003",
+  "text": "Product Operations Specialist (Community)\n\n프로덕트 ・ 서비스/상품운영 ・ 커뮤니티 ・ Trust & Safety\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7783192003",
+  "text": "Product Operations Specialist (계좌, 이체출납)\n\n프로덕트 ・ 서비스/상품운영 ・ 계좌 ・ 이체출납\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4071413003",
+  "text": "Product Owner\n\n프로덕트 ・ 서비스기획 ・ 사업전략\n토스 외 3개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7884093003",
+  "text": "Product Owner (Growth)\n\n프로덕트 ・ 서비스/상품기획 ・ Growth\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7804051003",
+  "text": "Product Owner (User Journey)\n\n프로덕트 ・ 서비스/상품기획 ・ User Journey ・ Customer Experience\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7803925003",
+  "text": "Product Owner (Vertical)\n\n프로덕트 ・ 서비스/상품기획 ・ Vertical ・ Monetization\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7994019003",
+  "text": "Product Owner (시세 Platform)\n\n프로덕트 ・ 서비스/상품기획 ・ 시세 ・ Platform\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7883992003",
+  "text": "Product Owner (원장 Platform)\n\n프로덕트 ・ 서비스/상품기획 ・ 원장 ・ Platform\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6355822003",
+  "text": "Product Owner [Commerce]\n\n프로덕트 ・ 서비스기획 ・ 사업전략\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7668948003",
+  "text": "Product Owner [Search]\n\n프로덕트 ・ 서비스기획 ・ 사업전략 ・ 검색\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6537982003",
+  "text": "Project Staff\n\n전략과제 ・ 실행 ・ 협업\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7782764003",
+  "text": "Purchasing Manager\n\n구매 ・ SW ・ HW ・ IT\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4696989003",
+  "text": "Purchasing Manager\n\n구매 ・ IT\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6303138003",
+  "text": "QA Manager\n\nQuality Assurance ・ 테스트 ・ SQA\n토스 외 5개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4759208003",
+  "text": "QA Team Leader\n\nQA ・ 품질검증 ・ 자동화 ・ 리더십\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6523293003",
+  "text": "Recruiting Assistant\n\n인사 ・ 채용 ・ 오퍼레이션 ・ HR\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5404619003",
+  "text": "Recruiting Business Partner\n\n인사 ・ 채용 ・ 채용운영 ・ 채용기획\n토스\n씨엑스\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7981492003",
+  "text": "Recruiting Business Partner (BPO 사업 담당)\n\nBPO ・ 인사 ・ 채용 ・ 채용운영 ・ 채용기획\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7985003003",
+  "text": "Recruiting Partner Team Leader\n\nHR ・ 리더십 ・ 채용전략\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6620590003",
+  "text": "Research Assistant\n\n경영전략 ・ IB/VC/PE ・ 리서치 ・ RA\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4071155003",
+  "text": "Retail Operations Manager (지점 업무 및 백오피스 운영)\n\n증권 ・ 상담 ・ 대고객 ・ 백오피스\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7993808003",
+  "text": "Retail Operations Specialist (금융사기방지)\n\n증권 ・ fds ・ 모니터링 ・ 금융사기\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6350423003",
+  "text": "Risk Manager\n\n경영지원 ・ 리스크 ・ 가맹점 ・ 심사\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4922690003",
+  "text": "Risk Team Assistant (Internship)\n\nRisk ・ 페이먼츠 ・ 경영지원 ・ 사무보조\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7853432003",
+  "text": "Sales Development Representative\n\n비즈니스 ・ 광고 ・ 세일즈 ・ 영업\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5811686003",
+  "text": "Sales Excellence Manager\n\n비즈니스 ・ 세일즈 ・ 전략 ・ GTM ・ 기획 ・ 데이터\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6079748003",
+  "text": "Sales Manager\n\nBusiness ・ 글로벌결제영업 ・ 사업개발 ・ B2B영업\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7977758003",
+  "text": "Sales Operations Specialist\n\nSales ・ 제휴영업 ・ 플랫폼 제휴\n토스\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8006659003",
+  "text": "Sales Solutions Manager\n\n보험상품 ・ 손해보험 ・ 생명보험 ・ 상품분석\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7925470003",
+  "text": "Sales Specialist (FacePay)\n\n세일즈 ・ 영업 ・ 페이스페이 ・ 비즈니스\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5160641003",
+  "text": "Sales Training Manager\n\n보험 ・ 세일즈 ・ 교육 ・ Sales Coach\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7821118003",
+  "text": "Search Quality Operations Manager\n\n검색품질 ・ 데이터품질 ・ LLM ・ 커머스\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7787980003",
+  "text": "Securities Settlement Manager (국내주식 - 주니어)\n\n증권 ・ 결제 ・ 권리 ・ 배당\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7814842003",
+  "text": "Securities Settlement Manager (해외주식 - 3년 이상)\n\n증권 ・ 결제 ・ 권리 ・ 배당\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7723266003",
+  "text": "Securities Settlement Manager (해외주식 - 주니어)\n\n증권 ・ 결제 ・ 권리 ・ 배당\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7569891003",
+  "text": "Security Analyst\n\n보안 ・ 보안관제 ・ SIEM ・ 침해대응\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5988332003",
+  "text": "Security Audit Manager\n\n보안 ・ 보안감사 ・ 자체감사 ・ 정보보호\n뱅크\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7725867003",
+  "text": "Security Audit Team Leader (정보보호 자체감사자)\n\n내부통제 ・ 자체감사 ・ 정보보호\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6959638003",
+  "text": "Security Engineer\n\n엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제\n토스 외 3개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6586572003",
+  "text": "Security Engineer [산업기능요원/전문연구요원]\n\n병역특례 ・ 보안 ・ 엔드포인트 ・ 솔루션\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8014310003",
+  "text": "Security Policy Team Leader\n\n보안 ・ 정보보호 ・ 보안점검 ・ 정책\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4076085003",
+  "text": "Security Researcher\n\n보안 ・ 기술 ・ 웹/앱 보안진단\n토스\n뱅크\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4770540003",
+  "text": "Security Researcher [산업기능요원/전문연구요원]\n\n병역특례 ・ 보안 ・ 기술 ・ 웹/앱 보안진단\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4071141003",
+  "text": "Server Developer\n\nKotlin ・ Java ・ Spring ・ Backend\n토스 외 6개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6085421003",
+  "text": "Server Developer [Commerce]\n\nKotlin ・ Java ・ Spring ・ Backend\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4773428003",
+  "text": "Server Developer [산업기능요원/전문연구요원]\n\n병역특례 ・ 개발 ・ Kotlin ・ Spring\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4700949003",
+  "text": "Site Reliability Engineer\n\nMSA ・ Kubernetes ・ Kotlin ・ Java\n토스 외 3개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7984222003",
+  "text": "Solution Account Manager\n\n솔루션 영업 ・ 테크 세일즈 ・ Account Management ・ POS\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5015455003",
+  "text": "STR Monitoring Specialist\n\nAML ・ STR ・ 모니터링 ・ 자금세탁방지\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4071449003",
+  "text": "Strategic Finance Manager [FP&A]\n\nFP&A ・ 재무모델링 ・ 재무전략 ・ 재무분석\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7988678003",
+  "text": "Strategy Manager\n\n경영전략 ・ 마켓리서치 ・ IB/VC/PE ・ 재무모델링\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7687346003",
+  "text": "System Security Team Leader\n\n보안 ・ 시스템보안 ・ 단말보안 ・ 리더십\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7795677003",
+  "text": "Systems Engineer\n\n인프라 ・ 시스템 ・ GPU\n토스 외 3개 계열사",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8016620003",
+  "text": "Talent Development Specialist\n\nHR ・ 조직문화 ・ 교육 ・ 온보딩\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6524406003",
+  "text": "Tax Manager\n\n세무 ・ TAX ・ 세무회계 ・ 결산지원\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7519850003",
+  "text": "Tech Lead [Server]\n\nBackend ・ Tech ・ Leadership ・ Server\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=4076151003",
+  "text": "Technical Account Manager\n\n기술지원 ・ 기술연동 ・ 프로세스 리딩 ・ 가맹점관리\n페이먼츠\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5452510003",
+  "text": "Technical Product Owner\n\n프로덕트 ・ 기술기반 ・ 제품고도화\n토스\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7809324003",
+  "text": "Technical Writer\n\n기술 문서 ・ 정보 설계 ・ 지식 관리\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8003123003",
+  "text": "Treasury Manager\n\n자금운용 ・ 자금조달 ・ 자금분석\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6095488003",
+  "text": "User Interview Assistant\n\n유저리크루팅 ・ 사용자모집 ・ 고객응대\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6982277003",
+  "text": "UX Researcher\n\nUX ・ UX리서치 ・ Research ・ User\n토스\n증권\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7725883003",
+  "text": "Validation Manager\n\n리스크 ・ 여신감리 ・ 적합성 검증\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7626141003",
+  "text": "Visual Design Assistant\n\n디자인 ・ 일러스트 ・ Graphic\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7792204003",
+  "text": "Visual Designer\n\n디자인 ・ Visual ・ Interaction\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7810507003",
+  "text": "Visual Designer (Brand Team)\n\nVisual ・ Branding ・ Graphic ・ BX\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6255627003",
+  "text": "Visual Designer [Design Platform Team]\n\nDesign ・ Visual ・ Design System ・ Interaction\n플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7854102003",
+  "text": "Visual Designer [Graphic Design Team]\n\n비주얼 디자인 ・ 그래픽 디자인 ・ 모션 그래픽 ・ UI 디자인\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7583944003",
+  "text": "계좌 도메인 운영 Manager\n\n증권 ・ 서비스/상품기획&운영 ・ 계좌 ・ 원장 ・ 업무개발\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=8033258003",
+  "text": "고객상담 Manager\n\n상담팀 리드 ・ 상담팀장 ・ CS팀장 ・ CS리드 ・ 고객센터 팀장 ・ 고객센터 매니저\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6106860003",
+  "text": "금융사기대응 Specialist\n\n안심보상제 ・ 전기통신금융사기 ・ 운영 ・ 환급\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=6699192003",
+  "text": "보험업 관련 포지션 인재풀 등록\n\n보험 ・ 보험대리점 ・ GA ・ 영업관리\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7627894003",
+  "text": "보험총무(토스인슈어런스 직영)_인천\n\n보험총무 ・ 생명보험 ・ 손해보험 ・ 토스인슈어런스직영 ・ 인천\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7997905003",
+  "text": "보훈특별채용 인재풀 등록\n\n인재풀 ・ 보훈\n뱅크\n인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7496941003",
+  "text": "부산센터 계약직 (상시 인재풀 운영)\n\n부산 ・ 사무보조 ・ 서류처리 ・ 운영성업무\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7797504003",
+  "text": "상담팀 리드 (토스플랫폼 전담팀)\n\n상담팀 리드 ・ 상담팀장 ・ CS팀장 ・ CS리드 ・ 고객센터 팀장 ・ 고객센터 매니저\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5586214003",
+  "text": "수신 상품 Manager\n\n상품기획 ・ 운영 ・ 규정 ・ 제도\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7924911003",
+  "text": "스크립트 기반 단순 유선안내 Assistant\n\n초단기알바 ・ 단순안내 ・ 사무보조 ・ 프로젝트\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7847718003",
+  "text": "안산 글로벌 라운지 세일즈 담당자 (Field Sales Specialist)\n\n세일즈 ・ 중국 ・ 베트남 ・ 우즈베키스탄\n토스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7621499003",
+  "text": "여신 상품 Manager (기업여신 심사)\n\n상품기획 ・ 여신 ・ 기업여신 ・ 심사\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=5417612003",
+  "text": "여신 제도 Manager\n\n상품기획 ・ 운영 ・ 규정 ・ 제도\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7761021003",
+  "text": "외환 상품 Manager (해외송금)\n\n프로덕트 ・ 서비스기획 ・ 외환 ・ FX\n뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7884532003",
+  "text": "이체/출납 도메인 운영 Manager\n\n증권 ・ 서비스/상품기획&운영 ・ 이체출납 ・ 원장 ・ 업무개발\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7798665003",
+  "text": "자문 상품 운영 Manager (Wrap 운영)\n\n증권 ・ 서비스/상품기획 ・ 자산관리 ・ 투자자문\n증권",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7481097003",
+  "text": "토스쇼핑 데이터 라벨러 (팀원)\n\n부산 ・ 쇼핑 ・ 데이터 ・ 머신러닝 ・ 라벨링 ・ 사무보조\n씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/job-detail?job_id=7820053003",
+  "text": "토스페이먼츠 신사업 초기멤버 인재풀 등록\n\n신사업 ・ 초기멤버 ・ 인재풀\n페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://tossplace.com/recruit",
+  "text": "토스플레이스\n전 직군 대규모 채용 >\n10.12(월) - 10.31(토)",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/event/ai-ml-data-2026",
+  "text": "토스 AI·ML·Data\n전직군 대규모 채용 >\n10.8(목) - 10.25(일)",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/article",
+  "text": "전체 보기",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/article/sec_tech_talk_server",
+  "text": "[토스증권] Server Developer와 함께하는 테크톡톡\n2026.10.08",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/article/sec_DE",
+  "text": "데이터에만 집중할 수 있도록, 보이지 않는 기반을 만드는 토스증권 Data Infra Team\n2026.10.08",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/article/53661",
+  "text": "NEXT 은행을 만드는 토스뱅크 디자인 직군 이야기\n2026.10.06",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/article/device",
+  "text": "직군은 나뉘어 있어도, 문제는 나뉘어 있지 않아요 : 토스플레이스 Device Team의 이야기\n2026.10.02",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career/article/tossplace_am",
+  "text": "토스플레이스 비즈니스 최전선 이야기, Account Manager를 통해 들려드려요.\n2026.10.01",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/notice",
+  "text": "공지사항",
+  "onclick": null
+ },
+ {
+  "href": "https://support.toss.im/faq",
+  "text": "자주 묻는 질문",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/cert",
+  "text": "공동인증서 관리",
+  "onclick": null
+ },
+ {
+  "href": "http://support.toss.im/suspend",
+  "text": "계정 일시잠금",
+  "onclick": null
+ },
+ {
+  "href": "https://support.toss.im/",
+  "text": "고객센터",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/user/privacy-history",
+  "text": "개인(신용)정보 이용·제공 내역 조회",
+  "onclick": null
+ },
+ {
+  "href": "https://brand.toss.im/",
+  "text": "브랜드 리소스센터",
+  "onclick": null
+ },
+ {
+  "href": "https://privacy.toss.im/",
+  "text": "토스의 개인정보 보호",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/teens/uss-card",
+  "text": "토스유스카드",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/apps-in-toss",
+  "text": "앱인토스",
+  "onclick": null
+ },
+ {
+  "href": "https://card-lounge.toss.im/?utm_source=tossofficial&utm_campaign=traffic_cardpc_footer",
+  "text": "토스 카드라운지",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/team",
+  "text": "회사 소개",
+  "onclick": null
+ },
+ {
+  "href": "https://tosspayments.com/",
+  "text": "토스페이먼츠",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/insurance",
+  "text": "토스인슈어런스",
+  "onclick": null
+ },
+ {
+  "href": "https://corp.tossinvest.com/",
+  "text": "토스증권",
+  "onclick": null
+ },
+ {
+  "href": "https://tosscx.com/",
+  "text": "토스씨엑스",
+  "onclick": null
+ },
+ {
+  "href": "https://www.tossbank.com/",
+  "text": "토스뱅크",
+  "onclick": null
+ },
+ {
+  "href": "https://tossplace.com/?referrer=toss_recruit_footer",
+  "text": "토스플레이스",
+  "onclick": null
+ },
+ {
+  "href": "https://tossmobile.co.kr/",
+  "text": "토스모바일",
+  "onclick": null
+ },
+ {
+  "href": "https://tossincome.com/?utm_source=tosshomepage_footer",
+  "text": "토스인컴",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/impact",
+  "text": "토스임팩트",
+  "onclick": null
+ },
+ {
+  "href": "https://tossinsight.im/",
+  "text": "토스인사이트",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/career",
+  "text": "채용",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.tech/",
+  "text": "기술 블로그",
+  "onclick": null
+ },
+ {
+  "href": "https://blog.toss.im/",
+  "text": "블로그",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/announcement",
+  "text": "공고",
+  "onclick": null
+ },
+ {
+  "href": "mailto:partnership@toss.im",
+  "text": "사업 제휴",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/shopping-seller?utm_source=homepage&utm_medium=homepage_lead&utm_campaign=traffic_homepage_performance&utm_content=traffic_homepage_231103",
+  "text": "토스쇼핑 입점문의",
+  "onclick": null
+ },
+ {
+  "href": "https://ads-platform.toss.im/login",
+  "text": "광고 문의",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/tosscert",
+  "text": "인증 사업 문의",
+  "onclick": null
+ },
+ {
+  "href": "mailto:support@toss.im",
+  "text": "마케팅·PR",
+  "onclick": null
+ },
+ {
+  "href": "mailto:ir@toss.im",
+  "text": "IR",
+  "onclick": null
+ },
+ {
+  "href": "tel:1599-4905",
+  "text": "전화: 1599-4905 (24시간 연중무휴)",
+  "onclick": null
+ },
+ {
+  "href": "mailto:support@toss.im",
+  "text": "이메일(고객전용): support@toss.im",
+  "onclick": null
+ },
+ {
+  "href": "mailto:safe@toss.im",
+  "text": "이메일(외부기관전용): safe@toss.im",
+  "onclick": null
+ },
+ {
+  "href": "https://support.toss.im/customer-complaint",
+  "text": "민원 접수",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/ethics",
+  "text": "상담/신고",
+  "onclick": null
+ },
+ {
+  "href": "https://www.ftc.go.kr/bizCommPop.do?wrkr_no=1208801280",
+  "text": "사업자정보확인",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/terms",
+  "text": "서비스 이용약관",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/docs/500",
+  "text": "통합 금융정보 서비스 약관",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/docs/11567",
+  "text": "마이데이터 서비스 이용약관",
+  "onclick": null
+ },
+ {
+  "href": "https://static-docs.toss.im/privacy/safety",
+  "text": "이용자의 권리 및 유의사항",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/privacy-policy?categoryId=325",
+  "text": "개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/privacy-policy?categoryId=2027",
+  "text": "채용팀 개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/privacy-policy?categoryId=2025",
+  "text": "어드민 서비스 개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/agreement/locationInfo",
+  "text": "위치기반서비스 이용약관",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/docs/10290",
+  "text": "가맹점 고지사항",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/tosscert/cps",
+  "text": "토스 전자서명인증업무준칙",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/docs/49",
+  "text": "토스 전자인증서비스 약관",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/financial-consumer-protection",
+  "text": "금융소비자보호",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/privacy-policy?categoryId=2023",
+  "text": "토스비즈니스 개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/privacy-policy?categoryId=2029",
+  "text": "퀵계좌이체 개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://service.toss.im/terms/72977",
+  "text": "정산자금 보호조치",
+  "onclick": null
+ },
+ {
+  "href": "https://service.toss.im/terms/86571",
+  "text": "청소년 보호정책",
+  "onclick": null
+ },
+ {
+  "href": "https://service.toss.im/terms/83213",
+  "text": "토스스팟 서비스 이용약관",
+  "onclick": null
+ },
+ {
+  "href": "https://service.toss.im/terms/83240",
+  "text": "토스스팟 사장님 이용약관",
+  "onclick": null
+ },
+ {
+  "href": "https://service.toss.im/terms/86542",
+  "text": "토스스팟 위치기반 서비스 이용약관",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/privacy-policy?id=49957",
+  "text": "토스스팟 개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://toss.im/tossfeed",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://blog.naver.com/tossblog",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://x.com/toss__official",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://www.instagram.com/toss.im/",
+  "text": "",
+  "onclick": null
+ }
+]

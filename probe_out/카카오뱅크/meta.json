@@ -1,0 +1,9 @@
+{
+ "name": "카카오뱅크",
+ "url": "https://recruit.kakaobank.com/jobs",
+ "static_status": 200,
+ "static_final_url": "https://recruit.kakaobank.com/jobs",
+ "rendered_final_url": "https://recruit.kakaobank.com/jobs",
+ "anchor_count": 121,
+ "xhr_count": 11
+}

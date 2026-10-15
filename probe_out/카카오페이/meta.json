@@ -1,0 +1,9 @@
+{
+ "name": "카카오페이",
+ "url": "https://careers.kakaopay.com/ko/main",
+ "static_status": 200,
+ "static_final_url": "https://careers.kakaopay.com/ko/main",
+ "rendered_final_url": "https://careers.kakaopay.com/ko/main",
+ "anchor_count": 50,
+ "xhr_count": 5
+}

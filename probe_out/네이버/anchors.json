@@ -1,0 +1,577 @@
+[
+ {
+  "href": "https://recruit.navercorp.com/main.do",
+  "text": "NAVER Careers",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/tech",
+  "text": "Teams",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/tech",
+  "text": "Tech",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/design",
+  "text": "Design",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/service",
+  "text": "Service & Business",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/corporate",
+  "text": "Corporate",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/people",
+  "text": "People",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/benefits",
+  "text": "Benefits",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/culture",
+  "text": "Culture",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/value",
+  "text": "Value",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do",
+  "text": "Jobs",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/bbs/faq.do",
+  "text": "FAQ",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#",
+  "text": "KR",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?lang=en",
+  "text": "EN",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "Teams",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/tech",
+  "text": "Tech",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/design",
+  "text": "Design",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/service",
+  "text": "Service & Business",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/corporate",
+  "text": "Corporate",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/people",
+  "text": "People",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/benefits",
+  "text": "Benefits",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/culture",
+  "text": "Culture",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/value",
+  "text": "Value",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do",
+  "text": "Jobs",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/bbs/faq.do",
+  "text": "FAQ",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?lang=ko",
+  "text": "KR",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?lang=en",
+  "text": "EN",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list_prev.do",
+  "text": "지난 공개 채용 다시보기",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[NAVER] 네이버쇼핑 부문별 운영 담당자 (계약) - N배송 운영 지원 부문\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n무관 \n근로 조건\n계약 \n모집 기간\n2026.09.16 ~ 2026.12.31",
+  "onclick": "show('30005457')"
+ },
+ {
+  "href": "javascript:share('blog','30005457','[NAVER] %EB%84%A4%EC%9D%B4%EB%B2%84%EC%87%BC%ED%95%91 %EB%B6%80%EB%AC%B8%EB%B3%84 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9%EC%9E%90 (%EA%B3%84%EC%95%BD) - N%EB%B0%B0%EC%86%A1 %EC%9A%B4%EC%98%81 %EC%A7%80%EC%9B%90 %EB%B6%80%EB%AC%B8');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005457','[NAVER] %EB%84%A4%EC%9D%B4%EB%B2%84%EC%87%BC%ED%95%91 %EB%B6%80%EB%AC%B8%EB%B3%84 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9%EC%9E%90 (%EA%B3%84%EC%95%BD) - N%EB%B0%B0%EC%86%A1 %EC%9A%B4%EC%98%81 %EC%A7%80%EC%9B%90 %EB%B6%80%EB%AC%B8');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005457','[NAVER] %EB%84%A4%EC%9D%B4%EB%B2%84%EC%87%BC%ED%95%91 %EB%B6%80%EB%AC%B8%EB%B3%84 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9%EC%9E%90 (%EA%B3%84%EC%95%BD) - N%EB%B0%B0%EC%86%A1 %EC%9A%B4%EC%98%81 %EC%A7%80%EC%9B%90 %EB%B6%80%EB%AC%B8');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005457','[NAVER] %EB%84%A4%EC%9D%B4%EB%B2%84%EC%87%BC%ED%95%91 %EB%B6%80%EB%AC%B8%EB%B3%84 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9%EC%9E%90 (%EA%B3%84%EC%95%BD) - N%EB%B0%B0%EC%86%A1 %EC%9A%B4%EC%98%81 %EC%A7%80%EC%9B%90 %EB%B6%80%EB%AC%B8');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005457','[NAVER] %EB%84%A4%EC%9D%B4%EB%B2%84%EC%87%BC%ED%95%91 %EB%B6%80%EB%AC%B8%EB%B3%84 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9%EC%9E%90 (%EA%B3%84%EC%95%BD) - N%EB%B0%B0%EC%86%A1 %EC%9A%B4%EC%98%81 %EC%A7%80%EC%9B%90 %EB%B6%80%EB%AC%B8', 'naver');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005457','[NAVER] %EB%84%A4%EC%9D%B4%EB%B2%84%EC%87%BC%ED%95%91 %EB%B6%80%EB%AC%B8%EB%B3%84 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9%EC%9E%90 (%EA%B3%84%EC%95%BD) - N%EB%B0%B0%EC%86%A1 %EC%9A%B4%EC%98%81 %EC%A7%80%EC%9B%90 %EB%B6%80%EB%AC%B8');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[네이버웹툰] 전략 Staff (Strategy Staff) (경력)\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n2026.10.02 ~ 2026.10.18",
+  "onclick": "show('30005527')"
+ },
+ {
+  "href": "javascript:share('blog','30005527','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%A0%84%EB%9E%B5 Staff (Strategy Staff) (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005527','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%A0%84%EB%9E%B5 Staff (Strategy Staff) (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005527','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%A0%84%EB%9E%B5 Staff (Strategy Staff) (%EA%B2%BD%EB%A0%A5)');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005527','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%A0%84%EB%9E%B5 Staff (Strategy Staff) (%EA%B2%BD%EB%A0%A5)');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005527','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%A0%84%EB%9E%B5 Staff (Strategy Staff) (%EA%B2%BD%EB%A0%A5)', 'webtoon');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005527','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%A0%84%EB%9E%B5 Staff (Strategy Staff) (%EA%B2%BD%EB%A0%A5)');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[네이버웹툰] 독일어 Localization Project Coordinator (계약직)\n모집 부서\nService & Business \n모집 분야\nContent Development \n모집 경력\n무관 \n근로 조건\n계약 \n모집 기간\n2026.09.28 ~ 2026.10.18",
+  "onclick": "show('30005511')"
+ },
+ {
+  "href": "javascript:share('blog','30005511','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EB%8F%85%EC%9D%BC%EC%96%B4 Localization Project Coordinator (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005511','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EB%8F%85%EC%9D%BC%EC%96%B4 Localization Project Coordinator (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005511','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EB%8F%85%EC%9D%BC%EC%96%B4 Localization Project Coordinator (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005511','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EB%8F%85%EC%9D%BC%EC%96%B4 Localization Project Coordinator (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005511','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EB%8F%85%EC%9D%BC%EC%96%B4 Localization Project Coordinator (%EA%B3%84%EC%95%BD%EC%A7%81)', 'webtoon');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005511','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EB%8F%85%EC%9D%BC%EC%96%B4 Localization Project Coordinator (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[SNOW] 남미(스페인어권) 컨텐츠 마케터 (계약직)\n모집 부서\nService & Business \n모집 분야\n공통 \n모집 경력\n무관 \n근로 조건\n계약 \n모집 기간\n2026.09.29 ~ 2026.10.21",
+  "onclick": "show('30005516')"
+ },
+ {
+  "href": "javascript:share('blog','30005516','[SNOW] %EB%82%A8%EB%AF%B8(%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%EA%B6%8C) %EC%BB%A8%ED%85%90%EC%B8%A0 %EB%A7%88%EC%BC%80%ED%84%B0 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005516','[SNOW] %EB%82%A8%EB%AF%B8(%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%EA%B6%8C) %EC%BB%A8%ED%85%90%EC%B8%A0 %EB%A7%88%EC%BC%80%ED%84%B0 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005516','[SNOW] %EB%82%A8%EB%AF%B8(%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%EA%B6%8C) %EC%BB%A8%ED%85%90%EC%B8%A0 %EB%A7%88%EC%BC%80%ED%84%B0 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005516','[SNOW] %EB%82%A8%EB%AF%B8(%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%EA%B6%8C) %EC%BB%A8%ED%85%90%EC%B8%A0 %EB%A7%88%EC%BC%80%ED%84%B0 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005516','[SNOW] %EB%82%A8%EB%AF%B8(%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%EA%B6%8C) %EC%BB%A8%ED%85%90%EC%B8%A0 %EB%A7%88%EC%BC%80%ED%84%B0 (%EA%B3%84%EC%95%BD%EC%A7%81)', 'snow');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005516','[SNOW] %EB%82%A8%EB%AF%B8(%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%EA%B6%8C) %EC%BB%A8%ED%85%90%EC%B8%A0 %EB%A7%88%EC%BC%80%ED%84%B0 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[네이버웹툰] 웹툰 콘텐츠 제휴·소싱 담당 (경력)\n모집 부서\nService & Business \n모집 분야\nContent Development \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n2026.10.08 ~ 2026.10.25",
+  "onclick": "show('30005550')"
+ },
+ {
+  "href": "javascript:share('blog','30005550','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%9B%B9%ED%88%B0 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%ED%9C%B4%C2%B7%EC%86%8C%EC%8B%B1 %EB%8B%B4%EB%8B%B9 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005550','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%9B%B9%ED%88%B0 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%ED%9C%B4%C2%B7%EC%86%8C%EC%8B%B1 %EB%8B%B4%EB%8B%B9 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005550','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%9B%B9%ED%88%B0 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%ED%9C%B4%C2%B7%EC%86%8C%EC%8B%B1 %EB%8B%B4%EB%8B%B9 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005550','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%9B%B9%ED%88%B0 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%ED%9C%B4%C2%B7%EC%86%8C%EC%8B%B1 %EB%8B%B4%EB%8B%B9 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005550','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%9B%B9%ED%88%B0 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%ED%9C%B4%C2%B7%EC%86%8C%EC%8B%B1 %EB%8B%B4%EB%8B%B9 (%EA%B2%BD%EB%A0%A5)', 'webtoon');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005550','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%9B%B9%ED%88%B0 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%ED%9C%B4%C2%B7%EC%86%8C%EC%8B%B1 %EB%8B%B4%EB%8B%B9 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[네이버웹툰] 콘텐츠 전략 PM / Content Strategy PM (경력)\n모집 부서\nService & Business \n모집 분야\nContent Development \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n2026.10.06 ~ 2026.10.25",
+  "onclick": "show('30005543')"
+ },
+ {
+  "href": "javascript:share('blog','30005543','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%84%EB%9E%B5 PM / Content Strategy PM (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005543','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%84%EB%9E%B5 PM / Content Strategy PM (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005543','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%84%EB%9E%B5 PM / Content Strategy PM (%EA%B2%BD%EB%A0%A5)');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005543','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%84%EB%9E%B5 PM / Content Strategy PM (%EA%B2%BD%EB%A0%A5)');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005543','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%84%EB%9E%B5 PM / Content Strategy PM (%EA%B2%BD%EB%A0%A5)', 'webtoon');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005543','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%84%EB%9E%B5 PM / Content Strategy PM (%EA%B2%BD%EB%A0%A5)');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[NAVER Cloud] 클라우드 비즈니스 영업/파트너 지원 (계약)\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n경력 \n근로 조건\n계약 \n모집 기간\n2026.10.14 ~ 2026.10.30",
+  "onclick": "show('30005556')"
+ },
+ {
+  "href": "javascript:share('blog','30005556','[NAVER Cloud] %ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C %EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4 %EC%98%81%EC%97%85/%ED%8C%8C%ED%8A%B8%EB%84%88 %EC%A7%80%EC%9B%90 (%EA%B3%84%EC%95%BD)');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005556','[NAVER Cloud] %ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C %EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4 %EC%98%81%EC%97%85/%ED%8C%8C%ED%8A%B8%EB%84%88 %EC%A7%80%EC%9B%90 (%EA%B3%84%EC%95%BD)');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005556','[NAVER Cloud] %ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C %EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4 %EC%98%81%EC%97%85/%ED%8C%8C%ED%8A%B8%EB%84%88 %EC%A7%80%EC%9B%90 (%EA%B3%84%EC%95%BD)');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005556','[NAVER Cloud] %ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C %EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4 %EC%98%81%EC%97%85/%ED%8C%8C%ED%8A%B8%EB%84%88 %EC%A7%80%EC%9B%90 (%EA%B3%84%EC%95%BD)');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005556','[NAVER Cloud] %ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C %EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4 %EC%98%81%EC%97%85/%ED%8C%8C%ED%8A%B8%EB%84%88 %EC%A7%80%EC%9B%90 (%EA%B3%84%EC%95%BD)', 'navercloud');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005556','[NAVER Cloud] %ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C %EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4 %EC%98%81%EC%97%85/%ED%8C%8C%ED%8A%B8%EB%84%88 %EC%A7%80%EC%9B%90 (%EA%B3%84%EC%95%BD)');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[네이버웹툰] 영어(북미) 현지화 프로젝트 매니저 (경력)\n모집 부서\nService & Business \n모집 분야\nContent Development \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n2026.10.07 ~ 2026.11.01",
+  "onclick": "show('30005546')"
+ },
+ {
+  "href": "javascript:share('blog','30005546','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%98%81%EC%96%B4(%EB%B6%81%EB%AF%B8) %ED%98%84%EC%A7%80%ED%99%94 %ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8 %EB%A7%A4%EB%8B%88%EC%A0%80 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005546','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%98%81%EC%96%B4(%EB%B6%81%EB%AF%B8) %ED%98%84%EC%A7%80%ED%99%94 %ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8 %EB%A7%A4%EB%8B%88%EC%A0%80 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005546','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%98%81%EC%96%B4(%EB%B6%81%EB%AF%B8) %ED%98%84%EC%A7%80%ED%99%94 %ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8 %EB%A7%A4%EB%8B%88%EC%A0%80 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005546','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%98%81%EC%96%B4(%EB%B6%81%EB%AF%B8) %ED%98%84%EC%A7%80%ED%99%94 %ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8 %EB%A7%A4%EB%8B%88%EC%A0%80 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005546','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%98%81%EC%96%B4(%EB%B6%81%EB%AF%B8) %ED%98%84%EC%A7%80%ED%99%94 %ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8 %EB%A7%A4%EB%8B%88%EC%A0%80 (%EA%B2%BD%EB%A0%A5)', 'webtoon');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005546','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] %EC%98%81%EC%96%B4(%EB%B6%81%EB%AF%B8) %ED%98%84%EC%A7%80%ED%99%94 %ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8 %EB%A7%A4%EB%8B%88%EC%A0%80 (%EA%B2%BD%EB%A0%A5)');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[네이버웹툰] IP 사업 운영 담당 (계약직)\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n무관 \n근로 조건\n계약 \n모집 기간\n2026.10.15 ~ 2026.11.01",
+  "onclick": "show('30005573')"
+ },
+ {
+  "href": "javascript:share('blog','30005573','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] IP %EC%82%AC%EC%97%85 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005573','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] IP %EC%82%AC%EC%97%85 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005573','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] IP %EC%82%AC%EC%97%85 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005573','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] IP %EC%82%AC%EC%97%85 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005573','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] IP %EC%82%AC%EC%97%85 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9 (%EA%B3%84%EC%95%BD%EC%A7%81)', 'webtoon');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005573','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] IP %EC%82%AC%EC%97%85 %EC%9A%B4%EC%98%81 %EB%8B%B4%EB%8B%B9 (%EA%B3%84%EC%95%BD%EC%A7%81)');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000#n",
+  "text": "[네이버웹툰] EN Growth Manager (경력)\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n2026.10.06 ~ 2026.11.09",
+  "onclick": "show('30005542')"
+ },
+ {
+  "href": "javascript:share('blog','30005542','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] EN Growth Manager (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005542','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] EN Growth Manager (%EA%B2%BD%EB%A0%A5)');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005542','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] EN Growth Manager (%EA%B2%BD%EB%A0%A5)');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005542','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] EN Growth Manager (%EA%B2%BD%EB%A0%A5)');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005542','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] EN Growth Manager (%EA%B2%BD%EB%A0%A5)', 'webtoon');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005542','[%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9B%B9%ED%88%B0] EN Growth Manager (%EA%B2%BD%EB%A0%A5)');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://navercorp.com/",
+  "text": "© NAVER Corp.",
+  "onclick": null
+ },
+ {
+  "href": "https://www.navercorp.com/policy/privacy",
+  "text": "개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://navercorp.com/",
+  "text": "NAVER Corp.",
+  "onclick": null
+ },
+ {
+  "href": "https://fficial.naver.com/",
+  "text": "NAVERfficial",
+  "onclick": null
+ },
+ {
+  "href": "https://blog.naver.com/naverofficial",
+  "text": "NAVER Official Blog",
+  "onclick": null
+ },
+ {
+  "href": "https://tv.naver.com/playnaver",
+  "text": "PLAY NAVER",
+  "onclick": null
+ },
+ {
+  "href": "https://channeltech.naver.com/",
+  "text": "CH. TECH",
+  "onclick": null
+ },
+ {
+  "href": "https://d2.naver.com/home",
+  "text": "NAVER D2",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercloudcorp.com/",
+  "text": "NAVER Cloud",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.snowcorp.com/",
+  "text": "SNOW",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.naverlabs.com/",
+  "text": "NAVER LABS",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.webtoonscorp.com/",
+  "text": "NAVER WEBTOON",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.naverfincorp.com/",
+  "text": "NAVER FINANCIAL",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.naverins.com/",
+  "text": "NAVER I&S",
+  "onclick": null
+ }
+]

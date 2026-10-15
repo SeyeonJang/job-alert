@@ -1,0 +1,9 @@
+{
+ "name": "네이버페이",
+ "url": "https://recruit.naverfincorp.com/rcrt/list.do",
+ "static_status": 200,
+ "static_final_url": "https://recruit.naverfincorp.com/rcrt/list.do",
+ "rendered_final_url": "https://recruit.naverfincorp.com/rcrt/list.do",
+ "anchor_count": 30,
+ "xhr_count": 0
+}

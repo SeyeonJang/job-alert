@@ -1,0 +1,9 @@
+{
+ "name": "네이버",
+ "url": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000",
+ "static_status": 200,
+ "static_final_url": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000",
+ "rendered_final_url": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=3000000",
+ "anchor_count": 115,
+ "xhr_count": 0
+}

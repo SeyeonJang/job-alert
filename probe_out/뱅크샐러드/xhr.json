@@ -1,0 +1,130 @@
+[
+ {
+  "url": "https://sr-client-cfg.amplitude.com/config/70165f5cda5812a2a498cf94f4282e58?config_group=browser",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 99,
+  "body": "{\"configs\":{\"diagnostics\":{\"browserSDK\":{\"sampleRate\":0.02}},\"sessionReplay\":{},\"analyticsSDK\":{}}}"
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/app-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 50,
+  "body": "{\"webpackCompilationHash\":\"862d5ea994da11306ade\"}\n"
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/jobs/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 131,
+  "body": "{\"componentChunkName\":\"component---src-pages-jobs-js\",\"path\":\"/jobs/\",\"result\":{\"pageContext\":{}},\"staticQueryHashes\":[\"63159454\"]}"
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/sq/d/63159454.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 134,
+  "body": "{\"data\":{\"site\":{\"siteMetadata\":{\"title\":\"뱅크샐러드\",\"description\":\"850만이 선택한 내 돈 관리 앱 뱅크샐러드로 새로운 돈 관리를 시작해보세요.\",\"author\":\"@banksalad\"}}}}"
+ },
+ {
+  "url": "https://analytics-proxy.banksalad.com/2/httpapi",
+  "status": 200,
+  "method": "POST",
+  "post_data": "{\"api_key\":\"70165f5cda5812a2a498cf94f4282e58\",\"events\":[{\"device_id\":\"12ef0686-a828-454a-b282-488a05998b85\",\"session_id\":1792074289796,\"time\":1792074289802,\"platform\":\"Web\",\"language\":\"ko-KR\",\"ip\":\"$remote\",\"insert_id\":\"19935a28-1683-4f9b-a17e-d399aeb244c9\",\"event_type\":\"$identify\",\"user_properties\":{\"$setOnce\":{\"initial_utm_campaign\":\"EMPTY\",\"initial_utm_content\":\"EMPTY\",\"initial_utm_id\":\"EMPTY\",\"initial_utm_medium\":\"EMPTY\",\"initial_utm_source\":\"EMPTY\",\"initial_utm_term\":\"EMPTY\",\"initial_referrer\":\"EMPTY\",\"initial_referring_domain\":\"EMPTY\",\"initial_dclid\":\"EMPTY\",\"initial_gbraid\":\"EMPTY\",\"initial_gclid\":\"EMPTY\",\"initial_fbclid\":\"EMPTY\",\"initial_ko_click_id\":\"EMPTY\",\"initial_li_fat_id\":\"EMPTY\",\"initial_msclkid\":\"EMPTY\",\"initial_rdt_cid\":\"EMPTY\",\"initial_ttclid\":\"EMPTY\",\"initial_twclid\":\"EMPTY\",\"initial_wbraid\":\"EMPTY\"},\"$unset\":{\"utm_campaign\":\"-\",\"utm_content\":\"-\",\"utm_id\":\"-\",\"utm_medium\":\"-\",\"utm_source\":\"-\",\"utm_term\":\"-\",\"referrer\":\"-\",\"referring_domain\":\"-\",\"dclid\":\"-\",\"gbraid\":\"-\",\"gclid\":\"-\",\"fbclid\":\"-\",\"ko_click_id\":\"-\",\"li_fat_id\":\"-\",\"msclkid\":\"-\",\"rdt_cid\":\"-\",\"ttclid\":\"-\",\"twclid\":\"-\",\"wbraid\":\"-\"}},\"event_id\":0,\"library\":\"amplitude-ts/2.30.1\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36\"},{\"device_id\":\"12ef0686-a828-454a-b282-488a05998b85\",\"session_id\":1792074289796,\"time\":1792074289796,\"platform\":\"Web\",\"language\":\"ko-KR\",\"ip\":\"$remote\",\"insert_id\":\"50a6df0f-003b-4c6a-96ef-b1146f76975a\",\"event_type\":\"session_start\",\"event_id\":1,\"library\":\"amplitude-ts/2.30.1\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36\",\"event_properties\":{\"[Amplitude] Page Domain\":\"corp.banksalad.com\",\"[Amplitude] Page Location\":\"https://corp.banksalad.com/jobs/\",\"[Amplitude] Page Path\":\"/jobs/\",\"[Amplitude] Page Title\":\"채용공고 | 뱅크샐러드 채용\",\"[Amplitude] Page URL\":\"https://corp.banksalad.com/jobs/\",\"[Amplitude] Previous Page Location\":\"\",\"[Amplitude] Previous Page Type\":\"direct\"}},{\"device_id\":\"12ef0686-a828-454a-b282-488a05998b85\",\"session_id\":1792074289796,\"time\":1792074289805,\"platform\":\"Web\",\"language\":\"ko-KR\",\"ip\":\"$remote\",\"insert_id\":\"0fbb2466-8d9b-47ff-be8c-4cbaac1b7098\",\"event_type\":\"[Amplitude] Page Viewed\",\"event_properties\":{\"[Amplitude] Page Domain\":\"corp.banksalad.com\",\"[Amplitude] Page Location\":\"https://corp.banksalad.com/jobs/\",\"[Amplitude] Page Path\":\"/jobs/\",\"[Amplitude] Page Title\":\"채용공고 | 뱅크샐러드 채용\",\"[Amplitude] Page URL\":\"https://corp.banksalad.com/jobs/\",\"[Amplitude] Page Counter\":1,\"[Amplitude] Previous Page Location\":\"\",\"[Amplitude] Previous Page Type\":\"direct\"},\"event_id\":2,\"library\":\"amplitude-ts/2.30.1\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36\"}],\"options\":{},\"client_upload_time\":\"2026-10-15T14:24:50.804Z\"}",
+  "len": 93,
+  "body": "{\"code\":200,\"server_upload_time\":1792074291068,\"payload_size_bytes\":2939,\"events_ingested\":3}"
+ },
+ {
+  "url": "https://www.banksalad.com/proxy/api/greeting/openings",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 2701,
+  "body": "{\"jobs\":[{\"department\":\"세일즈\",\"data\":[{\"id\":91296,\"title\":\"[채용연계형 인턴십] AI Native Operation Manager\",\"job\":\"세일즈\",\"employmentType\":\"계약직\",\"url\":\"https://banksalad.career.greetinghr.com/o/91296\",\"activatedAtCareerPage\":false},{\"id\":91378,\"title\":\"[최초채용] [리더십] Head of Business (사업총괄)\",\"job\":\"세일즈\",\"employmentType\":\"정규직\",\"careerInfo\":{\"from\":15,\"type\":\"EXPERIENCED\"},\"url\":\"https://banksalad.career.greetinghr.com/o/91378\",\"activatedAtCareerPage\":false}]},{\"department\":\"마케팅\",\"data\":[{\"id\":127743,\"title\":\"Contents Marketer (계약직)\",\"job\":\"마케팅\",\"employmentType\":\"계약직\",\"careerInfo\":{\"type\":\"NOT_MATTER\"},\"url\":\"https://banksalad.career.greetinghr.com/o/127743\",\"activatedAtCareerPage\":false}]},{\"department\":\"경영관리\",\"data\":[{\"id\":167063,\"title\":\"Senior People & Culture Manager (인사 담당자)\",\"job\":\"경영관리\",\"employmentType\":\"정규직\",\"careerInfo\":{\"from\":6,\"type\":\"EXPERIENCED\"},\"url\":\"https://banksalad.career.greetinghr.com/o/167063\",\"activatedAtCareerPage\":false}]},{\"department\":\"테크\",\"data\":[{\"id\":172603,\"title\":\"[Frontier] AI Native Server Engineer (AI 네이티브 서버 엔지니어)\",\"job\":\"테크\",\"employmentType\":\"정규직\",\"careerInfo\":{\"from\":5,\"type\":\"EXPERIENCED\"},\"url\":\"https://banksalad.career.greetinghr.com/o/172603\",\"activatedAtCareerPage\":false},{\"id\":240592,\"title\":\"[최초채용] [초기멤버] Forward Deployed Engineer (BFS Founder Team)\",\"job\":\"테크\",\"employmentType\":\"정규직\",\"careerInfo\":{\"from\":5,\"type\":\"EXPERIENCED\"},\"url\":\"https://banksalad.career.greetinghr.com/o/240592\",\"activatedAtCareerPage\":false}]},{\"department\":\"보험 GA\",\"data\":[{\"id\":201702,\"title\":\"[초기멤버] Insurance Solution Coach (보험 솔루션 팀 코치)\",\"job\":\"보험 GA\",\"employmentType\":\"정규직\",\"careerInfo\":{\"from\":5,\"type\":\"EXPERIENCED\"},\"url\":\"https://banksalad.career.greetinghr.com/o/201702\",\"activatedAtCareerPage\":false}]},{\"department\":\"제품기획\",\"data\":[{\"id\":220227,\"title\":\"[초기멤버] Product Manager (프로덕트 매니저, 보험)\",\"job\":\"제품기획\",\"employmentType\":\"정규직\",\"careerInfo\":{\"from\":5,\"type\":\"EXPERIENCED\"},\"url\":\"https://banksalad.career.greetinghr.com/o/220227\",\"activatedAtCareerPage\":false},{\"id\":220228,\"title\":\"[최초채용] [리더십] Platform Product Lead (플랫폼 프로덕트 리드)\",\"job\":\"제품기획\",\"employmentType\":\"정규직\",\"careerInfo\":{\"from\":10,\"type\":\"EXPERIENCED\"},\"url\":\"https://banksalad.career.greetinghr.com/o/220228\",\"activatedAtCareerPage\":false},{\"id\":221099,\"title\":\"[초기멤버] [리더십] Product Lead (프로덕트 리드, 광고)\",\"job\":\"제품기획\",\"employmentType\":\"정규직\",\"careerInfo\":{\"from\":8,\"type\":\"EXPERIENCED\"},\"url\":\"https://banksalad.career.greetinghr.com/o/221099\",\"activatedAtCareerPage\":false},{\"id\":231360,\"title\":\"[최초채용] [리더십] Head of Product\",\"job\":\"제품기획\",\"employmentType\":\"정규직\",\"careerInfo\":{\"from\":10,\"type\":\"EXPERIENCED\"},\"url\":\"https://banksalad.career.greetinghr.com/o/231360\",\"activatedAtCareerPage\":false}]}]}"
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/culture/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 0,
+  "body": ""
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/culture/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 137,
+  "body": "{\"componentChunkName\":\"component---src-pages-culture-js\",\"path\":\"/culture/\",\"result\":{\"pageContext\":{}},\"staticQueryHashes\":[\"63159454\"]}"
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/about/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 0,
+  "body": ""
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/about/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 133,
+  "body": "{\"componentChunkName\":\"component---src-pages-about-js\",\"path\":\"/about/\",\"result\":{\"pageContext\":{}},\"staticQueryHashes\":[\"63159454\"]}"
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/index/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 0,
+  "body": ""
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/index/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 127,
+  "body": "{\"componentChunkName\":\"component---src-pages-index-js\",\"path\":\"/\",\"result\":{\"pageContext\":{}},\"staticQueryHashes\":[\"63159454\"]}"
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/joining-guide/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 0,
+  "body": ""
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/joining-guide/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 149,
+  "body": "{\"componentChunkName\":\"component---src-pages-joining-guide-js\",\"path\":\"/joining-guide/\",\"result\":{\"pageContext\":{}},\"staticQueryHashes\":[\"63159454\"]}"
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/about/financialservice/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 0,
+  "body": ""
+ },
+ {
+  "url": "https://corp.banksalad.com/page-data/about/financialservice/page-data.json",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 167,
+  "body": "{\"componentChunkName\":\"component---src-pages-about-financialservice-js\",\"path\":\"/about/financialservice/\",\"result\":{\"pageContext\":{}},\"staticQueryHashes\":[\"63159454\"]}"
+ }
+]

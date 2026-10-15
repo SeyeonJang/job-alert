@@ -1,0 +1,622 @@
+[
+ {
+  "href": "https://recruit.kreamcorp.com/main.do",
+  "text": "KREAM Careers",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/tech",
+  "text": "Teams",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/tech",
+  "text": "Tech",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/design",
+  "text": "Design",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/service",
+  "text": "Service & Business",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/corporate",
+  "text": "Corporate",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/people",
+  "text": "People",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/benefits",
+  "text": "Culture & Benefits",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do",
+  "text": "Jobs",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/bbs/faq.do",
+  "text": "FAQ",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "Teams",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/tech",
+  "text": "Tech",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/design",
+  "text": "Design",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/service",
+  "text": "Service & Business",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/corporate",
+  "text": "Corporate",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/people",
+  "text": "People",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/benefits",
+  "text": "Culture & Benefits",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do",
+  "text": "Jobs",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/bbs/faq.do",
+  "text": "FAQ",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list_prev.do",
+  "text": "지난 공개 채용 다시보기",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] FP&A 담당자 모집\n모집 부서\nCorporate \n모집 분야\n재무기획 \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n상시모집",
+  "onclick": "show('30005419')"
+ },
+ {
+  "href": "javascript:share('blog','30005419','[KREAM] FP&A %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005419','[KREAM] FP&A %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005419','[KREAM] FP&A %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005419','[KREAM] FP&A %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005419','[KREAM] FP&A %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005419','[KREAM] FP&A %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] IT 보안 기술 담당자 모집\n모집 부서\nTech \n모집 분야\nSecurity \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n상시모집",
+  "onclick": "show('30005399')"
+ },
+ {
+  "href": "javascript:share('blog','30005399','[KREAM] IT %EB%B3%B4%EC%95%88 %EA%B8%B0%EC%88%A0 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005399','[KREAM] IT %EB%B3%B4%EC%95%88 %EA%B8%B0%EC%88%A0 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005399','[KREAM] IT %EB%B3%B4%EC%95%88 %EA%B8%B0%EC%88%A0 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005399','[KREAM] IT %EB%B3%B4%EC%95%88 %EA%B8%B0%EC%88%A0 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005399','[KREAM] IT %EB%B3%B4%EC%95%88 %EA%B8%B0%EC%88%A0 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005399','[KREAM] IT %EB%B3%B4%EC%95%88 %EA%B8%B0%EC%88%A0 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] 개인정보보호 담당자 모집\n모집 부서\nTech \n모집 분야\nSecurity \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n상시모집",
+  "onclick": "show('30005141')"
+ },
+ {
+  "href": "javascript:share('blog','30005141','[KREAM] %EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005141','[KREAM] %EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005141','[KREAM] %EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005141','[KREAM] %EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005141','[KREAM] %EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005141','[KREAM] %EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8 %EB%8B%B4%EB%8B%B9%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] 플랫폼 프로모션 마케터 모집\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n상시모집",
+  "onclick": "show('30005105')"
+ },
+ {
+  "href": "javascript:share('blog','30005105','[KREAM] %ED%94%8C%EB%9E%AB%ED%8F%BC %ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98 %EB%A7%88%EC%BC%80%ED%84%B0 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005105','[KREAM] %ED%94%8C%EB%9E%AB%ED%8F%BC %ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98 %EB%A7%88%EC%BC%80%ED%84%B0 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005105','[KREAM] %ED%94%8C%EB%9E%AB%ED%8F%BC %ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98 %EB%A7%88%EC%BC%80%ED%84%B0 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005105','[KREAM] %ED%94%8C%EB%9E%AB%ED%8F%BC %ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98 %EB%A7%88%EC%BC%80%ED%84%B0 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005105','[KREAM] %ED%94%8C%EB%9E%AB%ED%8F%BC %ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98 %EB%A7%88%EC%BC%80%ED%84%B0 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005105','[KREAM] %ED%94%8C%EB%9E%AB%ED%8F%BC %ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98 %EB%A7%88%EC%BC%80%ED%84%B0 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] Partner Backend 개발자 모집\n모집 부서\nTech \n모집 분야\nBackend \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n상시모집",
+  "onclick": "show('30003147')"
+ },
+ {
+  "href": "javascript:share('blog','30003147','[KREAM] Partner Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30003147','[KREAM] Partner Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30003147','[KREAM] Partner Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30003147','[KREAM] Partner Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30003147','[KREAM] Partner Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30003147','[KREAM] Partner Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] Service Backend 개발자 모집\n모집 부서\nTech \n모집 분야\nBackend \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n상시모집",
+  "onclick": "show('30002218')"
+ },
+ {
+  "href": "javascript:share('blog','30002218','[KREAM] Service Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30002218','[KREAM] Service Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30002218','[KREAM] Service Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30002218','[KREAM] Service Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30002218','[KREAM] Service Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30002218','[KREAM] Service Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM Pay] DevOps 엔지니어 모집\n모집 부서\nTech \n모집 분야\nBackend \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n상시모집",
+  "onclick": "show('30004748')"
+ },
+ {
+  "href": "javascript:share('blog','30004748','[KREAM Pay] DevOps %EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30004748','[KREAM Pay] DevOps %EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30004748','[KREAM Pay] DevOps %EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30004748','[KREAM Pay] DevOps %EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30004748','[KREAM Pay] DevOps %EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4 %EB%AA%A8%EC%A7%91', 'kreampay');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30004748','[KREAM Pay] DevOps %EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM Pay] Backend 개발자 모집\n모집 부서\nTech \n모집 분야\nBackend \n모집 경력\n경력 \n근로 조건\n정규 \n모집 기간\n상시모집",
+  "onclick": "show('30004712')"
+ },
+ {
+  "href": "javascript:share('blog','30004712','[KREAM Pay] Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30004712','[KREAM Pay] Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30004712','[KREAM Pay] Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30004712','[KREAM Pay] Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30004712','[KREAM Pay] Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91', 'kreampay');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30004712','[KREAM Pay] Backend %EA%B0%9C%EB%B0%9C%EC%9E%90 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] 디지털 마케팅 기획 체험형 인턴 모집\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n신입 \n근로 조건\n인턴 \n모집 기간\n2026.10.15 ~ 2026.10.21",
+  "onclick": "show('30005572')"
+ },
+ {
+  "href": "javascript:share('blog','30005572','[KREAM] %EB%94%94%EC%A7%80%ED%84%B8 %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005572','[KREAM] %EB%94%94%EC%A7%80%ED%84%B8 %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005572','[KREAM] %EB%94%94%EC%A7%80%ED%84%B8 %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005572','[KREAM] %EB%94%94%EC%A7%80%ED%84%B8 %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005572','[KREAM] %EB%94%94%EC%A7%80%ED%84%B8 %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005572','[KREAM] %EB%94%94%EC%A7%80%ED%84%B8 %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] 영상 콘텐츠 제작 체험형 인턴 모집\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n신입 \n근로 조건\n인턴 \n모집 기간\n2026.10.15 ~ 2026.10.27",
+  "onclick": "show('30005571')"
+ },
+ {
+  "href": "javascript:share('blog','30005571','[KREAM] %EC%98%81%EC%83%81 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%EC%9E%91 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005571','[KREAM] %EC%98%81%EC%83%81 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%EC%9E%91 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005571','[KREAM] %EC%98%81%EC%83%81 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%EC%9E%91 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005571','[KREAM] %EC%98%81%EC%83%81 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%EC%9E%91 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005571','[KREAM] %EC%98%81%EC%83%81 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%EC%9E%91 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005571','[KREAM] %EC%98%81%EC%83%81 %EC%BD%98%ED%85%90%EC%B8%A0 %EC%A0%9C%EC%9E%91 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] 마케팅 기획 체험형 인턴 모집\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n신입 \n근로 조건\n인턴 \n모집 기간\n2026.10.15 ~ 2026.10.27",
+  "onclick": "show(30005570)"
+ },
+ {
+  "href": "javascript:share('blog','30005570','[KREAM] %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005570','[KREAM] %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005570','[KREAM] %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005570','[KREAM] %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005570','[KREAM] %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005570','[KREAM] %EB%A7%88%EC%BC%80%ED%8C%85 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] 소셜 마케팅 체험형 인턴 모집\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n신입 \n근로 조건\n인턴 \n모집 기간\n2026.10.15 ~ 2026.10.27",
+  "onclick": "show(30005569)"
+ },
+ {
+  "href": "javascript:share('blog','30005569','[KREAM] %EC%86%8C%EC%85%9C %EB%A7%88%EC%BC%80%ED%8C%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005569','[KREAM] %EC%86%8C%EC%85%9C %EB%A7%88%EC%BC%80%ED%8C%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005569','[KREAM] %EC%86%8C%EC%85%9C %EB%A7%88%EC%BC%80%ED%8C%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005569','[KREAM] %EC%86%8C%EC%85%9C %EB%A7%88%EC%BC%80%ED%8C%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005569','[KREAM] %EC%86%8C%EC%85%9C %EB%A7%88%EC%BC%80%ED%8C%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005569','[KREAM] %EC%86%8C%EC%85%9C %EB%A7%88%EC%BC%80%ED%8C%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] 뷰티 카테고리 영업 체험형 인턴 모집\n모집 부서\nService & Business \n모집 분야\nBusiness Development \n모집 경력\n신입 \n근로 조건\n인턴 \n모집 기간\n2026.10.06 ~ 2026.10.18",
+  "onclick": "show(30005544)"
+ },
+ {
+  "href": "javascript:share('blog','30005544','[KREAM] %EB%B7%B0%ED%8B%B0 %EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC %EC%98%81%EC%97%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005544','[KREAM] %EB%B7%B0%ED%8B%B0 %EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC %EC%98%81%EC%97%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005544','[KREAM] %EB%B7%B0%ED%8B%B0 %EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC %EC%98%81%EC%97%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005544','[KREAM] %EB%B7%B0%ED%8B%B0 %EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC %EC%98%81%EC%97%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005544','[KREAM] %EB%B7%B0%ED%8B%B0 %EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC %EC%98%81%EC%97%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005544','[KREAM] %EB%B7%B0%ED%8B%B0 %EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC %EC%98%81%EC%97%85 %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do#n",
+  "text": "[KREAM] 콘텐츠 기획 체험형 인턴 모집\n모집 부서\nService & Business \n모집 분야\nContent Development \n모집 경력\n신입 \n근로 조건\n인턴 \n모집 기간\n2026.10.01 ~ 2026.10.18",
+  "onclick": "show(30005500)"
+ },
+ {
+  "href": "javascript:share('blog','30005500','[KREAM] %EC%BD%98%ED%85%90%EC%B8%A0 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe','30005500','[KREAM] %EC%BD%98%ED%85%90%EC%B8%A0 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line','30005500','[KREAM] %EC%BD%98%ED%85%90%EC%B8%A0 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked','30005500','[KREAM] %EC%BD%98%ED%85%90%EC%B8%A0 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao','30005500','[KREAM] %EC%BD%98%ED%85%90%EC%B8%A0 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91', 'kream');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face','30005500','[KREAM] %EC%BD%98%ED%85%90%EC%B8%A0 %EA%B8%B0%ED%9A%8D %EC%B2%B4%ED%97%98%ED%98%95 %EC%9D%B8%ED%84%B4 %EB%AA%A8%EC%A7%91');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://www.kreamcorp.com/",
+  "text": "© KREAM Corp.",
+  "onclick": null
+ },
+ {
+  "href": "https://www.kreamcorp.com/view/person_infomation.html",
+  "text": "개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://kream.co.kr/",
+  "text": "KREAM",
+  "onclick": null
+ },
+ {
+  "href": "https://medium.com/kream-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8",
+  "text": "KREAM TECH BLOG",
+  "onclick": null
+ }
+]

@@ -1,0 +1,257 @@
+[
+ {
+  "href": "https://recruit.navercorp.com/main.do",
+  "text": "NAVER Careers",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/tech",
+  "text": "Teams",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/tech",
+  "text": "Tech",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/design",
+  "text": "Design",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/service",
+  "text": "Service & Business",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/corporate",
+  "text": "Corporate",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/people",
+  "text": "People",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/benefits",
+  "text": "Benefits",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/culture",
+  "text": "Culture",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/value",
+  "text": "Value",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do",
+  "text": "Jobs",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/bbs/faq.do",
+  "text": "FAQ",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005543#",
+  "text": "KR",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005543&lang=en",
+  "text": "EN",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005543#n",
+  "text": "Teams",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/tech",
+  "text": "Tech",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/design",
+  "text": "Design",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/service",
+  "text": "Service & Business",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/corporate",
+  "text": "Corporate",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/people",
+  "text": "People",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/benefits",
+  "text": "Benefits",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/culture",
+  "text": "Culture",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/cnts/value",
+  "text": "Value",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/list.do",
+  "text": "Jobs",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/bbs/faq.do",
+  "text": "FAQ",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005543&lang=ko",
+  "text": "KR",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005543&lang=en",
+  "text": "EN",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('blog');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005543#",
+  "text": "지원하기",
+  "onclick": "apply();"
+ },
+ {
+  "href": "https://navercorp.com/",
+  "text": "© NAVER Corp.",
+  "onclick": null
+ },
+ {
+  "href": "https://www.navercorp.com/policy/privacy",
+  "text": "개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://navercorp.com/",
+  "text": "NAVER Corp.",
+  "onclick": null
+ },
+ {
+  "href": "https://fficial.naver.com/",
+  "text": "NAVERfficial",
+  "onclick": null
+ },
+ {
+  "href": "https://blog.naver.com/naverofficial",
+  "text": "NAVER Official Blog",
+  "onclick": null
+ },
+ {
+  "href": "https://tv.naver.com/playnaver",
+  "text": "PLAY NAVER",
+  "onclick": null
+ },
+ {
+  "href": "https://channeltech.naver.com/",
+  "text": "CH. TECH",
+  "onclick": null
+ },
+ {
+  "href": "https://d2.naver.com/home",
+  "text": "NAVER D2",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.navercloudcorp.com/",
+  "text": "NAVER Cloud",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.snowcorp.com/",
+  "text": "SNOW",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.naverlabs.com/",
+  "text": "NAVER LABS",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.webtoonscorp.com/",
+  "text": "NAVER WEBTOON",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.naverfincorp.com/",
+  "text": "NAVER FINANCIAL",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.naverins.com/",
+  "text": "NAVER I&S",
+  "onclick": null
+ }
+]

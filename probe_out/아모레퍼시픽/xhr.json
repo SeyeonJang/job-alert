@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://careers.apgroup.com/services/t/l?referrer=&ctid=035026c3-6b79-42b6-b582-7c220f819e38&landing=https%3A%2F%2Fcareers.apgroup.com%2Fsearch%2F%2F&brand=&_=1792074207656",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 14,
+  "body": "{SUCCESS:true}"
+ },
+ {
+  "url": "https://careers.apgroup.com/services/jobs/options/facetValues/",
+  "status": 200,
+  "method": "POST",
+  "post_data": "{\"page\":0,\"keywords\":\"\",\"locationsearch\":\"\",\"sortby\":\"referencedate\",\"sortdir\":\"desc\",\"sortfield\":\"title\",\"recordsperpage\":25,\"startrow\":0,\"facetquery\":{\"facet\":true,\"mincount\":1,\"limit\":5000,\"fields\":[\"country\",\"customfield2\",\"shifttype\",\"customfield1\"],\"sort\":\"index\",\"showPicklistAllLocales\":false},\"filterquery\":{}}",
+  "len": 379,
+  "body": "{\"facets\":{\"map\":{\"country\":[{\"translated\":\"대한민국\",\"name\":\"KR\",\"count\":26}],\"shifttype\":[{\"translated\":\"\",\"name\":\"정규직\",\"count\":26}],\"customfield2\":[{\"translated\":\"\",\"name\":\"아모레퍼시픽\",\"count\":22},{\"translated\":\"\",\"name\":\"오설록농장\",\"count\":2},{\"translated\":\"\",\"name\":\"이니스프리\",\"count\":2}],\"customfield1\":[{\"translated\":\"\",\"name\":\"경력\",\"count\":21},{\"translated\":\"\",\"name\":\"신입\",\"count\":5}]}}}"
+ }
+]

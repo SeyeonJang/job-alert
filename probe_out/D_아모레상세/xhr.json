@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://careers.apgroup.com/services/t/l?referrer=&ctid=6d8fb2f8-e027-4877-882e-e48c8396712c&landing=https%3A%2F%2Fcareers.apgroup.com%2Fjob%2F%25EC%2584%259C%25EC%259A%25B8-%25EA%25B2%25BD%25EB%25A0%25A5-%26apos%3B26%25EB%2585%2584-AMOREPACIFIC-%25EA%25B2%25BD%25EB%25A0%25A5%25EC%25B1%2584%25EC%259A%25A9_%25EA%25B8%2580%25EB%25A1%259C%25EB%25B2%258C-%25EC%25BB%25A4%25EB%25A8%25B8%25EC%2585%259C-%25EB%258B%25B4%25EB%258B%25B9%2F1365733666%2F&brand=&_=1792074436680",
+  "status": 200,
+  "method": "GET",
+  "post_data": null,
+  "len": 14,
+  "body": "{SUCCESS:true}"
+ },
+ {
+  "url": "https://careers.apgroup.com/services/jobs/options/facetValues/",
+  "status": 200,
+  "method": "POST",
+  "post_data": "{\"page\":0,\"keywords\":\"\",\"locationsearch\":\"\",\"sortby\":\"referencedate\",\"sortdir\":\"desc\",\"sortfield\":\"title\",\"recordsperpage\":25,\"startrow\":0,\"facetquery\":{\"facet\":true,\"mincount\":1,\"limit\":5000,\"fields\":[\"country\",\"customfield2\",\"shifttype\",\"customfield1\"],\"sort\":\"index\",\"showPicklistAllLocales\":false},\"filterquery\":{}}",
+  "len": 379,
+  "body": "{\"facets\":{\"map\":{\"country\":[{\"translated\":\"대한민국\",\"name\":\"KR\",\"count\":26}],\"shifttype\":[{\"translated\":\"\",\"name\":\"정규직\",\"count\":26}],\"customfield2\":[{\"translated\":\"\",\"name\":\"아모레퍼시픽\",\"count\":22},{\"translated\":\"\",\"name\":\"오설록농장\",\"count\":2},{\"translated\":\"\",\"name\":\"이니스프리\",\"count\":2}],\"customfield1\":[{\"translated\":\"\",\"name\":\"경력\",\"count\":21},{\"translated\":\"\",\"name\":\"신입\",\"count\":5}]}}}"
+ }
+]

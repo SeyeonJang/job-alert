@@ -1,0 +1,9 @@
+{
+ "name": "D_당근GH",
+ "url": "https://boards-api.greenhouse.io/v1/boards/daangn/jobs?content=true",
+ "static_status": 200,
+ "static_final_url": "https://boards-api.greenhouse.io/v1/boards/daangn/jobs?content=true",
+ "rendered_final_url": "https://boards-api.greenhouse.io/v1/boards/daangn/jobs?content=true",
+ "anchor_count": 0,
+ "xhr_count": 1
+}

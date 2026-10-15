@@ -1,0 +1,357 @@
+[
+ {
+  "href": "https://careers.daangn.com/",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/culture/",
+  "text": "팀 문화",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/blog/",
+  "text": "콘텐츠",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/",
+  "text": "채용공고",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/faq/",
+  "text": "자주 묻는 질문",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/?query=%EB%B3%91%EC%97%AD%ED%8A%B9%EB%A1%80",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/8000332003/",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5781885003/",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://daangnservice.career.greetinghr.com/ko/apply",
+  "text": "당근서비스",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5004587003/",
+  "text": "Network Engineer - 인프라 (네트워크, Cloud) 추천\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5248527003/",
+  "text": "Software Engineer, Machine Learning 추천\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6610455003/",
+  "text": "Software Engineer, Machine Learning - 검색 (품질) 추천\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5458903003/",
+  "text": "AD Sales Manager - 광고 (세일즈, Agency)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6589282003/",
+  "text": "Brand Designer (계약직) - 브랜딩 (서비스 브랜딩 & UI)\n당근\n계약직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/8002134003/",
+  "text": "Character Illustrator, 2D Animator (계약직) - 브랜딩 (캐릭터)\n당근\n계약직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7791182003/",
+  "text": "Design Engineer - 디자인 시스템\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7673064003/",
+  "text": "Growth Manager (계약직) - 로컬 잡스\n당근\n계약직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6645636003/",
+  "text": "HRBP - 경영지원 (피플)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/8000332003/",
+  "text": "Privacy Engineer - 당근페이 (Security Policy)\n당근페이\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7667450003/",
+  "text": "Product Designer - Cross Product Growth (Engagement Part)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7997859003/",
+  "text": "Product Designer - 로컬 잡스 (레슨/과외 팀)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5737120003/",
+  "text": "Product Designer - 부동산\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5120737003/",
+  "text": "Product Designer - 커뮤니티\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6640388003/",
+  "text": "Product Manager - 광고 (광고 상품)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7578967003/",
+  "text": "Product Manager - 당근페이 (Offline Payment)\n당근페이\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6682245003/",
+  "text": "Recruiting Manager - 경영지원 (피플)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7655325003/",
+  "text": "Security Engineer - 인프라 (보안, AI Security)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6043519003/",
+  "text": "Security Engineer - 인프라 (보안, Detection & Response)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7990084003/",
+  "text": "Software Engineer - 테크코어 (AI Platform)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/8034318003/",
+  "text": "Software Engineer (인턴) - Cross Product Growth (AI Productivity & Agents)\n당근\n인턴",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/4496730003/",
+  "text": "Software Engineer, Android\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7980543003/",
+  "text": "Software Engineer, Android (인턴)\n당근\n인턴",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7995038003/",
+  "text": "Software Engineer, Backend - Content & User Understanding\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6640363003/",
+  "text": "Software Engineer, Backend - 광고\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7659289003/",
+  "text": "Software Engineer, Backend - 나의당근\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/4511184003/",
+  "text": "Software Engineer, Backend - 당근페이\n당근페이\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7997069003/",
+  "text": "Software Engineer, Backend - 로컬 비즈니스 (비즈프로필 CRM)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5781885003/",
+  "text": "Software Engineer, Backend - 로컬 잡스\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7675338003/",
+  "text": "Software Engineer, Backend - 로컬 잡스 (레슨/과외 팀) 초기 빌더\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5296522003/",
+  "text": "Software Engineer, Backend - 부동산\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5046759003/",
+  "text": "Software Engineer, Backend - 서비스 코어 (Identity Service)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7644271003/",
+  "text": "Software Engineer, Backend - 인프라 (공통 서비스 개발, 콘텐츠 서빙)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7762062003/",
+  "text": "Software Engineer, Backend - 커뮤니티\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5046757003/",
+  "text": "Software Engineer, Backend - 피드 (피드 인프라)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6652141003/",
+  "text": "Software Engineer, Backend (경력) - 피드 (ML Data Platform)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5823087003/",
+  "text": "Software Engineer, Backend (신입) - 피드 (ML Data Platform)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7651256003/",
+  "text": "Software Engineer, Backend (인턴) - Cross Product Growth (Notifications) D - 4\n당근\n인턴",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/8014200003/",
+  "text": "Software Engineer, Backend (인턴) - Cross Product Growth (Chatting) D - 6\n당근\n인턴",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/8025869003/",
+  "text": "Software Engineer, Backend (인턴) - Cross Product Growth (Intelligence Delivery)\n당근\n인턴",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/8011239003/",
+  "text": "Software Engineer, Backend (인턴) - Cross Product Growth (Intelligence Targeting) D - 5\n당근\n인턴",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/8007747003/",
+  "text": "Software Engineer, Backend (전환형 인턴) - 커뮤니티 D - 3\n당근\n인턴",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/4300801003/",
+  "text": "Software Engineer, Data - 데이터 가치화\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7668837003/",
+  "text": "Software Engineer, Frontend - Cross Product Growth (Engagement Part)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5919465003/",
+  "text": "Software Engineer, Frontend - 당근페이\n당근페이\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7990233003/",
+  "text": "Software Engineer, Frontend - 로컬 비즈니스 (로컬 콘텐츠)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6081125003/",
+  "text": "Software Engineer, Frontend - 로컬 잡스\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7774455003/",
+  "text": "Software Engineer, Frontend - 로컬 잡스 (레슨/과외 팀)\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7689088003/",
+  "text": "Software Engineer, Frontend - 커뮤니티\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/5282170003/",
+  "text": "Software Engineer, iOS\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7498021003/",
+  "text": "Software Engineer, Machine Learning - ML 인프라\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/6285317003/",
+  "text": "Test Automation Engineer\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7611095003/",
+  "text": "Trust & Safety Manager - 로컬 잡스\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.daangn.com/jobs/role/7988737003/",
+  "text": "Trust & Safety Manager - 부동산\n당근\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://about.daangn.com/",
+  "text": "회사 소개",
+  "onclick": null
+ },
+ {
+  "href": "https://daangn.notion.site/26-7-38a28c3a9f8f8043ad12f206b210aa3a",
+  "text": "개인정보처리방침",
+  "onclick": null
+ },
+ {
+  "href": "mailto:recruit@daangn.com",
+  "text": "recruit@daangn.com",
+  "onclick": null
+ },
+ {
+  "href": "https://kr.linkedin.com/company/daangn",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://www.youtube.com/@daangnteam",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://github.com/daangn",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://medium.com/daangn",
+  "text": "",
+  "onclick": null
+ }
+]

@@ -1,0 +1,162 @@
+[
+ {
+  "href": "https://careers.kakao.com/jobs?skillSet=&page=1&company=KAKAO&part=TECHNOLOGY&employeeType=&keyword=#kakaoBody",
+  "text": "본문 바로가기",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs?skillSet=&page=1&company=KAKAO&part=TECHNOLOGY&employeeType=&keyword=#kakaoGnb",
+  "text": "메뉴 바로가기",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/index",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/culture",
+  "text": "일하는 법",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/kakaolife",
+  "text": "혜택 / 오피스",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/krewstory",
+  "text": "크루 이야기",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs?skillSet=&page=1&company=KAKAO&part=TECHNOLOGY&employeeType=&keyword=",
+  "text": "진행 중 공고",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/process",
+  "text": "영입절차",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/pool",
+  "text": "인재풀 등록",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/notice",
+  "text": "공지사항",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/faq",
+  "text": "FAQ",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/login?url=/jobs",
+  "text": "로그인",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs/P-14324?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+  "text": "Data Scientist (경력)\n영입마감일\n영입종료시\n근무지\n직군 태그\n#Algorithm/ML\n\t\n회사정보\n카카오\n\t\n직원유형\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs/P-14469?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+  "text": "AI Platform 추론 최적화 Engineer(경력)\n영입마감일\n영입종료시\n근무지\n직군 태그\n#Server\n\t\n회사정보\n카카오\n\t\n직원유형\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs/P-14402?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+  "text": "Multimodal LLM Research Engineer (경력)\n영입마감일\n영입종료시\n근무지\n직군 태그\n#Algorithm/ML\n\t\n회사정보\n카카오\n\t\n직원유형\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs/P-14519?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+  "text": "AI Research Engineer (Search & Agent) (경력)\n영입마감일\n영입종료시\n근무지\n직군 태그\n#Algorithm/ML\n\t\n회사정보\n카카오\n\t\n직원유형\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs/P-14276?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+  "text": "Data Analytics Engineer (경력)\n영입마감일\n영입종료시\n근무지\n직군 태그\n#기타\n\t\n회사정보\n카카오\n\t\n직원유형\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs/P-13744?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+  "text": "서비스/플랫폼 QA 담당자 (경력)\n영입마감일\n영입종료시\n근무지\n직군 태그\n#QA\n\t\n회사정보\n카카오\n\t\n직원유형\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs/P-14558?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+  "text": "LLM Research Engineer (Post-training) (신입/경력)\n영입마감일\n영입종료시\n근무지\n직군 태그\n#Algorithm/ML\n\t\n회사정보\n카카오\n\t\n직원유형\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/jobs/P-14559?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+  "text": "LLM Research Engineer (Pre-training) (신입/경력)\n영입마감일\n영입종료시\n근무지\n직군 태그\n#Algorithm/ML\n\t\n회사정보\n카카오\n\t\n직원유형\n정규직",
+  "onclick": null
+ },
+ {
+  "href": "https://pf.kakao.com/_rehCxd",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "https://www.instagram.com/kakao_career/?hl=ko",
+  "text": "인스타그램",
+  "onclick": null
+ },
+ {
+  "href": "https://www.youtube.com/channel/UCBjvBJgIp3NGkrTBEfWBUVw",
+  "text": "유튜브",
+  "onclick": null
+ },
+ {
+  "href": "https://www.linkedin.com/company/kakaocorp",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "https://www.facebook.com/kakaocareers",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://www.kakaocorp.com/policy/privacyPolicy/corporateSitePrivacyPolicy",
+  "text": "개인정보처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://careers.kakao.com/etc/agreement",
+  "text": "이용약관",
+  "onclick": null
+ },
+ {
+  "href": "",
+  "text": "English",
+  "onclick": null
+ },
+ {
+  "href": "",
+  "text": "한국어",
+  "onclick": null
+ },
+ {
+  "href": "https://www.kakaocorp.com/",
+  "text": "카카오",
+  "onclick": null
+ },
+ {
+  "href": "https://www.daum.net/",
+  "text": "다음 포털사이트",
+  "onclick": null
+ },
+ {
+  "href": "https://www.kakao.com/main",
+  "text": "카카오 서비스",
+  "onclick": null
+ }
+]

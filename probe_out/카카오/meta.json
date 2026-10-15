@@ -1,0 +1,9 @@
+{
+ "name": "카카오",
+ "url": "https://careers.kakao.com/jobs?part=BUSINESS_SERVICES",
+ "static_status": 200,
+ "static_final_url": "https://careers.kakao.com/jobs?part=BUSINESS_SERVICES",
+ "rendered_final_url": "https://careers.kakao.com/jobs?part=BUSINESS_SERVICES",
+ "anchor_count": 35,
+ "xhr_count": 3
+}

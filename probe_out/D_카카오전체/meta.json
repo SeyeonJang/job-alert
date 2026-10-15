@@ -1,0 +1,9 @@
+{
+ "name": "D_카카오전체",
+ "url": "https://careers.kakao.com/jobs",
+ "static_status": 200,
+ "static_final_url": "https://careers.kakao.com/jobs",
+ "rendered_final_url": "https://careers.kakao.com/jobs?skillSet=&page=1&company=KAKAO&part=TECHNOLOGY&employeeType=&keyword=",
+ "anchor_count": 32,
+ "xhr_count": 4
+}

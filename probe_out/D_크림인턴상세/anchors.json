@@ -1,0 +1,162 @@
+[
+ {
+  "href": "https://recruit.kreamcorp.com/main.do",
+  "text": "KREAM Careers",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/tech",
+  "text": "Teams",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/tech",
+  "text": "Tech",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/design",
+  "text": "Design",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/service",
+  "text": "Service & Business",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/corporate",
+  "text": "Corporate",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/people",
+  "text": "People",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/benefits",
+  "text": "Culture & Benefits",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do",
+  "text": "Jobs",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/bbs/faq.do",
+  "text": "FAQ",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/view.do?annoId=30005544#n",
+  "text": "Teams",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/tech",
+  "text": "Tech",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/design",
+  "text": "Design",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/service",
+  "text": "Service & Business",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/corporate",
+  "text": "Corporate",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/people",
+  "text": "People",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/cnts/benefits",
+  "text": "Culture & Benefits",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/list.do",
+  "text": "Jobs",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/mem/login.do",
+  "text": "Login",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/bbs/faq.do",
+  "text": "FAQ",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('blog');",
+  "text": "네이버 블로그",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('cafe');",
+  "text": "네이버 카페",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('line');",
+  "text": "라인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('linked');",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('kakao');",
+  "text": "카카오톡",
+  "onclick": null
+ },
+ {
+  "href": "javascript:share('face');",
+  "text": "페이스북",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kreamcorp.com/rcrt/view.do?annoId=30005544#",
+  "text": "지원하기",
+  "onclick": "apply();"
+ },
+ {
+  "href": "https://www.kreamcorp.com/",
+  "text": "© KREAM Corp.",
+  "onclick": null
+ },
+ {
+  "href": "https://www.kreamcorp.com/view/person_infomation.html",
+  "text": "개인정보 처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://kream.co.kr/",
+  "text": "KREAM",
+  "onclick": null
+ },
+ {
+  "href": "https://medium.com/kream-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8",
+  "text": "KREAM TECH BLOG",
+  "onclick": null
+ }
+]

@@ -1,0 +1,607 @@
+[
+ {
+  "href": "https://recruit.kakaobank.com/jobs#header",
+  "text": "주 메뉴로 이동",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs#main-content",
+  "text": "본문으로 이동",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs#footer",
+  "text": "푸터로 이동",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/",
+  "text": "인재영입\n\n카카오뱅크 인재영입",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/work",
+  "text": "일",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs",
+  "text": "진행 중 공고",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/hww",
+  "text": "일하는 방식",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/welfare",
+  "text": "복리후생",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/guide",
+  "text": "지원 가이드",
+  "onclick": null
+ },
+ {
+  "href": "https://kakaobank.recruiter.co.kr/v1/applicant/my-page/login",
+  "text": "내 지원 현황",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/work",
+  "text": "일",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs",
+  "text": "진행 중 공고",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/hww",
+  "text": "일하는 방식",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/welfare",
+  "text": "복리후생",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/guide",
+  "text": "지원 가이드",
+  "onclick": null
+ },
+ {
+  "href": "https://kakaobank.recruiter.co.kr/v1/applicant/my-page/login",
+  "text": "내 지원 현황",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/203574",
+  "text": "인재풀 등록하기",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266112",
+  "text": "서비스 기획자 - 신사업\nD-19\nService & Biz\n~ 2026.11.03 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/267914",
+  "text": "펀드 운영 담당자 (계약직)\nD-5\nService & Biz\n~ 2026.10.20 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/268231",
+  "text": "AI 상담 챗봇 운영 어시스턴트 (체험형 인턴)\nD-0\nService & Biz\n~ 2026.10.15 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/268343",
+  "text": "브랜드 디자인 어시스턴트 (체험형 인턴)\nD-5\nDesign\n~ 2026.10.20 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/268717",
+  "text": "쿠버네티스(Kubernetes) 엔지니어\nD-13\nEngineering\n~ 2026.10.28 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/268836",
+  "text": "마케팅 업무 지원 어시스턴트 (체험형 인턴)\nD-15\nService & Biz\n~ 2026.10.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/269180",
+  "text": "인증 플랫폼 기획 담당자 (채용연계형 인턴)\nD-18\nService & Biz\n~ 2026.11.02 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/269299",
+  "text": "금융거래정보제공 업무 담당자 (채용연계형 인턴)\nD-18\nCustomer Service\n~ 2026.11.02 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264668",
+  "text": "여신플랫폼사업 운영 담당자 (계약직)\nD-1\nService & Biz\n~ 2026.10.16 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264465",
+  "text": "수신 상품/서비스 운영 담당자 (계약직)\nD-13\nService & Biz\n~ 2026.10.28 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264119",
+  "text": "AI 엔지니어\nD-19\nAI\n~ 2026.11.03 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/263947",
+  "text": "금융기술연구소 콘텐츠 담당자 (계약직)\nD-4\nStrategy\n~ 2026.10.19 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/263333",
+  "text": "전기통신금융사기 업무 지원 담당자 (계약직)\nD-12\nCompliance\n~ 2026.10.27 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/263314",
+  "text": "재무리스크 시스템 개발자 (계약직)\nD-8\nCore Banking\n~ 2026.10.23 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/262701",
+  "text": "LLM 서빙 및 추론 최적화 엔지니어\nD-6\nAI\n~ 2026.10.21 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/262378",
+  "text": "수신제도(정책) 담당자\nD-18\nService & Biz\n~ 2026.11.02 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/262305",
+  "text": "데이터 엔지니어 - Data Product\nD-5\nData\n~ 2026.10.20 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/261032",
+  "text": "전자금융/수신 업무 운영 담당자 (계약직)\nD-13\nService & Biz\n~ 2026.10.28 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/260510",
+  "text": "데이터 엔지니어 - Data Warehouse\nD-18\nData\n~ 2026.11.02 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/257133",
+  "text": "사업 기획 및 제휴 담당자 - B2B 뱅킹솔루션\nD-12\nService & Biz\n~ 2026.10.27 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/256798",
+  "text": "외화자금(Front) 담당자\nD-4\nFinance\n~ 2026.10.19 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/253879",
+  "text": "방카슈랑스 사업 기획 담당자\nD-21\nService & Biz\n~ 2026.11.05 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/247107",
+  "text": "FDS 전기통신금융사기 모니터링 담당자 - 주간 (계약직)\nD-12\nCompliance\n~ 2026.10.27 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/244006",
+  "text": "퇴직연금 도메인 개발자\nD-21\nServer\n~ 2026.11.05 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/238695",
+  "text": "금융업무 지원 담당자 - 국가보훈대상자 전형 (계약직)\nD-15\nCustomer Service\n~ 2026.10.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/238683",
+  "text": "금융업무 지원 담당자 (계약직)\nD-15\nCustomer Service\n~ 2026.10.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/238675",
+  "text": "STR 모니터링 담당자 (계약직)\nD-15\nCompliance\n~ 2026.10.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/203574",
+  "text": "카카오뱅크 인재풀 등록\nD-77\n상시채용\n~ 2026.12.31 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/265277",
+  "text": "AI 서비스 기획 어시스턴트 (체험형 인턴)\n마감\nService & Biz\n~ 2026.09.10 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/265359",
+  "text": "여신 운영 업무 지원 담당자 (계약직)\n마감\nService & Biz\n~ 2026.09.28 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/265654",
+  "text": "신사업(서베이) 운영 및 기획 어시스턴트 (체험형 인턴)\n마감\nService & Biz\n~ 2026.09.14 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/265751",
+  "text": "여신 전자등기 운영 담당자 (계약직)\n마감\nService & Biz\n~ 2026.09.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/265769",
+  "text": "부동산 감정평가 업무 담당자\n마감\nService & Biz\n~ 2026.09.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/265960",
+  "text": "인증서비스 기획 어시스턴트 (체험형 인턴)\n마감\nService & Biz\n~ 2026.09.22 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/265981",
+  "text": "가계대출 상품 기획 및 운영 담당자 (계약직)\n마감\nService & Biz\n~ 2026.09.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/265982",
+  "text": "가계대출 상품 기획 및 운영 담당자\n마감\nService & Biz\n~ 2026.09.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266340",
+  "text": "콘텐츠 제작 어시스턴트 (체험형 인턴)\n마감\nService & Biz\n~ 2026.09.29 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266342",
+  "text": "콘텐츠 디자인 어시스턴트 (체험형 인턴)\n마감\nDesign\n~ 2026.09.29 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266361",
+  "text": "외환 사후관리 업무 담당자 (계약직)\n마감\nCustomer Service\n~ 2026.10.02 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266651",
+  "text": "인터널 서비스 UI/UX 기획 어시스턴트 (체험형 인턴)\n마감\nService & Biz\n~ 2026.09.28 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266664",
+  "text": "서비스 기획자 - 서베이 플랫폼\n마감\nService & Biz\n~ 2026.10.07 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266666",
+  "text": "신사업(서베이) 운영 및 기획 담당자 (계약직)\n마감\nService & Biz\n~ 2026.10.07 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266734",
+  "text": "서비스 기획자 - 펀드\n마감\nService & Biz\n~ 2026.10.07 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266785",
+  "text": "지식재산 업무 담당자 (계약직)\n마감\nCompliance\n~ 2026.10.07 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/266879",
+  "text": "여신 서비스 기획 및 운영 담당자 (계약직)\n마감\nService & Biz\n~ 2026.10.08 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/267331",
+  "text": "FDS 전기통신금융사기 모니터링 담당자 - 야간 (계약직)\n마감\nCompliance\n~ 2026.10.12 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/267596",
+  "text": "계정계 QA 담당자 (계약직)\n마감\nCore Banking\n~ 2026.10.08 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/267630",
+  "text": "IR 담당자\n마감\nStrategy\n~ 2026.10.14 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/263159",
+  "text": "AI Native 서비스 기획자 (채용연계형 인턴)\n마감\nService & Biz\n~ 2026.08.31 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264994",
+  "text": "광고사업 지원 어시스턴트 (체험형 인턴)\n마감\nService & Biz\n~ 2026.09.09 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264839",
+  "text": "담보여신 운영 담당자\n마감\nService & Biz\n~ 2026.09.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264482",
+  "text": "광고제휴솔루션 어시스턴트 (체험형 인턴)\n마감\nService & Biz\n~ 2026.09.08 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264481",
+  "text": "Developer Relations 어시스턴트 (체험형 인턴)\n마감\nManagement\n~ 2026.09.09 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264462",
+  "text": "정산 업무 담당자 (계약직)\n마감\nManagement\n~ 2026.09.18 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264360",
+  "text": "Vision AI 엔지니어\n마감\nAI\n~ 2026.09.16 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/264124",
+  "text": "사업 전략 및 제휴 담당자 - 투자\n마감\nService & Biz\n~ 2026.09.14 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/263946",
+  "text": "기술연구 사무 어시스턴트 (체험형 인턴)\n마감\nManagement\n~ 2026.09.11 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/263185",
+  "text": "서비스 기획자 - 외국인 서비스\n마감\nService & Biz\n~ 2026.09.03 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/263181",
+  "text": "대위변제 업무 담당자 (계약직)\n마감\nService & Biz\n~ 2026.10.01 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/262406",
+  "text": "인증 라이선스 기획 담당자 (계약직)\n마감\nService & Biz\n~ 2026.08.24 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/262215",
+  "text": "투자심사 담당자\n마감\nFinance\n~ 2026.08.25 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/262205",
+  "text": "인증 라이선스/플랫폼 기획 담당자\n마감\nService & Biz\n~ 2026.09.30 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/262201",
+  "text": "시니어 외화자금(Front) 담당자\n마감\nFinance\n~ 2026.08.26 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/261154",
+  "text": "서비스 기획자 - 대화형 AI 서비스\n마감\nService & Biz\n~ 2026.09.15 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/261109",
+  "text": "서비스 기획자 - 여신\n마감\nService & Biz\n~ 2026.10.12 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/260947",
+  "text": "FDS 이상금융거래 예방 담당자 (계약직)\n마감\nCompliance\n~ 2026.08.11 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/260518",
+  "text": "법인 여신 상품 기획 담당자\n마감\nService & Biz\n~ 2026.09.28 (14:30)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/260515",
+  "text": "법인 여신 제도 기획 및 운영 담당자\n마감\nService & Biz\n~ 2026.10.08 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/260505",
+  "text": "서버 개발자 - 뱅킹\n마감\nServer\n~ 2026.10.07 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/259483",
+  "text": "RPA 개발 및 운영 담당자 (계약직)\n마감\nAI\n~ 2026.08.26 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/258064",
+  "text": "서비스 기획자 - 투자서비스\n마감\nService & Biz\n~ 2026.07.16 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/258039",
+  "text": "IT 기획 담당자\n마감\nManagement\n~ 2026.07.16 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/257886",
+  "text": "서비스 기획자 - 인증기획\n마감\nService & Biz\n~ 2026.10.12 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/257846",
+  "text": "재무리스크 시스템 개발자\n마감\nCore Banking\n~ 2026.07.15 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/257562",
+  "text": "신용리스크 시스템 개발자\n마감\nCore Banking\n~ 2026.07.10 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/257469",
+  "text": "여신관리 기획 담당자\n마감\nService & Biz\n~ 2026.10.08 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/256628",
+  "text": "정보보호 관리체계 운영 담당자\n마감\nSecurity\n~ 2026.10.12 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/255183",
+  "text": "여신업무 도메인 개발자\n마감\nCore Banking\n~ 2026.09.28 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/255172",
+  "text": "모의해킹 및 취약점분석 담당자 (Red Team)\n마감\nSecurity\n~ 2026.07.24 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/254532",
+  "text": "서비스 기획자 - 스테이블코인\n마감\nService & Biz\n~ 2026.06.10 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/254315",
+  "text": "보상 담당자\n마감\nManagement\n~ 2026.06.08 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/250930",
+  "text": "데이터 엔지니어 - Data Mart\n마감\nData\n~ 2026.08.06 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/249465",
+  "text": "SM 사업 관리 및 유지보수 담당자 (계약직)\n마감\nEngineering\n~ 2026.09.17 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/248549",
+  "text": "백엔드 개발자\n마감\nServer\n~ 2026.08.21 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/247224",
+  "text": "블록체인 서비스 백엔드 개발자\n마감\nServer\n~ 2026.09.03 (16:50)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/243233",
+  "text": "수신업무 도메인 개발자\n마감\nCore Banking\n~ 2026.08.14 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/240726",
+  "text": "서비스 기획자 - 지급결제\n마감\nService & Biz\n~ 2026.08.06 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs/238670",
+  "text": "DevOps 엔지니어\n마감\nEngineering\n~ 2026.10.14 (23:59)",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs#none",
+  "text": "",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs#none",
+  "text": "About Us",
+  "onclick": null
+ },
+ {
+  "href": "https://www.kakaobank.com/",
+  "text": "공식 홈페이지",
+  "onclick": null
+ },
+ {
+  "href": "https://www.youtube.com/kakaobank",
+  "text": "공식 유튜브",
+  "onclick": null
+ },
+ {
+  "href": "https://www.instagram.com/kakaobank.official/",
+  "text": "공식 인스타그램",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs#none",
+  "text": "On Social",
+  "onclick": null
+ },
+ {
+  "href": "https://brunch.co.kr/@kakaobankplus",
+  "text": "영입 블로그",
+  "onclick": null
+ },
+ {
+  "href": "https://www.linkedin.com/company/kakaobank/",
+  "text": "링크드인",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs#none",
+  "text": "Our Tech",
+  "onclick": null
+ },
+ {
+  "href": "https://tech.kakaobank.com/",
+  "text": "기술 블로그",
+  "onclick": null
+ },
+ {
+  "href": "https://ai.kakaobank.com/",
+  "text": "금융기술연구소",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs#none",
+  "text": "Legal & Privacy",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/policy/privacy",
+  "text": "개인정보처리방침",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/policy/email",
+  "text": "이메일무단수집거부",
+  "onclick": null
+ },
+ {
+  "href": "https://recruit.kakaobank.com/jobs#none",
+  "text": "Contact",
+  "onclick": null
+ },
+ {
+  "href": "mailto:recruit@kakaobank.com",
+  "text": "recruit@kakaobank.com",
+  "onclick": null
+ }
+]
