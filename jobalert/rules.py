@@ -7,7 +7,8 @@
 
 # ── 직무 ────────────────────────────────────────────────────────────
 # 무조건 제외 (실제 포지션이 아닌 상시 인재풀·행사)
-ROLE_HARD_EXCLUDE = ["인재풀", "인재 pool", "인재pool", "talent pool", "사외 추천", "커피챗", "coffee chat"]
+ROLE_HARD_EXCLUDE = ["인재풀", "인재 pool", "인재pool", "talent pool", "사외 추천", "커피챗", "coffee chat",
+                     "라이브서비스", "게임 기획"]
 
 # 제목에 있으면 제외 키워드가 같이 있어도 보낸다.
 ROLE_STRONG_INCLUDE = [
@@ -55,8 +56,8 @@ ROLE_EXCLUDE = [
     "영업", "sales", "세일즈", "account manager", "어카운트",
     "마케터", "marketer", "마케팅", "marketing",
     # 경영지원
-    "hrbp", "hr ", "인사", "채용", "recruit", "talent", "people",
-    "재무", "회계", "세무", "자금", "finance", "fp&a", "accounting", "tax",
+    "hrbp", "hr ", "인사", "채용 담당", "채용담당", "인재영입", "recruiter", "recruiting", "talent", "people",
+    "재무", "회계", "세무", "자금 담당", "외화자금", "자금관리", "finance", "fp&a", "accounting", "tax",
     "treasury", "settlement", "정산", "ir ", "ir/", "공시",
     "법무", "변호사", "legal", "compliance", "컴플라이언스",
     "보안", "security", "개인정보", "privacy",
@@ -125,5 +126,6 @@ OTHER_HEADINGS = [
     "이런 일을 합니다", "합류하면", "혜택", "복지", "근무 조건", "근무조건",
     "근무지", "전형", "채용 절차", "채용절차", "지원 방법", "참고", "유의사항",
     "팀 소개", "팀을 소개", "회사 소개", "합류 여정", "프로세스", "benefits",
+    "성장할 수 있어요", "이렇게 합류", "이력서", "함께할 동료를 위한", "꼭 확인", "사용하는 기술",
     "responsibilities", "what you'll do", "about", "기타", "제출",
 ]

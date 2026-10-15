@@ -82,10 +82,13 @@ def employment_block(job: Job) -> Optional[str]:
 
 
 # ── 경력 ────────────────────────────────────────────────────────────
+# 범위 표현(앞쪽 숫자가 최소 연차)은 먼저 찾아서 지운 뒤 나머지 표현을 찾는다
+_RANGE_PATTERNS = [
+    re.compile(r"(\d{1,2})\s*(?:년|years?)?\s*[~\-–]\s*\d{1,2}\s*(?:년|years?)"),
+]
 _YEAR_PATTERNS = [
     re.compile(r"(\d{1,2})\s*(?:년|yr|years?)\s*(?:차\s*)?(?:이상|↑|\+|over|or more)"),
     re.compile(r"(\d{1,2})\s*\+\s*(?:년|years?)"),
-    re.compile(r"(\d{1,2})\s*[~\-–]\s*\d{1,2}\s*(?:년|years?)"),
     re.compile(r"경력\s*(\d{1,2})\s*년"),
     re.compile(r"(\d{1,2})\s*년\s*(?:차|간|의|정도|가량)?\s*(?:이상의|이상)?\s*(?:실무|경력|경험|업무)"),
     re.compile(r"at least\s*(\d{1,2})\s*years?"),
@@ -95,16 +98,22 @@ _EXPERIENCE_CONTEXT = re.compile(r"경력|경험|실무|업무|근무|연차|yea
 
 
 def years_in_text(text: str) -> Optional[int]:
-    """'경력 3년 이상', '2~5년', '5+ years' 같은 표현에서 최소 연차를 뽑는다."""
+    """'경력 3년 이상', '2~5년', '5년 ~ 8년', '5+ years' 같은 표현에서 요구 연차를 뽑는다.
+    범위는 아래쪽 숫자를 쓰고, 한 문장에 조건이 여러 개면 가장 큰 값을 쓴다
+    (예: '1~3년의 PO 경력 (총 경력 5년 이상)' → 5)."""
     if not text:
         return None
     found = []
+    rest = text
+    for p in _RANGE_PATTERNS:
+        for m in p.finditer(rest):
+            found.append(int(m.group(1)))
+        rest = p.sub(" ", rest)
     for p in _YEAR_PATTERNS:
-        for m in p.finditer(text):
-            n = int(m.group(1))
-            if 0 <= n <= 30:
-                found.append(n)
-    return min(found) if found else None
+        for m in p.finditer(rest):
+            found.append(int(m.group(1)))
+    found = [n for n in found if 0 <= n <= 30]
+    return max(found) if found else None
 
 
 def parse_career_tag(tag: str) -> Tuple[str, Optional[int]]:
@@ -182,7 +191,7 @@ def requirement_years(body: str) -> Tuple[Optional[int], str]:
         if y is not None and (best is None or y > best):
             best = y
             evidence = line
-    evidence = re.sub(r"^[\-•·*▪●○◦■□▶✔︎✓\d\.\)\s]+", "", evidence)[:90]
+    evidence = re.sub(r"^(?:[\-•·*▪●○◦■□▶✔︎✓\s]+|\d{1,2}[\.\)]\s+)+", "", evidence)[:90]
     return best, evidence
 
 
