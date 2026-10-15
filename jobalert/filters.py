@@ -32,6 +32,9 @@ def classify_role(job: Job) -> Tuple[str, str]:
     title = _norm(job.title)
     cat = _norm(" ".join([job.category, job.keywords]))
 
+    hit = _has_any(title, rules.ROLE_HARD_EXCLUDE)
+    if hit:
+        return "exclude", f"제목: {hit}"
     hit = _has_any(title, rules.ROLE_STRONG_INCLUDE)
     if hit:
         return "include", hit
@@ -60,10 +63,13 @@ def is_intern(job: Job) -> bool:
 
 def employment_block(job: Job) -> Optional[str]:
     """제외해야 하는 고용형태면 사유를 돌려준다."""
-    if is_intern(job):
-        return None
     # 제목은 괄호 안 표기만 본다 ('당근알바' 같은 서비스명 오탐 방지)
     title_tags = " ".join(re.findall(r"[\(\[]([^\)\]]*)[\)\]]", job.title or ""))
+    hit = _has_any(_norm(job.employment + " " + title_tags + " " + (job.title or "").split("_")[-1]), rules.ALWAYS_BLOCK_WORDS)
+    if hit:
+        return f"고용형태: {hit}"
+    if is_intern(job):
+        return None
     hit = _has_any(_norm(job.employment + " " + title_tags), rules.CONTRACT_WORDS)
     if hit:
         return f"고용형태: {hit}"
@@ -159,11 +165,20 @@ def requirement_years(body: str) -> Tuple[Optional[int], str]:
     return best, evidence
 
 
-def judge(job: Job, need_body) -> Verdict:
-    """need_body(job) -> 본문 문자열 또는 None(실패). 필요할 때만 호출된다."""
+def judge(job: Job, need_body, enrich=None) -> Verdict:
+    """need_body(job) -> 본문 문자열 또는 None(실패). 필요할 때만 호출된다.
+    enrich(job) -> 목록에 없던 경력·고용형태를 상세 페이지에서 채운다 (직무가 맞을 때만)."""
     role, role_why = classify_role(job)
     if role == "exclude":
         return Verdict(False, reason=f"직무 제외 ({role_why})")
+    if enrich is not None:
+        try:
+            enrich(job)
+        except Exception:
+            return Verdict(False, reason="상세 정보 확인 실패", retry=True)
+        role, role_why = classify_role(job)
+        if role == "exclude":
+            return Verdict(False, reason=f"직무 제외 ({role_why})")
 
     block = employment_block(job)
     if block:
@@ -194,8 +209,7 @@ def judge(job: Job, need_body) -> Verdict:
     elif kind == "years":
         if years > rules.MAX_YEARS:
             return Verdict(False, reason=f"경력 {years}년 이상")
-        label = "신입 가능" if years == 0 else f"경력 {years}년↑"
-        evidence = job.career if job.career else ""
+        label = job.career.strip() if job.career else (f"경력 {years}년↑" if years else "신입 가능")
     else:  # 'career' 또는 'unknown' → 상세 본문 확인
         body = need_body(job)
         if body is None:

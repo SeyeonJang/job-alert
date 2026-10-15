@@ -22,6 +22,10 @@ class Adapter:
     def fetch_list(self) -> List[Job]:
         raise NotImplementedError
 
+    def enrich(self, job: Job):
+        """목록에 경력·고용형태가 없는 사이트는 여기서 상세 정보를 채운다."""
+        return None
+
     def fetch_body(self, job: Job) -> Optional[str]:
         """상세 본문 텍스트. 실패하면 None."""
         if job.body:
