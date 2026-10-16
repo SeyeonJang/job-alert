@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 12
   },
   "네이버페이": {
    "adapter": "naver",
@@ -51,7 +51,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 109
+   "last_count": 110
   },
   "백패커": {
    "adapter": "greeting",
@@ -111,7 +111,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 27
+   "last_count": 28
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -134,13 +134,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 68
+   "last_count": 69
   },
   "크림": {
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 14
+   "last_count": 13
   },
   "토스": {
    "adapter": "toss",
@@ -381,6 +381,14 @@
    "reason": "자격요건 3년 이상: IT/플랫폼 산업 또는 컨설팅 펌에서 PMO·사업전략·전략기획 관련 업무를 3~6년 경험하신 분",
    "status": "filtered",
    "title": "[네이버웹툰] 콘텐츠 전략 PM / Content Strategy PM (경력)"
+  },
+  "네이버|30005545": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "자격요건 7년 이상: PM 직무 경력 7년",
+   "status": "filtered",
+   "title": "[네이버웹툰] 서비스 기획 Senior PM (경력)"
   },
   "네이버|30005546": {
    "attempts": 0,
@@ -2830,6 +2838,14 @@
    "status": "filtered",
    "title": "Program Manager (Trust & Safety)"
   },
+  "무신사|240782": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "직무 제외 (제목: fp&a)",
+   "status": "filtered",
+   "title": "FP&A (경영지원)"
+  },
   "백패커|162371": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -5086,6 +5102,14 @@
    "status": "filtered",
    "title": "금융업무 지원 담당자 - 국가보훈대상자 전형 (계약직)"
   },
+  "카카오뱅크|238703": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "직무 제외 (직군: engineering)",
+   "status": "filtered",
+   "title": "뱅킹 아키텍트"
+  },
   "카카오뱅크|244006": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6125,6 +6149,14 @@
    "reason": "직무 제외 (직군: 마케팅)",
    "status": "filtered",
    "title": "라이브커머스 기획/운영 담당자"
+  },
+  "컬리|240778": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "직무 제외 (제목: 재무)",
+   "status": "filtered",
+   "title": "재무회계 담당자"
   },
   "컬리|78179": {
    "attempts": 0,
@@ -8557,6 +8589,14 @@
    "reason": "직무 제외 (제목: 상담)",
    "status": "filtered",
    "title": "고객상담 Manager"
+  },
+  "토스|8035123003": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "직무 제외 (제목: designer)",
+   "status": "filtered",
+   "title": "Visual Designer (Commerce Design Platform)"
   }
  },
  "sent_titles": {
