@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 11
   },
   "네이버페이": {
    "adapter": "naver",
@@ -33,7 +33,7 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 120
+   "last_count": 115
   },
   "놀유니버스": {
    "adapter": "greeting",
@@ -51,7 +51,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 112
+   "last_count": 109
   },
   "백패커": {
    "adapter": "greeting",
@@ -63,7 +63,7 @@
    "adapter": "banksalad",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 12
   },
   "버킷플레이스": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 21
+   "last_count": 25
   },
   "에이블리": {
    "adapter": "ably",
@@ -99,13 +99,13 @@
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 10
   },
   "카카오게임즈": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 4
+   "last_count": 8
   },
   "카카오뱅크": {
    "adapter": "kakaobank",
@@ -128,7 +128,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 39
+   "last_count": 36
   },
   "컬리": {
    "adapter": "greeting",
@@ -146,7 +146,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 287
+   "last_count": 286
   }
  },
  "jobs": {
@@ -413,6 +413,14 @@
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "[네이버웹툰] IP 사업 운영 담당 (계약직)"
+  },
+  "네이버|30005579": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "",
+   "status": "sent",
+   "title": "[네이버웹툰] 웹툰 숏폼 기획/제작 (체험형 인턴)"
   },
   "넥슨코리아|10009": {
    "attempts": 0,
@@ -2782,6 +2790,14 @@
    "status": "filtered",
    "title": "키즈 온라인 MD (무신사 스탠다드)"
   },
+  "무신사|240512": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "Product Engineer (Retention)"
+  },
   "무신사|240567": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -2805,6 +2821,14 @@
    "reason": "직무 제외 (제목: marketing)",
    "status": "filtered",
    "title": "Category Marketing Assistant (29CM)"
+  },
+  "무신사|240705": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "Program Manager (Trust & Safety)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -2981,6 +3005,14 @@
    "reason": "경력 10년 이상",
    "status": "filtered",
    "title": "[최초채용] [리더십] Platform Product Lead (플랫폼 프로덕트 리드)"
+  },
+  "뱅크샐러드|221097": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "[초기멤버] Product Manager (프로덕트 매니저, 광고)"
   },
   "뱅크샐러드|221099": {
    "attempts": 0,
@@ -3630,6 +3662,14 @@
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_비주얼 컨텐츠 아트 디렉터 담당"
   },
+  "아모레퍼시픽|1357097666": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "자격요건 3년 이상: 경력: 관련 경력 3년 이상 있으신 분",
+   "status": "filtered",
+   "title": "[경력] '26년 INNISFREE 경력채용_글로벌 커머스 전략 (Amazon)"
+  },
   "아모레퍼시픽|1362546766": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -3669,6 +3709,14 @@
    "reason": "자격요건 5년 이상: 경력: 화장품, 헤어&바디 브랜드 또는 FMCG 브랜드의 GTM 전략 수립 및 실행 실무 경력 5년 이상 있으신 분",
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_헤어/바디/덴탈 브랜드 GTM 담당"
+  },
+  "아모레퍼시픽|1364531566": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_글로벌 마케팅 커뮤니케이션 담당(북미/유럽)"
   },
   "아모레퍼시픽|1364531766": {
    "attempts": 0,
@@ -3813,6 +3861,22 @@
    "reason": "직무 제외 (제목: 연구팀)",
    "status": "filtered",
    "title": "'26년 오설록 연구팀 제품개발 채용"
+  },
+  "아모레퍼시픽|1368944366": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_틱톡샵 마케팅 운영 담당"
+  },
+  "아모레퍼시픽|1368964466": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "자격요건 3년 이상: 경력: Deep Learning Framework 기반 AI 모델 개발 경력 3년 이상",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_AI 모델 개발 담당"
   },
   "에이블리|0Eu5yjmY": {
    "attempts": 0,
@@ -4957,6 +5021,38 @@
    "reason": "경력 3년 이상",
    "status": "filtered",
    "title": "[경력] 데이터인사이트팀 BI 및 데이터 분석가 영입"
+  },
+  "카카오게임즈|240729": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "",
+   "status": "sent",
+   "title": "[체험형 인턴] 글로벌 사업 인턴 채용"
+  },
+  "카카오게임즈|240744": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "",
+   "status": "sent",
+   "title": "[체험형 인턴] 국내 게임 사업 인턴 채용"
+  },
+  "카카오게임즈|240749": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "",
+   "status": "sent",
+   "title": "[체험형 인턴] 캐주얼 게임 사업 인턴 채용"
+  },
+  "카카오게임즈|240754": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "",
+   "status": "sent",
+   "title": "[체험형 인턴] 게임 운영 인턴 채용"
   },
   "카카오뱅크|203574": {
    "attempts": 0,
@@ -6990,6 +7086,14 @@
    "status": "filtered",
    "title": "Research Assistant"
   },
+  "토스|6624660003": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "직무 제외 (제목: sales)",
+   "status": "filtered",
+   "title": "Sales Enablement Manager"
+  },
   "토스|6647540003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8456,6 +8560,7 @@
   }
  },
  "sent_titles": {
+  "네이버|[네이버웹툰] 웹툰 숏폼 기획/제작 (체험형 인턴)": "2026-10-16",
   "넥슨코리아|[민트로켓] 사업/대외업무 담당자": "2026-10-15",
   "넥슨코리아|[빅게임본부] 게임 ux 리서치 (인턴)": "2026-10-15",
   "넥슨코리아|[전략분석실] 데이터분석가 (근무지: 제주본사)": "2026-10-15",
@@ -8475,6 +8580,10 @@
   "에이블리|사업 개발 매니저 인턴": "2026-10-15",
   "에이블리|투자 전략 매니저": "2026-10-15",
   "와드(캐치테이블)|payment & service operation assistant (3개월/체험형 인턴)": "2026-10-15",
+  "카카오게임즈|[체험형 인턴] 게임 운영 인턴 채용": "2026-10-16",
+  "카카오게임즈|[체험형 인턴] 국내 게임 사업 인턴 채용": "2026-10-16",
+  "카카오게임즈|[체험형 인턴] 글로벌 사업 인턴 채용": "2026-10-16",
+  "카카오게임즈|[체험형 인턴] 캐주얼 게임 사업 인턴 채용": "2026-10-16",
   "카카오뱅크|인증 플랫폼 기획 담당자 (채용연계형 인턴)": "2026-10-15",
   "크림|[kream] 콘텐츠 기획 체험형 인턴 모집": "2026-10-15",
   "토스|ai manager": "2026-10-15",
