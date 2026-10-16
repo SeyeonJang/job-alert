@@ -33,7 +33,7 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 122
+   "last_count": 120
   },
   "놀유니버스": {
    "adapter": "greeting",
@@ -45,13 +45,13 @@
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 54
+   "last_count": 53
   },
   "무신사": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 113
+   "last_count": 112
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 26
+   "last_count": 21
   },
   "에이블리": {
    "adapter": "ably",
@@ -111,7 +111,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 28
+   "last_count": 27
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -128,7 +128,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 38
+   "last_count": 39
   },
   "컬리": {
    "adapter": "greeting",
@@ -146,7 +146,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 288
+   "last_count": 287
   }
  },
  "jobs": {
@@ -3927,11 +3927,11 @@
    "title": "정산 담당자"
   },
   "에이블리|IPqGc3dy": {
-   "attempts": 2,
+   "attempts": 3,
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-16",
-   "reason": "상세 페이지 확인 실패",
-   "status": "pending",
+   "reason": "",
+   "status": "sent",
    "title": "라이프 비즈니스 리드"
   },
   "에이블리|Ik24wN5S": {
@@ -4007,11 +4007,11 @@
    "title": "IT 매니저"
   },
   "에이블리|chUrD0wx": {
-   "attempts": 2,
+   "attempts": 3,
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-16",
-   "reason": "상세 페이지 확인 실패",
-   "status": "pending",
+   "reason": "",
+   "status": "sent",
    "title": "데이터 분석가"
   },
   "에이블리|dQcOFAT6": {
@@ -4223,11 +4223,11 @@
    "title": "시니어 백엔드 엔지니어 (상품/재고)"
   },
   "에이블리|xxlS52Km": {
-   "attempts": 2,
+   "attempts": 3,
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-16",
-   "reason": "상세 페이지 확인 실패",
-   "status": "pending",
+   "reason": "",
+   "status": "sent",
    "title": "사업 개발 매니저"
   },
   "에이블리|yHxN78g2": {
@@ -5477,6 +5477,14 @@
    "reason": "고용형태: 어시스턴트",
    "status": "filtered",
    "title": "[어시스턴트] 유저리서치 업무 지원"
+  },
+  "카카오페이|240505": {
+   "attempts": 0,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "[계약직] 사업 담당자 - 가맹점 운영"
   },
   "카카오페이|93966": {
    "attempts": 0,
@@ -8460,7 +8468,10 @@
   "아모레퍼시픽|[경력] '26년 amorepacific 경력채용_글로벌 커머셜 담당": "2026-10-15",
   "에이블리|research assistant 인턴": "2026-10-15",
   "에이블리|고객 커뮤니케이션 운영기획 인턴": "2026-10-15",
+  "에이블리|데이터 분석가": "2026-10-16",
   "에이블리|데이터 분석가 (채용 연계형 인턴)": "2026-10-15",
+  "에이블리|라이프 비즈니스 리드": "2026-10-16",
+  "에이블리|사업 개발 매니저": "2026-10-16",
   "에이블리|사업 개발 매니저 인턴": "2026-10-15",
   "에이블리|투자 전략 매니저": "2026-10-15",
   "와드(캐치테이블)|payment & service operation assistant (3개월/체험형 인턴)": "2026-10-15",
