@@ -33,13 +33,13 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 114
+   "last_count": 115
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 114
+   "last_count": 115
   },
   "놀유니버스": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 73
+   "last_count": 72
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 287
+   "last_count": 285
   }
  },
  "jobs": {
@@ -1027,6 +1027,14 @@
    "reason": "직무 제외 (제목: 그래픽)",
    "status": "filtered",
    "title": "[넥슨] 게임그래픽 시퀀스 담당자 모집 (보훈 채용/계약직)"
+  },
+  "넥슨|10442": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "자격요건 3년 이상: 게임 운영 서비스 또는 게임 커뮤니티 운영 경험을 3년 이상 보유하신 분",
+   "status": "filtered",
+   "title": "[해외전략본부] 글로벌 라이브 서비스 담당자"
   },
   "넥슨|10456": {
    "attempts": 0,
@@ -1995,6 +2003,14 @@
    "reason": "직무 제외 (제목: 그래픽)",
    "status": "filtered",
    "title": "[넥슨] 게임그래픽 시퀀스 담당자 모집 (보훈 채용/계약직)"
+  },
+  "넥슨코리아|10442": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "자격요건 3년 이상: 게임 운영 서비스 또는 게임 커뮤니티 운영 경험을 3년 이상 보유하신 분",
+   "status": "filtered",
+   "title": "[해외전략본부] 글로벌 라이브 서비스 담당자"
   },
   "넥슨코리아|10456": {
    "attempts": 0,
@@ -3771,6 +3787,14 @@
    "reason": "직무 제외 (제목: fp&a)",
    "status": "filtered",
    "title": "FP&A (경영지원)"
+  },
+  "무신사|240841": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: 물류)",
+   "status": "filtered",
+   "title": "Product Lead (물류)"
   },
   "백패커|162371": {
    "attempts": 0,
