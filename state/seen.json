@@ -4,7 +4,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 18
+   "last_count": 17
   },
   "AB180": {
    "fail_streak": 2,
@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 11
   },
   "네이버페이": {
    "adapter": "naver",
@@ -57,13 +57,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 110
+   "last_count": 107
   },
   "백패커": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 16
+   "last_count": 15
   },
   "뱅크샐러드": {
    "adapter": "banksalad",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 72
+   "last_count": 70
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -87,13 +87,13 @@
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 57
+   "last_count": 56
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 30
+   "last_count": 31
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 27
+   "last_count": 28
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -140,19 +140,19 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 69
+   "last_count": 68
   },
   "크림": {
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 13
   },
   "토스": {
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 285
+   "last_count": 287
   }
  },
  "jobs": {
@@ -435,6 +435,14 @@
    "reason": "",
    "status": "sent",
    "title": "[네이버웹툰] 웹툰 숏폼 기획/제작 (체험형 인턴)"
+  },
+  "네이버|30005594": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[네이버웹툰] 퍼포먼스 마케팅 크리에이티브 (체험형 인턴)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -1211,6 +1219,14 @@
    "reason": "직무 제외 (제목: 아티스트)",
    "status": "filtered",
    "title": "[마비노기 모바일] 캐릭터 컨셉 아티스트"
+  },
+  "넥슨|9739": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: 모델러)",
+   "status": "filtered",
+   "title": "[슈터본부] 오버워치 하드서페이스 모델러"
   },
   "넥슨|9762": {
    "attempts": 0,
@@ -2187,6 +2203,14 @@
    "reason": "직무 제외 (제목: 아티스트)",
    "status": "filtered",
    "title": "[마비노기 모바일] 캐릭터 컨셉 아티스트"
+  },
+  "넥슨코리아|9739": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: 모델러)",
+   "status": "filtered",
+   "title": "[슈터본부] 오버워치 하드서페이스 모델러"
   },
   "넥슨코리아|9762": {
    "attempts": 0,
@@ -3780,6 +3804,22 @@
    "status": "filtered",
    "title": "Program Manager (Trust & Safety)"
   },
+  "무신사|240741": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "Operation Assistant (재팬 크로스보더)"
+  },
+  "무신사|240748": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (직군: sales)",
+   "status": "filtered",
+   "title": "운영 담당자 (재팬 크로스보더)"
+  },
   "무신사|240782": {
    "attempts": 0,
    "first_seen": "2026-10-16",
@@ -3795,6 +3835,14 @@
    "reason": "직무 제외 (제목: 물류)",
    "status": "filtered",
    "title": "Product Lead (물류)"
+  },
+  "무신사|240962": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "경력 3년 이상",
+   "status": "filtered",
+   "title": "Affiliate & Creator Partnership Specialist (인플루언서사업)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -5404,6 +5452,14 @@
    "status": "filtered",
    "title": "DevOps Team Leader"
   },
+  "여기어때컴퍼니|230852": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "Product Owner [상품/연동]"
+  },
   "여기어때컴퍼니|231807": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6251,6 +6307,14 @@
    "reason": "직무 제외 (직군: customer)",
    "status": "filtered",
    "title": "금융거래정보제공 업무 담당자 (채용연계형 인턴)"
+  },
+  "카카오뱅크|269639": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: 세무)",
+   "status": "filtered",
+   "title": "세무 업무 담당자 (계약직)"
   },
   "카카오페이|103673": {
    "attempts": 0,
@@ -7228,6 +7292,22 @@
    "status": "filtered",
    "title": "[KREAM] 디지털 마케팅 기획 체험형 인턴 모집"
   },
+  "크림|30005596": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[KREAM] 디지털 마케팅 체험형 인턴 모집"
+  },
+  "크림|30005597": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[KREAM] 플랫폼 브랜드 마케터 모집"
+  },
   "토스|4071131003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7539,6 +7619,14 @@
    "reason": "",
    "status": "sent",
    "title": "Loan Operations Manager"
+  },
+  "토스|5339477003": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "General Affairs Assistant"
   },
   "토스|5340733003": {
    "attempts": 0,
@@ -8091,6 +8179,14 @@
    "reason": "",
    "status": "sent",
    "title": "Data Product Manager"
+  },
+  "토스|6677963003": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: sales)",
+   "status": "filtered",
+   "title": "Sales Assistant (Internship)"
   },
   "토스|6685329003": {
    "attempts": 0,
@@ -8675,6 +8771,14 @@
    "reason": "자격요건 7년 이상: 콘텐츠 기획 및 제작 경력 7년 이상이신 분을 찾아요.",
    "status": "filtered",
    "title": "Content Producer"
+  },
+  "토스|7788551003": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: finance)",
+   "status": "filtered",
+   "title": "Global Finance Manager (Accounting)"
   },
   "토스|7789761003": {
    "attempts": 0,
@@ -9267,6 +9371,14 @@
    "reason": "직무 제외 (제목: 인재풀)",
    "status": "filtered",
    "title": "보훈특별채용 인재풀 등록"
+  },
+  "토스|7997983003": {
+   "attempts": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "reason": "직무 제외 (제목: sales)",
+   "status": "filtered",
+   "title": "Sales Strategy Team Leader"
   },
   "토스|7998148003": {
    "attempts": 0,
