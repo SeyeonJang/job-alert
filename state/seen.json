@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 14
   },
   "네이버페이": {
    "adapter": "naver",
@@ -45,19 +45,19 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 12
   },
   "당근": {
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 54
+   "last_count": 51
   },
   "무신사": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 106
+   "last_count": 105
   },
   "백패커": {
    "adapter": "greeting",
@@ -93,19 +93,19 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 31
+   "last_count": 32
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 41
+   "last_count": 42
   },
   "카카오": {
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 11
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -134,13 +134,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 36
+   "last_count": 34
   },
   "컬리": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 68
+   "last_count": 67
   },
   "크림": {
    "adapter": "naver",
@@ -443,6 +443,30 @@
    "reason": "직무 제외 (제목: 마케팅)",
    "status": "filtered",
    "title": "[네이버웹툰] 퍼포먼스 마케팅 크리에이티브 (체험형 인턴)"
+  },
+  "네이버|30005598": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "자격요건 4년 이상: 연차 4년 이상이신 분",
+   "status": "filtered",
+   "title": "[네이버웹툰] 일본 콘텐츠 프로그래밍 전략 매니저 / JP Content Programming Strategy Manager (경력)"
+  },
+  "네이버|30005600": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (제목: 현지화)",
+   "status": "filtered",
+   "title": "[네이버웹툰] 인도네시아어 현지화 프로젝트 운영 지원 (체험형 인턴)"
+  },
+  "네이버|30005605": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "자격요건 7년 이상: 그로스 마케팅 / CRM 마케팅 경력 7년 이상인 분",
+   "status": "filtered",
+   "title": "[네이버웹툰] 플랫폼 그로스 매니저 (경력)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -1091,6 +1115,14 @@
    "reason": "직무 제외 (제목: 디자이너)",
    "status": "filtered",
    "title": "[빈딕투스: 디파잉 페이트] 사운드 디자이너"
+  },
+  "넥슨|10463": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (제목: legal)",
+   "status": "filtered",
+   "title": "[ 대표이사직속] Legal Counsel (근무지: 서울 지점)"
   },
   "넥슨|6706": {
    "attempts": 0,
@@ -2076,6 +2108,14 @@
    "status": "filtered",
    "title": "[빈딕투스: 디파잉 페이트] 사운드 디자이너"
   },
+  "넥슨코리아|10463": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (제목: legal)",
+   "status": "filtered",
+   "title": "[ 대표이사직속] Legal Counsel (근무지: 서울 지점)"
+  },
   "넥슨코리아|6706": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -2451,6 +2491,22 @@
    "reason": "경력 15년 이상",
    "status": "filtered",
    "title": "광고사업, Leader"
+  },
+  "놀유니버스|241130": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "예술의전당 CS 및 매표소 운영 담당자 (계약직)"
+  },
+  "놀유니버스|241131": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "예술의전당 CS 운영 담당자 (계약직)"
   },
   "당근|4300801003": {
    "attempts": 0,
@@ -3867,6 +3923,14 @@
    "reason": "경력 3년 이상",
    "status": "filtered",
    "title": "Affiliate & Creator Partnership Specialist (인플루언서사업)"
+  },
+  "무신사|241118": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "Product Engineer (Partner Ads & Growth)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -5636,6 +5700,14 @@
    "status": "filtered",
    "title": "Hotel Sales Coordinator [Sales Support/계약직 1년]"
   },
+  "여기어때컴퍼니|241121": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (제목: security)",
+   "status": "filtered",
+   "title": "EndPoint Security & Data Loss Prevention Manager"
+  },
   "여기어때컴퍼니|28796": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -5964,6 +6036,14 @@
    "status": "filtered",
    "title": "AI Agent Engineer"
   },
+  "와드(캐치테이블)|241140": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (제목: 정산)",
+   "status": "filtered",
+   "title": "캐치테이블페이_정산 운영"
+  },
   "와드(캐치테이블)|75705": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6059,6 +6139,14 @@
    "reason": "고용형태: 어시스턴트",
    "status": "filtered",
    "title": "쇼핑하기 CM 리빙유아동_어시스턴트"
+  },
+  "카카오|P-14571": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (제목: md)",
+   "status": "filtered",
+   "title": "카카오프렌즈 상품 MD_어시스턴트"
   },
   "카카오게임즈|151266": {
    "attempts": 0,
@@ -9435,6 +9523,14 @@
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "Forward Deployed Engineer"
+  },
+  "토스|7996948003": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (직군: it planning)",
+   "status": "filtered",
+   "title": "IT Planning Manager"
   },
   "토스|7997905003": {
    "attempts": 0,
