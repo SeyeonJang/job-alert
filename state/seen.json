@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 107
+   "last_count": 106
   },
   "백패커": {
    "adapter": "greeting",
@@ -81,7 +81,7 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 21
+   "last_count": 23
   },
   "에이블리": {
    "adapter": "ably",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 26
+   "last_count": 27
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -4775,7 +4775,7 @@
   "아모레퍼시픽|1364531766": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-20",
    "reason": "직무 제외 (제목: 마케팅)",
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_글로벌 마케팅 커뮤니케이션 담당(일본)"
@@ -4783,7 +4783,7 @@
   "아모레퍼시픽|1364532066": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-20",
    "reason": "직무 제외 (제목: 마케팅)",
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_글로벌 마케팅 커뮤니케이션 담당(중국)"
@@ -5628,6 +5628,14 @@
    "status": "filtered",
    "title": "Marketing Strategy PM"
   },
+  "여기어때컴퍼니|241115": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (제목: sales)",
+   "status": "filtered",
+   "title": "Hotel Sales Coordinator [Sales Support/계약직 1년]"
+  },
   "여기어때컴퍼니|28796": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6267,6 +6275,14 @@
    "reason": "직무 제외 (제목: 엔지니어)",
    "status": "filtered",
    "title": "AI 엔지니어"
+  },
+  "카카오뱅크|264360": {
+   "attempts": 0,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "Vision AI 엔지니어"
   },
   "카카오뱅크|264465": {
    "attempts": 0,
