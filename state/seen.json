@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 105
+   "last_count": 104
   },
   "백패커": {
    "adapter": "greeting",
@@ -81,7 +81,7 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 21
+   "last_count": 22
   },
   "에이블리": {
    "adapter": "ably",
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 67
+   "last_count": 68
   },
   "크림": {
    "adapter": "naver",
@@ -153,6 +153,12 @@
    "fail_streak": 0,
    "initialized": true,
    "last_count": 286
+  },
+  "힐링페이퍼(강남언니)": {
+   "adapter": "greeting",
+   "fail_streak": 0,
+   "initialized": true,
+   "last_count": 39
   }
  },
  "jobs": {
@@ -5020,6 +5026,14 @@
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_AI 모델 개발 담당"
   },
+  "아모레퍼시픽|1369154466": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: account manager)",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_아마존 웨스턴(북미/유럽) Account Manager 담당"
+  },
   "에이블리|0Eu5yjmY": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7339,6 +7353,14 @@
    "reason": "직무 제외 (직군: 마케팅)",
    "status": "filtered",
    "title": "라이브커머스 기획/운영 담당자"
+  },
+  "컬리|240768": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "N마트 운영지원 담당자 (계약직)"
   },
   "컬리|240778": {
    "attempts": 0,
@@ -9875,6 +9897,318 @@
    "reason": "직무 제외 (제목: designer)",
    "status": "filtered",
    "title": "Visual Designer (Commerce Design Platform)"
+  },
+  "힐링페이퍼(강남언니)|10053": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "[강남언니] Product Owner (PO)"
+  },
+  "힐링페이퍼(강남언니)|104486": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 개발자)",
+   "status": "filtered",
+   "title": "[병원 운영 솔루션] 백엔드 개발자 (B2B SaaS)"
+  },
+  "힐링페이퍼(강남언니)|108592": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "",
+   "status": "sent",
+   "title": "[힐링페이퍼] 사외추천 안내 및 신청"
+  },
+  "힐링페이퍼(강남언니)|112999": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 디자이너)",
+   "status": "filtered",
+   "title": "[병원 운영 솔루션] 프로덕트 디자이너 (B2B SaaS)"
+  },
+  "힐링페이퍼(강남언니)|151561": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "[강남언니] 서비스 운영 매니저"
+  },
+  "힐링페이퍼(강남언니)|151898": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "보안 엔지니어 (Detection & Response)"
+  },
+  "힐링페이퍼(강남언니)|176384": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[강남언니] Analytics Engineer"
+  },
+  "힐링페이퍼(강남언니)|177080": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: marketer)",
+   "status": "filtered",
+   "title": "Digital Marketer (Contents) - Thailand"
+  },
+  "힐링페이퍼(강남언니)|189420": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "경력 10년 이상",
+   "status": "filtered",
+   "title": "[강남언니] Head of Product"
+  },
+  "힐링페이퍼(강남언니)|195331": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 상담)",
+   "status": "filtered",
+   "title": "[언니가이드] 글로벌 고객 상담사 - 영어 (계약직)"
+  },
+  "힐링페이퍼(강남언니)|195337": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "[언니가이드] 글로벌 고객 리셉션 컨시어지 - 영어 (계약직)"
+  },
+  "힐링페이퍼(강남언니)|198171": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[강남언니] 콘텐츠 마케터"
+  },
+  "힐링페이퍼(강남언니)|201327": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "",
+   "status": "sent",
+   "title": "[신사업] 글로벌 사업개발 인턴 (운영)"
+  },
+  "힐링페이퍼(강남언니)|205559": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 재무)",
+   "status": "filtered",
+   "title": "글로벌 재무팀 매니저"
+  },
+  "힐링페이퍼(강남언니)|208558": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 에디터)",
+   "status": "filtered",
+   "title": "[강남언니] 소셜미디어 에디터"
+  },
+  "힐링페이퍼(강남언니)|216449": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[강남언니] 퍼포먼스 마케터 (그로스 마케터)"
+  },
+  "힐링페이퍼(강남언니)|216944": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: account manager)",
+   "status": "filtered",
+   "title": "Senior Account Manager - Thailand"
+  },
+  "힐링페이퍼(강남언니)|231369": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[강남언니] Head of Engineering"
+  },
+  "힐링페이퍼(강남언니)|233709": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: account manager)",
+   "status": "filtered",
+   "title": "[강남언니] Account Manager"
+  },
+  "힐링페이퍼(강남언니)|235941": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[강남언니] 태국 소셜 마케팅 인턴 (체험형)"
+  },
+  "힐링페이퍼(강남언니)|237371": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "",
+   "status": "sent",
+   "title": "[강남언니] 미국 사업개발 인턴 (체험형)"
+  },
+  "힐링페이퍼(강남언니)|237532": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[강남언니] 브랜드 마케터 (일본)"
+  },
+  "힐링페이퍼(강남언니)|237541": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 에디터)",
+   "status": "filtered",
+   "title": "[강남언니] SNS 콘텐츠 에디터 (일본)"
+  },
+  "힐링페이퍼(강남언니)|237546": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 에디터)",
+   "status": "filtered",
+   "title": "[강남언니] 텍스트 콘텐츠 에디터 (일본)"
+  },
+  "힐링페이퍼(강남언니)|237751": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: recruiting)",
+   "status": "filtered",
+   "title": "Recruiting Coordinator (계약직)"
+  },
+  "힐링페이퍼(강남언니)|237838": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[강남언니] 시니어 콘텐츠 마케터 (일본)"
+  },
+  "힐링페이퍼(강남언니)|237977": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "보안 엔지니어 (Identity & Enterprise Security)"
+  },
+  "힐링페이퍼(강남언니)|238102": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 개인정보)",
+   "status": "filtered",
+   "title": "개인정보보호 담당자"
+  },
+  "힐링페이퍼(강남언니)|238816": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "경력 3년 이상",
+   "status": "filtered",
+   "title": "[신사업] 미국 사업개발 매니저"
+  },
+  "힐링페이퍼(강남언니)|239468": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[신사업] Forward Deployed Engineer"
+  },
+  "힐링페이퍼(강남언니)|240491": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[강남언니] 태국 콘텐츠 마케터 인턴 (체험형)"
+  },
+  "힐링페이퍼(강남언니)|240800": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 영업)",
+   "status": "filtered",
+   "title": "[강남언니] 영업기획 파트 리드"
+  },
+  "힐링페이퍼(강남언니)|5161": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 개발자)",
+   "status": "filtered",
+   "title": "[강남언니] 백엔드 개발자"
+  },
+  "힐링페이퍼(강남언니)|5163": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 개발자)",
+   "status": "filtered",
+   "title": "[강남언니] 웹 프론트엔드 개발자 (디자인 시스템)"
+  },
+  "힐링페이퍼(강남언니)|6624": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 인재풀)",
+   "status": "filtered",
+   "title": "[힐링페이퍼] 인재풀 등록"
+  },
+  "힐링페이퍼(강남언니)|92449": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (직군: 디자인)",
+   "status": "filtered",
+   "title": "[강남언니] 프로덕트 디자인 리드"
+  },
+  "힐링페이퍼(강남언니)|92450": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 디자이너)",
+   "status": "filtered",
+   "title": "[강남언니] 프로덕트 디자이너 (시니어)"
+  },
+  "힐링페이퍼(강남언니)|96884": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 개발자)",
+   "status": "filtered",
+   "title": "[강남언니] Android 개발자"
+  },
+  "힐링페이퍼(강남언니)|96885": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 개발자)",
+   "status": "filtered",
+   "title": "[강남언니] iOS 개발자"
   }
  },
  "sent_titles": {
@@ -9938,7 +10272,10 @@
   "토스|수신 상품 manager": "2026-10-15",
   "토스|여신 상품 manager (기업여신 심사)": "2026-10-15",
   "토스|여신 제도 manager": "2026-10-15",
-  "토스|외환 상품 manager (해외송금)": "2026-10-15"
+  "토스|외환 상품 manager (해외송금)": "2026-10-15",
+  "힐링페이퍼(강남언니)|[강남언니] 미국 사업개발 인턴 (체험형)": "2026-10-21",
+  "힐링페이퍼(강남언니)|[신사업] 글로벌 사업개발 인턴 (운영)": "2026-10-21",
+  "힐링페이퍼(강남언니)|[힐링페이퍼] 사외추천 안내 및 신청": "2026-10-21"
  },
  "version": 1
 }
