@@ -33,13 +33,13 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 115
+   "last_count": 116
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 115
+   "last_count": 116
   },
   "놀유니버스": {
    "adapter": "greeting",
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 104
+   "last_count": 105
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 73
+   "last_count": 72
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -99,7 +99,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 42
+   "last_count": 44
   },
   "카카오": {
    "adapter": "kakao",
@@ -134,7 +134,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 32
+   "last_count": 31
   },
   "컬리": {
    "adapter": "greeting",
@@ -777,6 +777,14 @@
    "reason": "직무 제외 (제목: 애니메이터)",
    "status": "filtered",
    "title": "[빈딕투스: 디파잉 페이트] 인게임 애니메이터 (계약직)"
+  },
+  "넥슨|10278": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "[기술본부] 데이터 온톨로지/지식그래프 엔지니어"
   },
   "넥슨|10279": {
    "attempts": 0,
@@ -1737,6 +1745,14 @@
    "reason": "직무 제외 (제목: 애니메이터)",
    "status": "filtered",
    "title": "[빈딕투스: 디파잉 페이트] 인게임 애니메이터 (계약직)"
+  },
+  "넥슨코리아|10278": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "[기술본부] 데이터 온톨로지/지식그래프 엔지니어"
   },
   "넥슨코리아|10279": {
    "attempts": 0,
@@ -3421,7 +3437,7 @@
   "무신사|232056": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-21",
    "reason": "직무 제외 (제목: marketing)",
    "status": "filtered",
    "title": "Growth Marketing Lead"
@@ -3465,6 +3481,14 @@
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "Machine Learning Engineer (AI)"
+  },
+  "무신사|234333": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: marketing)",
+   "status": "filtered",
+   "title": "Social Marketing Lead (무신사·29CM)"
   },
   "무신사|234706": {
    "attempts": 0,
@@ -6089,6 +6113,22 @@
    "reason": "직무 제외 (제목: 정산)",
    "status": "filtered",
    "title": "캐치테이블페이_정산 운영"
+  },
+  "와드(캐치테이블)|241308": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: 재무)",
+   "status": "filtered",
+   "title": "재무/회계 및 FP&A 담당자 (2~7년차)"
+  },
+  "와드(캐치테이블)|241367": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (직군: sales)",
+   "status": "filtered",
+   "title": "Key Account Management, KAM"
   },
   "와드(캐치테이블)|75705": {
    "attempts": 0,
@@ -9897,6 +9937,22 @@
    "reason": "직무 제외 (제목: designer)",
    "status": "filtered",
    "title": "Visual Designer (Commerce Design Platform)"
+  },
+  "토스|8039736003": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "Savings Operations Specialist"
+  },
+  "토스|8039740003": {
+   "attempts": 0,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "Security Engineering Team Leader"
   },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
