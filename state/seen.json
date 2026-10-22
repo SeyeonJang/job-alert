@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 13
+   "last_count": 15
   },
   "네이버페이": {
    "adapter": "naver",
@@ -45,7 +45,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 12
+   "last_count": 11
   },
   "당근": {
    "adapter": "greenhouse",
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 105
+   "last_count": 102
   },
   "백패커": {
    "adapter": "greeting",
@@ -81,7 +81,7 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 22
+   "last_count": 23
   },
   "에이블리": {
    "adapter": "ably",
@@ -99,7 +99,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 44
+   "last_count": 45
   },
   "카카오": {
    "adapter": "kakao",
@@ -134,31 +134,31 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 31
+   "last_count": 30
   },
   "컬리": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 68
+   "last_count": 71
   },
   "크림": {
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 12
+   "last_count": 13
   },
   "토스": {
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 286
+   "last_count": 287
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 40
+   "last_count": 41
   }
  },
  "jobs": {
@@ -473,6 +473,22 @@
    "reason": "자격요건 7년 이상: 그로스 마케팅 / CRM 마케팅 경력 7년 이상인 분",
    "status": "filtered",
    "title": "[네이버웹툰] 플랫폼 그로스 매니저 (경력)"
+  },
+  "네이버|30005609": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[SNOW] 남미(스페인어권) 컨텐츠 마케터 (계약직)"
+  },
+  "네이버|30005610": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "",
+   "status": "sent",
+   "title": "[네이버웹툰] 캐릭터 AI 모델 기획 및 테스트 (체험형 인턴)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -4930,6 +4946,14 @@
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_노무관리 담당"
   },
+  "아모레퍼시픽|1366707566": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_건강식품 마케팅/상품개발 담당"
+  },
   "아모레퍼시픽|1366891666": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6129,6 +6153,22 @@
    "reason": "직무 제외 (직군: sales)",
    "status": "filtered",
    "title": "Key Account Management, KAM"
+  },
+  "와드(캐치테이블)|241564": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "직무 제외 (제목: 영업)",
+   "status": "filtered",
+   "title": "성과형 광고(CPA) 영업 인턴 (AD Sales_Performance AD, 6개월/정규직 전환 기회)"
+  },
+  "와드(캐치테이블)|241578": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "기술보안 담당자 (Security Engineer)"
   },
   "와드(캐치테이블)|75705": {
    "attempts": 0,
@@ -7386,6 +7426,14 @@
    "status": "filtered",
    "title": "해외사업 수출 행정 담당자"
   },
+  "컬리|239610": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "글로벌 뷰티PB 마케터"
+  },
   "컬리|239994": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7425,6 +7473,22 @@
    "reason": "직무 제외 (제목: 재무)",
    "status": "filtered",
    "title": "재무회계 담당자"
+  },
+  "컬리|241498": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "VIP 마케팅 담당자 (5년 이상)"
+  },
+  "컬리|241537": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "IT 네트워크 엔지니어"
   },
   "컬리|78179": {
    "attempts": 0,
@@ -7561,6 +7625,14 @@
    "reason": "직무 제외 (제목: 마케터)",
    "status": "filtered",
    "title": "[KREAM] 플랫폼 브랜드 마케터 모집"
+  },
+  "크림|30005613": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "",
+   "status": "sent",
+   "title": "[KREAM] 스타일 탭 인플루언서 운영 체험형 인턴 모집"
   },
   "토스|4071131003": {
    "attempts": 0,
@@ -7833,6 +7905,14 @@
    "reason": "직무 제외 (직군: risk)",
    "status": "filtered",
    "title": "Risk Team Assistant (Internship)"
+  },
+  "토스|4980435003": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "IT Admin"
   },
   "토스|5015455003": {
    "attempts": 0,
@@ -9850,6 +9930,14 @@
    "status": "filtered",
    "title": "Commerce Partner SLA manager"
   },
+  "토스|8011265003": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "직무 제외 (제목: account manager)",
+   "status": "filtered",
+   "title": "Technical Account Manager"
+  },
   "토스|8012925003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -9869,7 +9957,7 @@
   "토스|8014326003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-19",
+   "last_seen": "2026-10-22",
    "reason": "직무 제외 (제목: compliance)",
    "status": "filtered",
    "title": "Compliance Assistant (광고 모니터링)"
@@ -10250,6 +10338,14 @@
    "status": "filtered",
    "title": "[강남언니] Product Owner (Group Lead)"
   },
+  "힐링페이퍼(강남언니)|241501": {
+   "attempts": 0,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[AI Foundation] Forward Deployed Engineer"
+  },
   "힐링페이퍼(강남언니)|5161": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -10309,6 +10405,7 @@
  },
  "sent_titles": {
   "네이버|[네이버웹툰] 웹툰 숏폼 기획/제작 (체험형 인턴)": "2026-10-16",
+  "네이버|[네이버웹툰] 캐릭터 ai 모델 기획 및 테스트 (체험형 인턴)": "2026-10-22",
   "넥슨|[민트로켓] 사업/대외업무 담당자": "2026-10-17",
   "넥슨|[빅게임본부] 게임 ux 리서치 (인턴)": "2026-10-17",
   "넥슨|[전략분석실] 데이터분석가 (근무지: 제주본사)": "2026-10-17",
@@ -10337,6 +10434,7 @@
   "카카오게임즈|[체험형 인턴] 글로벌 사업 인턴 채용": "2026-10-16",
   "카카오게임즈|[체험형 인턴] 캐주얼 게임 사업 인턴 채용": "2026-10-16",
   "카카오뱅크|인증 플랫폼 기획 담당자 (채용연계형 인턴)": "2026-10-15",
+  "크림|[kream] 스타일 탭 인플루언서 운영 체험형 인턴 모집": "2026-10-22",
   "크림|[kream] 콘텐츠 기획 체험형 인턴 모집": "2026-10-15",
   "토스|ai manager": "2026-10-15",
   "토스|banking product owner": "2026-10-15",
