@@ -33,13 +33,13 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 116
+   "last_count": 115
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 116
+   "last_count": 115
   },
   "놀유니버스": {
    "adapter": "greeting",
@@ -93,7 +93,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 32
+   "last_count": 31
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
