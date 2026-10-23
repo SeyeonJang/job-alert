@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 15
+   "last_count": 16
   },
   "네이버페이": {
    "adapter": "naver",
@@ -33,13 +33,13 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 115
+   "last_count": 116
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 115
+   "last_count": 116
   },
   "놀유니버스": {
    "adapter": "greeting",
@@ -93,13 +93,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 31
+   "last_count": 32
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 48
+   "last_count": 47
   },
   "카카오": {
    "adapter": "kakao",
@@ -152,13 +152,13 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 287
+   "last_count": 286
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 42
+   "last_count": 41
   }
  },
  "jobs": {
@@ -489,6 +489,14 @@
    "reason": "",
    "status": "sent",
    "title": "[네이버웹툰] 캐릭터 AI 모델 기획 및 테스트 (체험형 인턴)"
+  },
+  "네이버|30005612": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: editor)",
+   "status": "filtered",
+   "title": "[네이버웹툰] 웹소설 편집자 (Novel Editor) (경력)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -1153,6 +1161,14 @@
    "reason": "직무 제외 (제목: legal)",
    "status": "filtered",
    "title": "[ 대표이사직속] Legal Counsel (근무지: 서울 지점)"
+  },
+  "넥슨|10477": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: 프로그래머)",
+   "status": "filtered",
+   "title": "[플랫폼본부] UA실 서버 프로그래머"
   },
   "넥슨|6706": {
    "attempts": 0,
@@ -2153,6 +2169,14 @@
    "reason": "직무 제외 (제목: legal)",
    "status": "filtered",
    "title": "[ 대표이사직속] Legal Counsel (근무지: 서울 지점)"
+  },
+  "넥슨코리아|10477": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: 프로그래머)",
+   "status": "filtered",
+   "title": "[플랫폼본부] UA실 서버 프로그래머"
   },
   "넥슨코리아|6706": {
    "attempts": 0,
@@ -3978,6 +4002,14 @@
    "status": "filtered",
    "title": "Affiliate & Creator Partnership Specialist (인플루언서사업)"
   },
+  "무신사|241110": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: 소싱)",
+   "status": "filtered",
+   "title": "전략소싱 담당자 (통합소싱)"
+  },
   "무신사|241118": {
    "attempts": 0,
    "first_seen": "2026-10-20",
@@ -5801,6 +5833,14 @@
    "reason": "경력 3년 이상",
    "status": "filtered",
    "title": "Product Owner [파트너서비스]"
+  },
+  "여기어때컴퍼니|241655": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: sales)",
+   "status": "filtered",
+   "title": "Sales Strategy & Planning Manager"
   },
   "여기어때컴퍼니|28796": {
    "attempts": 0,
