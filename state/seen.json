@@ -33,19 +33,19 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 116
+   "last_count": 114
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 116
+   "last_count": 114
   },
   "놀유니버스": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 10
   },
   "당근": {
    "adapter": "greenhouse",
@@ -99,7 +99,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 47
+   "last_count": 49
   },
   "카카오": {
    "adapter": "kakao",
@@ -152,13 +152,13 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 286
+   "last_count": 283
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 41
+   "last_count": 43
   }
  },
  "jobs": {
@@ -3434,6 +3434,14 @@
    "status": "filtered",
    "title": "MD (IP Business)"
   },
+  "무신사|231092": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "경력 2년 이상",
+   "status": "filtered",
+   "title": "Retail Media Growth Manager"
+  },
   "무신사|231204": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -4017,6 +4025,22 @@
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "Product Engineer (Partner Ads & Growth)"
+  },
+  "무신사|241682": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "Operations Assistant (인플루언서사업)"
+  },
+  "무신사|241770": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "Product Engineer (Purchase)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -6234,6 +6258,22 @@
    "status": "filtered",
    "title": "AI-Native Product Designer (Social Service)"
   },
+  "와드(캐치테이블)|241752": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "브랜드 제휴 마케터 (1년 계약직)"
+  },
+  "와드(캐치테이블)|241761": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: 세일즈)",
+   "status": "filtered",
+   "title": "광고 세일즈 (6개월 인턴, 부산 근무)"
+  },
   "와드(캐치테이블)|75705": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8034,6 +8074,14 @@
    "status": "sent",
    "title": "Loan Operations Manager"
   },
+  "토스|5311744003": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: developer)",
+   "status": "filtered",
+   "title": "Frontend Developer"
+  },
   "토스|5339477003": {
    "attempts": 0,
    "first_seen": "2026-10-19",
@@ -8266,6 +8314,14 @@
    "status": "filtered",
    "title": "Account Manager"
   },
+  "토스|6016364003": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "General Affairs Specialist"
+  },
   "토스|6025151003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8353,6 +8409,14 @@
    "reason": "직무 제외 (제목: designer)",
    "status": "filtered",
    "title": "Visual Designer [Design Platform Team]"
+  },
+  "토스|6255661003": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "",
+   "status": "sent",
+   "title": "Collections Manager"
   },
   "토스|6257655003": {
    "attempts": 0,
@@ -8449,6 +8513,14 @@
    "reason": "직무 제외 (제목: 인재풀)",
    "status": "filtered",
    "title": "Device 관련 포지션 인재풀 등록"
+  },
+  "토스|6518979003": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "자격요건 7년 이상: 7년 이상 전략 관련 경력을 바탕으로 주도적으로 업무하실 수 있는 분을 찾고 있어요.",
+   "status": "filtered",
+   "title": "Strategy Manager"
   },
   "토스|6520290003": {
    "attempts": 0,
@@ -8577,6 +8649,14 @@
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "IT Operations Specialist"
+  },
+  "토스|6620334003": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: legal)",
+   "status": "filtered",
+   "title": "Legal Counsel"
   },
   "토스|6620395003": {
    "attempts": 0,
@@ -9241,6 +9321,14 @@
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "Systems Engineer"
+  },
+  "토스|7797408003": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "Retail Operations Support Assistant"
   },
   "토스|7797504003": {
    "attempts": 0,
@@ -10154,6 +10242,22 @@
    "status": "filtered",
    "title": "Data Engineering Specialist"
   },
+  "토스|8042384003": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "",
+   "status": "sent",
+   "title": "Technical Product Owner (AI)"
+  },
+  "토스|8042416003": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (직군: it planning)",
+   "status": "filtered",
+   "title": "IT Governance Manager"
+  },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -10434,6 +10538,22 @@
    "status": "filtered",
    "title": "[강남언니] Product Owner (파트너/정산)"
   },
+  "힐링페이퍼(강남언니)|241674": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "경력 3년 이상",
+   "status": "filtered",
+   "title": "[강남언니] 콘텐츠 운영 정책 매니저"
+  },
+  "힐링페이퍼(강남언니)|241712": {
+   "attempts": 0,
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "reason": "직무 제외 (제목: ios)",
+   "status": "filtered",
+   "title": "[강남언니] iOS 개발 인턴 (체험형)"
+  },
   "힐링페이퍼(강남언니)|5161": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -10529,6 +10649,7 @@
   "토스|business operations manager": "2026-10-15",
   "토스|ca operations manager": "2026-10-15",
   "토스|ceo staff": "2026-10-15",
+  "토스|collections manager": "2026-10-23",
   "토스|corporate development manager": "2026-10-15",
   "토스|data analyst": "2026-10-15",
   "토스|data governance manager": "2026-10-15",
@@ -10551,6 +10672,7 @@
   "토스|product owner [commerce]": "2026-10-15",
   "토스|search quality operations manager": "2026-10-15",
   "토스|technical product owner": "2026-10-15",
+  "토스|technical product owner (ai)": "2026-10-23",
   "토스|수신 상품 manager": "2026-10-15",
   "토스|여신 상품 manager (기업여신 심사)": "2026-10-15",
   "토스|여신 제도 manager": "2026-10-15",
