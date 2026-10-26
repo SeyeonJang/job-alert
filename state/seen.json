@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 16
+   "last_count": 17
   },
   "네이버페이": {
    "adapter": "naver",
@@ -33,19 +33,19 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 113
+   "last_count": 112
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 113
+   "last_count": 112
   },
   "놀유니버스": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 9
+   "last_count": 10
   },
   "당근": {
    "adapter": "greenhouse",
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 103
+   "last_count": 105
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,13 +75,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 72
+   "last_count": 68
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 22
+   "last_count": 23
   },
   "에이블리": {
    "adapter": "ably",
@@ -99,25 +99,25 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 49
+   "last_count": 52
   },
   "카카오": {
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 12
   },
   "카카오게임즈": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 7
+   "last_count": 6
   },
   "카카오뱅크": {
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 27
+   "last_count": 29
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -134,25 +134,25 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 30
+   "last_count": 29
   },
   "컬리": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 72
+   "last_count": 70
   },
   "크림": {
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 13
+   "last_count": 14
   },
   "토스": {
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 282
+   "last_count": 283
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -513,6 +513,14 @@
    "reason": "직무 제외 (제목: editor)",
    "status": "filtered",
    "title": "[네이버웹툰] 웹소설 편집자 (Novel Editor) (경력)"
+  },
+  "네이버|30005620": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "자격요건 7년 이상: 콘텐츠 프로그래밍(편성), 에디토리얼 큐레이션, 서비스 MD, 콘텐츠 마케팅 경력 7년 이상이신 분",
+   "status": "filtered",
+   "title": "[네이버웹툰] 영어/미국웹툰 사업 - 콘텐츠 프로그래밍 매니저(인앱 큐레이션) (경력)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -2506,6 +2514,14 @@
    "status": "filtered",
    "title": "성남아트센터 티켓 운영 담당자 (계약직)"
   },
+  "놀유니버스|235284": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "경력 3년 이상",
+   "status": "filtered",
+   "title": "[놀씨어터] 블루스퀘어 조명팀 조명감독 (정규직)"
+  },
   "놀유니버스|235927": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -3930,6 +3946,14 @@
    "status": "filtered",
    "title": "Buying MD (글로벌 여성패션)"
   },
+  "무신사|240103": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: md)",
+   "status": "filtered",
+   "title": "온라인 MD (PB 브랜드/우먼즈)"
+  },
   "무신사|240396": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -4049,6 +4073,14 @@
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "Operations Assistant (인플루언서사업)"
+  },
+  "무신사|241688": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: 소싱)",
+   "status": "filtered",
+   "title": "AMD (통합소싱)"
   },
   "무신사|241720": {
    "attempts": 0,
@@ -5093,7 +5125,7 @@
   "아모레퍼시픽|1368205066": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-26",
    "reason": "직무 제외 (제목: account manager)",
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_아마존(일본) Account Manager 담당"
@@ -5898,6 +5930,14 @@
    "status": "filtered",
    "title": "Sales Strategy & Planning Manager"
   },
+  "여기어때컴퍼니|241827": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "Business Strategy Analyst [계약직 1년]"
+  },
   "여기어때컴퍼니|28796": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6266,6 +6306,22 @@
    "status": "filtered",
    "title": "기술보안 담당자 (Security Engineer)"
   },
+  "와드(캐치테이블)|241601": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "시니어 그로스 마케터"
+  },
+  "와드(캐치테이블)|241607": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "브랜드 마케터"
+  },
   "와드(캐치테이블)|241609": {
    "attempts": 0,
    "first_seen": "2026-10-23",
@@ -6305,6 +6361,14 @@
    "reason": "직무 제외 (제목: 세일즈)",
    "status": "filtered",
    "title": "광고 세일즈 (6개월 인턴, 부산 근무)"
+  },
+  "와드(캐치테이블)|241835": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "제휴 마케터"
   },
   "와드(캐치테이블)|75705": {
    "attempts": 0,
@@ -6409,6 +6473,22 @@
    "reason": "직무 제외 (제목: md)",
    "status": "filtered",
    "title": "카카오프렌즈 상품 MD_어시스턴트"
+  },
+  "카카오|P-14574": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: 세일즈)",
+   "status": "filtered",
+   "title": "광고대행사 세일즈 운영/관리 지원_어시스턴트"
+  },
+  "카카오|P-14575": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "식품 CM_어시스턴트"
   },
   "카카오게임즈|151266": {
    "attempts": 0,
@@ -6658,6 +6738,14 @@
    "status": "filtered",
    "title": "여신 전자등기 운영 담당자 (계약직)"
   },
+  "카카오뱅크|265982": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "자격요건 3년 이상: 금융권에서의 부동산 관련 여신 상품 기획, 운영/심사 실무 경력이 3년 이상인 분",
+   "status": "filtered",
+   "title": "가계대출 상품 기획 및 운영 담당자"
+  },
   "카카오뱅크|266112": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6761,6 +6849,14 @@
    "reason": "직무 제외 (제목: 인사)",
    "status": "filtered",
    "title": "개인사업자 대출 상품 운영 담당자 (계약직)"
+  },
+  "카카오뱅크|270312": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: 인재영입)",
+   "status": "filtered",
+   "title": "인재영입 어시스턴트 (체험형 인턴)"
   },
   "카카오페이|103673": {
    "attempts": 0,
@@ -7802,6 +7898,14 @@
    "status": "sent",
    "title": "[KREAM] 스타일 탭 인플루언서 운영 체험형 인턴 모집"
   },
+  "크림|30005622": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "자격요건 8년 이상: 커머스·이커머스 도메인에서 8년 이상 마케팅/브랜드/카테고리 관련 경력 (팀 리딩 경험 포함)",
+   "status": "filtered",
+   "title": "[KREAM] 캠페인 매니저 (Senior) 모집"
+  },
   "토스|4071131003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7905,6 +8009,14 @@
    "reason": "",
    "status": "sent",
    "title": "Business Operations Manager"
+  },
+  "토스|4083694003": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: qa)",
+   "status": "filtered",
+   "title": "QA Specialist"
   },
   "토스|4153931003": {
    "attempts": 0,
@@ -8298,6 +8410,14 @@
    "status": "filtered",
    "title": "Sales Excellence Manager"
   },
+  "토스|5827249003": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "자격요건 5년 이상: IT, 스타트업이나 금융업에서 사업지원(BA), 정산, 운영 등 백오피스 업무를 5년 이상 주도적으로 경험하신 분이 필요해요.",
+   "status": "filtered",
+   "title": "Business Operations Manager"
+  },
   "토스|5841414003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8445,7 +8565,7 @@
   "토스|6219801003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-26",
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "General Affairs Specialist"
@@ -8665,6 +8785,14 @@
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "ML Backend Engineer"
+  },
+  "토스|6603597003": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "",
+   "status": "sent",
+   "title": "FX Manager (해외송금)"
   },
   "토스|6603749003": {
    "attempts": 0,
@@ -9273,6 +9401,14 @@
    "reason": "자격요건 5년 이상: You have 5+ years of experience as a Product Owner or in an equivalent product role.",
    "status": "filtered",
    "title": "Platform Product Owner (Global)"
+  },
+  "토스|7757642003": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: 스태프)",
+   "status": "filtered",
+   "title": "토스쇼핑 음성 데이터 검수 스태프 (팀원)"
   },
   "토스|7761021003": {
    "attempts": 0,
@@ -9890,6 +10026,14 @@
    "status": "filtered",
    "title": "ML Engineer [Commerce]"
   },
+  "토스|7992339003": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (제목: 상담)",
+   "status": "filtered",
+   "title": "B2C 뷰티회사 단순문의 상담 (정규직,  신입 / 경력)"
+  },
   "토스|7993808003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -10314,6 +10458,14 @@
    "status": "filtered",
    "title": "IT Governance Manager"
   },
+  "토스|8044053003": {
+   "attempts": 0,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "reason": "직무 제외 (직군: pr)",
+   "status": "filtered",
+   "title": "Communications Specialist"
+  },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -10730,6 +10882,7 @@
   "토스|data scientist": "2026-10-15",
   "토스|dataops manager": "2026-10-15",
   "토스|financial data analyst (fp&a)": "2026-10-15",
+  "토스|fx manager (해외송금)": "2026-10-26",
   "토스|global ux research program manager": "2026-10-15",
   "토스|infra strategy manager": "2026-10-15",
   "토스|internal infra operator": "2026-10-20",
