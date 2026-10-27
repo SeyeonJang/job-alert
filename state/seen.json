@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 17
+   "last_count": 19
   },
   "네이버페이": {
    "adapter": "naver",
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 104
+   "last_count": 105
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 68
+   "last_count": 67
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -105,7 +105,7 @@
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 12
+   "last_count": 13
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 32
+   "last_count": 33
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 70
+   "last_count": 68
   },
   "크림": {
    "adapter": "naver",
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 281
+   "last_count": 280
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -346,6 +346,14 @@
    "status": "filtered",
    "title": "[SSG.COM] 피킹패킹 오후 스태프 모집"
   },
+  "네이버|30005297": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "자격요건 8년 이상: 유관 경력 8년 이상으로, 사업/서비스 총괄 또는 조직 리딩, 플랫폼 사업 운영 경험이 있으신 분",
+   "status": "filtered",
+   "title": "[네이버웹툰] FR WEBTOON Lead (경력)"
+  },
   "네이버|30005455": {
    "attempts": 0,
    "first_seen": "2026-10-24",
@@ -521,6 +529,14 @@
    "reason": "자격요건 7년 이상: 콘텐츠 프로그래밍(편성), 에디토리얼 큐레이션, 서비스 MD, 콘텐츠 마케팅 경력 7년 이상이신 분",
    "status": "filtered",
    "title": "[네이버웹툰] 영어/미국웹툰 사업 - 콘텐츠 프로그래밍 매니저(인앱 큐레이션) (경력)"
+  },
+  "네이버|30005625": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: animator)",
+   "status": "filtered",
+   "title": "[네이버웹툰] AI 애니메이션 제작 (AI animator) (신입)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -2602,6 +2618,14 @@
    "status": "filtered",
    "title": "예술의전당 CS 운영 담당자 (계약직)"
   },
+  "놀유니버스|241856": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "[놀씨어터] Venue사업2팀 PD (정규직)"
+  },
   "당근|4300801003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -3953,6 +3977,14 @@
    "reason": "직무 제외 (제목: md)",
    "status": "filtered",
    "title": "온라인 MD (PB 브랜드/우먼즈)"
+  },
+  "무신사|240183": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: marketer)",
+   "status": "filtered",
+   "title": "Growth Marketer (카테고리 전략 담당)"
   },
   "무신사|240396": {
    "attempts": 0,
@@ -6490,6 +6522,14 @@
    "status": "filtered",
    "title": "식품 CM_어시스턴트"
   },
+  "카카오|P-14576": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: 콘텐츠 제작)",
+   "status": "filtered",
+   "title": "카카오프렌즈 SNS 콘텐츠 제작 및 운영관리_어시스턴트"
+  },
   "카카오게임즈|151266": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6865,6 +6905,14 @@
    "reason": "직무 제외 (제목: 인재영입)",
    "status": "filtered",
    "title": "인재영입 어시스턴트 (체험형 인턴)"
+  },
+  "카카오뱅크|270466": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "자격요건 4년 이상: 4년 이상 펀드 조직에 근무하면서 제도 기획의 경험이 풍부한 분",
+   "status": "filtered",
+   "title": "펀드 제도 기획 및 운영 업무 담당자"
   },
   "카카오페이|103673": {
    "attempts": 0,
