@@ -4,7 +4,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 17
+   "last_count": 18
   },
   "AB180": {
    "fail_streak": 2,
@@ -45,19 +45,19 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 9
   },
   "당근": {
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 48
+   "last_count": 53
   },
   "무신사": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 105
+   "last_count": 107
   },
   "백패커": {
    "adapter": "greeting",
@@ -81,7 +81,7 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 20
+   "last_count": 22
   },
   "에이블리": {
    "adapter": "ably",
@@ -93,7 +93,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 32
+   "last_count": 31
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
@@ -105,13 +105,13 @@
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 13
+   "last_count": 12
   },
   "카카오게임즈": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 6
+   "last_count": 8
   },
   "카카오뱅크": {
    "adapter": "kakaobank",
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 68
+   "last_count": 66
   },
   "크림": {
    "adapter": "naver",
@@ -158,7 +158,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 45
+   "last_count": 46
   }
  },
  "jobs": {
@@ -305,6 +305,14 @@
    "reason": "직무 제외 (제목: 디자이너)",
    "status": "filtered",
    "title": "[운빨존많겜] 2D 게임 그래픽 디자이너"
+  },
+  "111퍼센트(게임회사)|242114": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: 로컬라이제이션)",
+   "status": "filtered",
+   "title": "일본 로컬라이제이션 담당자"
   },
   "SSG닷컴|5259": {
    "attempts": 0,
@@ -3090,6 +3098,46 @@
    "status": "filtered",
    "title": "Software Engineer (인턴) - Cross Product Growth (AI Productivity & Agents)"
   },
+  "당근|8042571003": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[산업기능요원 집중 채용 캠페인] Software Engineer, Android"
+  },
+  "당근|8043875003": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[산업기능요원 집중 채용 캠페인] Software Engineer, Frontend"
+  },
+  "당근|8043876003": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[산업기능요원 집중 채용 캠페인] Software Engineer, Backend"
+  },
+  "당근|8043877003": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[산업기능요원 집중 채용 캠페인] Software Engineer, Machine Learning"
+  },
+  "당근|8043888003": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[산업기능요원 집중 채용 캠페인] Software Engineer, iOS"
+  },
   "무신사|167927": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -4138,6 +4186,30 @@
    "status": "filtered",
    "title": "Product Engineer (Catalog)"
   },
+  "무신사|242044": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "Network Engineer"
+  },
+  "무신사|242055": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (직군: engineering)",
+   "status": "filtered",
+   "title": "CERT/취약점진단 (무신사페이먼츠)"
+  },
+  "무신사|242139": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "브랜드 전략 기획 담당자"
+  },
   "백패커|162371": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -5005,7 +5077,7 @@
   "아모레퍼시픽|1357097666": {
    "attempts": 0,
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-25",
+   "last_seen": "2026-10-27",
    "reason": "자격요건 3년 이상: 경력: 관련 경력 3년 이상 있으신 분",
    "status": "filtered",
    "title": "[경력] '26년 INNISFREE 경력채용_글로벌 커머스 전략 (Amazon)"
@@ -5189,7 +5261,7 @@
   "아모레퍼시픽|1368551866": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-27",
    "reason": "자격요건 3년 이상: 경력: 관련 경력 3년 이상 있으신 분",
    "status": "filtered",
    "title": "[경력] '26년 INNISFREE 경력채용_상품기획 및 개발 직무 채용"
@@ -6593,6 +6665,22 @@
    "reason": "",
    "status": "sent",
    "title": "[체험형 인턴] 게임 운영 인턴 채용"
+  },
+  "카카오게임즈|242025": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[신입/경력] 수집형/방치형 RPG 마케팅PM 영입"
+  },
+  "카카오게임즈|242069": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[체험형 인턴] 중국 시장 마케팅 인턴 영입 (유학생)"
   },
   "카카오뱅크|203574": {
    "attempts": 0,
@@ -9266,6 +9354,14 @@
    "status": "filtered",
    "title": "HR Operations Manager"
   },
+  "토스|7637811003": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "30일 안에 같은 제목을 보냄",
+   "status": "filtered",
+   "title": "Business Operations Manager"
+  },
   "토스|7639910003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -10522,6 +10618,14 @@
    "status": "filtered",
    "title": "Communications Specialist"
   },
+  "토스|8044385003": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "자격요건 5년 이상: 5년 이상의 콜센터·컨택센터 인프라(IP-PBX, CTI, IVR, 녹취, 상담 VDI 등) 운영 경험이 있으신 분이 필요해요.",
+   "status": "filtered",
+   "title": "Call Infra Manager"
+  },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -10834,6 +10938,14 @@
    "status": "filtered",
    "title": "[AI Foundation] 백엔드 개발자"
   },
+  "힐링페이퍼(강남언니)|242029": {
+   "attempts": 0,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "reason": "",
+   "status": "sent",
+   "title": "[신사업] 사업개발 인턴 (체험형)"
+  },
   "힐링페이퍼(강남언니)|5161": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -10961,6 +11073,7 @@
   "토스|외환 상품 manager (해외송금)": "2026-10-15",
   "힐링페이퍼(강남언니)|[강남언니] 미국 사업개발 인턴 (체험형)": "2026-10-21",
   "힐링페이퍼(강남언니)|[신사업] 글로벌 사업개발 인턴 (운영)": "2026-10-21",
+  "힐링페이퍼(강남언니)|[신사업] 사업개발 인턴 (체험형)": "2026-10-27",
   "힐링페이퍼(강남언니)|[힐링페이퍼] 사외추천 안내 및 신청": "2026-10-21"
  },
  "version": 1
