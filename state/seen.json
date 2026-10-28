@@ -33,13 +33,13 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 113
+   "last_count": 111
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 113
+   "last_count": 111
   },
   "놀유니버스": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 67
+   "last_count": 68
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -5074,6 +5074,14 @@
    "status": "filtered",
    "title": "Fulfillment Operation Manager"
   },
+  "버킷플레이스|241985": {
+   "attempts": 0,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "reason": "직무 제외 (제목: 세일즈)",
+   "status": "filtered",
+   "title": "[오늘의집시공] 인테리어 세일즈 매니저 (계약직)"
+  },
   "버킷플레이스|94033": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -9938,6 +9946,14 @@
    "status": "filtered",
    "title": "Consumer Protection Manager"
   },
+  "토스|7847411003": {
+   "attempts": 0,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "reason": "직무 제외 (직군: marketing)",
+   "status": "filtered",
+   "title": "Brand Manager"
+  },
   "토스|7847465003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -9953,6 +9969,14 @@
    "reason": "직무 제외 (제목: sales)",
    "status": "filtered",
    "title": "안산 글로벌 라운지 세일즈 담당자 (Field Sales Specialist)"
+  },
+  "토스|7848538003": {
+   "attempts": 0,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "reason": "직무 제외 (제목: finance)",
+   "status": "filtered",
+   "title": "Finance Manager"
   },
   "토스|7852640003": {
    "attempts": 0,
