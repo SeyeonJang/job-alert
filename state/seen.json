@@ -4,7 +4,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 18
+   "last_count": 16
   },
   "AB180": {
    "fail_streak": 2,
@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 19
+   "last_count": 20
   },
   "네이버페이": {
    "adapter": "naver",
@@ -33,13 +33,13 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 111
+   "last_count": 110
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 111
+   "last_count": 110
   },
   "놀유니버스": {
    "adapter": "greeting",
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 107
+   "last_count": 105
   },
   "백패커": {
    "adapter": "greeting",
@@ -146,19 +146,19 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 9
   },
   "토스": {
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 282
+   "last_count": 281
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 46
+   "last_count": 44
   }
  },
  "jobs": {
@@ -529,6 +529,14 @@
    "reason": "직무 제외 (제목: editor)",
    "status": "filtered",
    "title": "[네이버웹툰] 웹소설 편집자 (Novel Editor) (경력)"
+  },
+  "네이버|30005616": {
+   "attempts": 0,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "[SNOW] 사업개발 및 광고사업 운영 지원 (계약직)"
   },
   "네이버|30005620": {
    "attempts": 0,
@@ -5946,6 +5954,14 @@
    "status": "filtered",
    "title": "Contents Marketer"
   },
+  "여기어때컴퍼니|236222": {
+   "attempts": 0,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "reason": "직무 제외 (제목: marketer)",
+   "status": "filtered",
+   "title": "Performance Marketer [Japan]"
+  },
   "여기어때컴퍼니|237006": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7346,6 +7362,14 @@
    "status": "filtered",
    "title": "[계약직] 사업 담당자 - 가맹점 운영"
   },
+  "카카오페이|242341": {
+   "attempts": 0,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "[어시스턴트] 자산 실사 업무 지원"
+  },
   "카카오페이|93966": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8097,6 +8121,14 @@
    "reason": "자격요건 8년 이상: 커머스·이커머스 도메인에서 8년 이상 마케팅/브랜드/카테고리 관련 경력 (팀 리딩 경험 포함)",
    "status": "filtered",
    "title": "[KREAM] 캠페인 매니저 (Senior) 모집"
+  },
+  "크림|30005641": {
+   "attempts": 0,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "[KREAM] 오프라인 사업 AMD (계약직) 모집"
   },
   "토스|4071131003": {
    "attempts": 0,
@@ -9065,6 +9097,14 @@
    "reason": "직무 제외 (직군: culture)",
    "status": "filtered",
    "title": "Culture Business Partner"
+  },
+  "토스|6672293003": {
+   "attempts": 0,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "reason": "직무 제외 (직군: customer)",
+   "status": "filtered",
+   "title": "FDS Manager (뱅크)"
   },
   "토스|6675539003": {
    "attempts": 0,
@@ -10361,6 +10401,14 @@
    "reason": "직무 제외 (직군: compliance)",
    "status": "filtered",
    "title": "Customer Protection Manager (사전협의)"
+  },
+  "토스|7998166003": {
+   "attempts": 0,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "reason": "자격요건 5년 이상: 기술 조직을 대상으로 프로그램 또는 프로젝트 매니징을 5년 이상 해오신 경험이 필요해요.",
+   "status": "filtered",
+   "title": "Technical Program Manager (AI)"
   },
   "토스|7998953003": {
    "attempts": 0,
