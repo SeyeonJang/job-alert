@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 20
+   "last_count": 21
   },
   "네이버페이": {
    "adapter": "naver",
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 105
+   "last_count": 104
   },
   "백패커": {
    "adapter": "greeting",
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 283
+   "last_count": 285
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -561,6 +561,14 @@
    "reason": "직무 제외 (제목: animator)",
    "status": "filtered",
    "title": "[네이버웹툰] AI 애니메이션 제작 (AI animator) (신입)"
+  },
+  "네이버|30005644": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "",
+   "status": "sent",
+   "title": "[네이버웹툰] Cuts Make 기획 (체험형 인턴)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -10778,6 +10786,30 @@
    "status": "filtered",
    "title": "Security Operations Engineer"
   },
+  "토스|8047090003": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "직무 제외 (제목: security)",
+   "status": "filtered",
+   "title": "Information Security Manager [토스 자회사]"
+  },
+  "토스|8047226003": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "General Affairs Assistant (보훈특별채용, ~11/15)"
+  },
+  "토스|8058123003": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "Asset Assistant (보훈특별채용, ~11/15)"
+  },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -11156,6 +11188,7 @@
   }
  },
  "sent_titles": {
+  "네이버|[네이버웹툰] cuts make 기획 (체험형 인턴)": "2026-10-29",
   "네이버|[네이버웹툰] 웹툰 숏폼 기획/제작 (체험형 인턴)": "2026-10-16",
   "네이버|[네이버웹툰] 캐릭터 ai 모델 기획 및 테스트 (체험형 인턴)": "2026-10-22",
   "넥슨|[민트로켓] 사업/대외업무 담당자": "2026-10-17",
