@@ -33,13 +33,13 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 110
+   "last_count": 109
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 110
+   "last_count": 109
   },
   "놀유니버스": {
    "adapter": "greeting",
@@ -51,13 +51,13 @@
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 54
+   "last_count": 53
   },
   "무신사": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 104
+   "last_count": 105
   },
   "백패커": {
    "adapter": "greeting",
@@ -81,7 +81,7 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 22
+   "last_count": 24
   },
   "에이블리": {
    "adapter": "ably",
@@ -99,7 +99,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 52
+   "last_count": 51
   },
   "카카오": {
    "adapter": "kakao",
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 67
+   "last_count": 69
   },
   "크림": {
    "adapter": "naver",
@@ -158,7 +158,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 44
+   "last_count": 45
   }
  },
  "jobs": {
@@ -4034,6 +4034,14 @@
    "status": "filtered",
    "title": "오프라인 캠페인 Marketer"
   },
+  "무신사|239662": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "직무 제외 (제목: designer)",
+   "status": "filtered",
+   "title": "Fashion Designer (PB 브랜드/우먼즈)"
+  },
   "무신사|239873": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -4257,6 +4265,14 @@
    "reason": "경력 5년 이상",
    "status": "filtered",
    "title": "브랜드 전략 기획 담당자"
+  },
+  "무신사|242523": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "직무 제외 (제목: 물류)",
+   "status": "filtered",
+   "title": "물류 Program Management Lead (무신사로지스틱스)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -5226,6 +5242,14 @@
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_노무관리 담당"
   },
+  "아모레퍼시픽|1366706866": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "자격요건 3년 이상: 경력기간: 관련 경력 3년 이상",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_라이브 커머스 콘텐츠 기획 담당"
+  },
   "아모레퍼시픽|1366707566": {
    "attempts": 0,
    "first_seen": "2026-10-22",
@@ -5361,6 +5385,14 @@
    "reason": "직무 제외 (제목: account manager)",
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_아마존 웨스턴(북미/유럽) Account Manager 담당"
+  },
+  "아모레퍼시픽|1369647166": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "직무 제외 (제목: 영업)",
+   "status": "filtered",
+   "title": "[경력]'26년 ETUDE 경력채용_e커머스 영업담당"
   },
   "에이블리|0Eu5yjmY": {
    "attempts": 0,
@@ -7970,6 +8002,14 @@
    "status": "filtered",
    "title": "크리에이터 운영 담당자 (계약직)"
   },
+  "컬리|241883": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "경력 4년 이상",
+   "status": "filtered",
+   "title": "대외업무 담당자"
+  },
   "컬리|242155": {
    "attempts": 0,
    "first_seen": "2026-10-28",
@@ -7977,6 +8017,14 @@
    "reason": "경력 7년 이상",
    "status": "filtered",
    "title": "커머스 Product Manager (패션·뷰티)"
+  },
+  "컬리|242524": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "경력 7년 이상",
+   "status": "filtered",
+   "title": "커머스 Product Manager (프로모션)"
   },
   "컬리|78179": {
    "attempts": 0,
@@ -10778,6 +10826,14 @@
    "status": "filtered",
    "title": "Server Developer [토스 자회사/3년이하]"
   },
+  "토스|8047065003": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "직무 제외 (제목: security)",
+   "status": "filtered",
+   "title": "Information Security Specialist"
+  },
   "토스|8047083003": {
    "attempts": 0,
    "first_seen": "2026-10-29",
@@ -10809,6 +10865,14 @@
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "Asset Assistant (보훈특별채용, ~11/15)"
+  },
+  "토스|8066268003": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "직무 제외 (제목: security)",
+   "status": "filtered",
+   "title": "Security Research Specialist"
   },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
@@ -11129,6 +11193,14 @@
    "reason": "",
    "status": "sent",
    "title": "[신사업] 사업개발 인턴 (체험형)"
+  },
+  "힐링페이퍼(강남언니)|242416": {
+   "attempts": 0,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "[강남언니] UX Research Operator (계약직)"
   },
   "힐링페이퍼(강남언니)|5161": {
    "attempts": 0,
