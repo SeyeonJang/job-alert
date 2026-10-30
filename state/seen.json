@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 21
+   "last_count": 22
   },
   "네이버페이": {
    "adapter": "naver",
@@ -69,7 +69,7 @@
    "adapter": "banksalad",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 12
+   "last_count": 11
   },
   "버킷플레이스": {
    "adapter": "greeting",
@@ -146,7 +146,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 8
+   "last_count": 9
   },
   "토스": {
    "adapter": "toss",
@@ -569,6 +569,14 @@
    "reason": "",
    "status": "sent",
    "title": "[네이버웹툰] Cuts Make 기획 (체험형 인턴)"
+  },
+  "네이버|30005645": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[네이버웹툰] KR Webtoon 콘텐츠 마케터 (체험형 인턴)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -8186,6 +8194,14 @@
    "status": "filtered",
    "title": "[KREAM] 오프라인 사업 AMD (계약직) 모집"
   },
+  "크림|30005647": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "30일 안에 같은 제목을 보냄",
+   "status": "filtered",
+   "title": "[KREAM] 스타일 탭 인플루언서 운영 체험형 인턴 모집"
+  },
   "토스|4071131003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -9561,6 +9577,14 @@
    "reason": "자격요건 7년 이상: 검색·추천 시스템 분야에서의 7년 이상의 경험",
    "status": "filtered",
    "title": "Product Owner [Search]"
+  },
+  "토스|7673255003": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (제목: finance)",
+   "status": "filtered",
+   "title": "Finance Manager"
   },
   "토스|7687346003": {
    "attempts": 0,
