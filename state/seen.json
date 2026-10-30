@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 22
+   "last_count": 21
   },
   "네이버페이": {
    "adapter": "naver",
@@ -33,19 +33,19 @@
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 109
+   "last_count": 108
   },
   "넥슨코리아": {
    "adapter": "nexon",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 109
+   "last_count": 108
   },
   "놀유니버스": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 9
+   "last_count": 10
   },
   "당근": {
    "adapter": "greenhouse",
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 105
+   "last_count": 106
   },
   "백패커": {
    "adapter": "greeting",
@@ -87,7 +87,7 @@
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 56
+   "last_count": 54
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 27
+   "last_count": 28
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 69
+   "last_count": 67
   },
   "크림": {
    "adapter": "naver",
@@ -152,13 +152,13 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 286
+   "last_count": 287
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 45
+   "last_count": 46
   }
  },
  "jobs": {
@@ -2682,6 +2682,14 @@
    "status": "filtered",
    "title": "[놀씨어터] Venue사업2팀 PD (정규직)"
   },
+  "놀유니버스|242673": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (제목: 보안)",
+   "status": "filtered",
+   "title": "Security Operation Manager - 보안 솔루션 운영 (계약직)"
+  },
   "당근|4300801003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -4281,6 +4289,22 @@
    "reason": "직무 제외 (제목: 물류)",
    "status": "filtered",
    "title": "물류 Program Management Lead (무신사로지스틱스)"
+  },
+  "무신사|242543": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (제목: editor)",
+   "status": "filtered",
+   "title": "Content Editor Assistant (29CM)"
+  },
+  "무신사|242544": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (직군: md)",
+   "status": "filtered",
+   "title": "디지털/가전 AMD (29CM)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -6002,6 +6026,14 @@
    "status": "filtered",
    "title": "Contents Marketer"
   },
+  "여기어때컴퍼니|234869": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (제목: sales)",
+   "status": "filtered",
+   "title": "Pension Sales Manager [경기 담당/서울 근무]"
+  },
   "여기어때컴퍼니|236222": {
    "attempts": 0,
    "first_seen": "2026-10-28",
@@ -7105,6 +7137,14 @@
    "reason": "자격요건 4년 이상: 4년 이상 펀드 조직에 근무하면서 제도 기획의 경험이 풍부한 분",
    "status": "filtered",
    "title": "펀드 제도 기획 및 운영 업무 담당자"
+  },
+  "카카오뱅크|270952": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "자격요건 7년 이상: 최소 7년 이상의 모바일/웹 서비스 기획 및 운영 경험이 있는 분",
+   "status": "filtered",
+   "title": "서비스 기획자 - 퇴직연금"
   },
   "카카오페이|103673": {
    "attempts": 0,
@@ -9586,6 +9626,14 @@
    "status": "filtered",
    "title": "Finance Manager"
   },
+  "토스|7683460003": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (직군: customer)",
+   "status": "filtered",
+   "title": "Operations Supporter (FDS 결제 운영)"
+  },
   "토스|7687346003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -10818,6 +10866,14 @@
    "status": "filtered",
    "title": "Data Engineering Specialist"
   },
+  "토스|8040939003": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (직군: ux)",
+   "status": "filtered",
+   "title": "UX Writer (Japan)"
+  },
   "토스|8042384003": {
    "attempts": 0,
    "first_seen": "2026-10-23",
@@ -10913,6 +10969,22 @@
    "reason": "직무 제외 (제목: security)",
    "status": "filtered",
    "title": "Security Research Specialist"
+  },
+  "토스|8091858003": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (제목: compliance)",
+   "status": "filtered",
+   "title": "Compliance Assistant (광고 심의)"
+  },
+  "토스|8101130003": {
+   "attempts": 0,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "reason": "직무 제외 (제목: sales)",
+   "status": "filtered",
+   "title": "안산 글로벌 라운지 세일즈 어시스턴트 (Field Sales Assistant)"
   },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
@@ -11109,7 +11181,7 @@
   "힐링페이퍼(강남언니)|237751": {
    "attempts": 0,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-30",
    "reason": "직무 제외 (제목: recruiting)",
    "status": "filtered",
    "title": "Recruiting Coordinator (계약직)"
