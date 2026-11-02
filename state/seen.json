@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 3,
+   "fail_streak": 4,
    "initialized": true,
    "last_count": 108
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 3,
+   "fail_streak": 4,
    "initialized": true,
    "last_count": 108
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 106
+   "last_count": 105
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 68
+   "last_count": 69
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -105,7 +105,7 @@
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 12
+   "last_count": 11
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -146,19 +146,19 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 9
+   "last_count": 10
   },
   "토스": {
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 282
+   "last_count": 285
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 46
+   "last_count": 48
   }
  },
  "jobs": {
@@ -2690,6 +2690,14 @@
    "status": "filtered",
    "title": "Security Operation Manager - 보안 솔루션 운영 (계약직)"
   },
+  "당근|4288939003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: 총무)",
+   "status": "filtered",
+   "title": "General Affairs Manager (총무) - 경영지원 (피플)"
+  },
   "당근|4300801003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -4322,6 +4330,14 @@
    "status": "filtered",
    "title": "예산관리/비용정산 담당자 (무신사 스탠다드)"
   },
+  "무신사|242927": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "스튜디오 운영기획 매니저 (무신사스튜디오)"
+  },
   "백패커|162371": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -5161,6 +5177,14 @@
    "reason": "직무 제외 (제목: 세일즈)",
    "status": "filtered",
    "title": "[오늘의집시공] 인테리어 세일즈 매니저 (계약직)"
+  },
+  "버킷플레이스|242810": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: designer)",
+   "status": "filtered",
+   "title": "Brand Designer"
   },
   "버킷플레이스|94033": {
    "attempts": 0,
@@ -8258,6 +8282,14 @@
    "status": "filtered",
    "title": "[KREAM] 스타일 탭 인플루언서 운영 체험형 인턴 모집"
   },
+  "크림|30005653": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: account manager)",
+   "status": "filtered",
+   "title": "[KREAM] Account Manager 체험형 인턴 모집"
+  },
   "토스|4071101003": {
    "attempts": 0,
    "first_seen": "2026-10-31",
@@ -8818,6 +8850,14 @@
    "status": "filtered",
    "title": "Privacy Manager"
   },
+  "토스|5847765003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (직군: engineering)",
+   "status": "filtered",
+   "title": "모의해킹 및 취약점 분석 전문가"
+  },
   "토스|5851767003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8833,6 +8873,14 @@
    "reason": "직무 제외 (제목: account manager)",
    "status": "filtered",
    "title": "Channel Account Manager"
+  },
+  "토스|5865632003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (직군: ux)",
+   "status": "filtered",
+   "title": "UX 리서처"
   },
   "토스|5885438003": {
    "attempts": 0,
@@ -9034,6 +9082,14 @@
    "status": "filtered",
    "title": "QA Manager"
   },
+  "토스|6318435003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (직군: it planning)",
+   "status": "filtered",
+   "title": "IT 자체 감사 매니저"
+  },
   "토스|6350423003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -9130,6 +9186,14 @@
    "status": "filtered",
    "title": "Device Software Quality Engineer (Android)"
   },
+  "토스|6554016003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: 보안)",
+   "status": "filtered",
+   "title": "보안 감사 담당자"
+  },
   "토스|6570754003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -9177,6 +9241,14 @@
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "ML Backend Engineer"
+  },
+  "토스|6602000003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: 세일즈)",
+   "status": "filtered",
+   "title": "세일즈 운영 담당자 (일반계약직)"
   },
   "토스|6603597003": {
    "attempts": 0,
@@ -9257,6 +9329,14 @@
    "reason": "직무 제외 (직군: culture)",
    "status": "filtered",
    "title": "Culture Business Partner"
+  },
+  "토스|6651340003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "마케팅 매니저"
   },
   "토스|6672293003": {
    "attempts": 0,
@@ -9537,6 +9617,14 @@
    "reason": "직무 제외 (제목: sales)",
    "status": "filtered",
    "title": "토스플레이스 Direct Sales Associate 특별 추가 채용 (~10/15)"
+  },
+  "토스|7604234003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (직군: engineering)",
+   "status": "filtered",
+   "title": "모의해킹 및 취약점 분석 전문가"
   },
   "토스|7606091003": {
    "attempts": 0,
@@ -10109,7 +10197,7 @@
   "토스|7818816003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-11-02",
    "reason": "직무 제외 (직군: finance)",
    "status": "filtered",
    "title": "Collections Manager"
@@ -10402,6 +10490,14 @@
    "status": "filtered",
    "title": "Recruiting Partner Team Leader"
   },
+  "토스|7985037003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: 보안)",
+   "status": "filtered",
+   "title": "오픈소스 보안 전문가"
+  },
   "토스|7985134003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -10690,6 +10786,14 @@
    "status": "filtered",
    "title": "AML Manager"
   },
+  "토스|8009033003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: 보안)",
+   "status": "filtered",
+   "title": "IT 보안 담당자 (일반계약직)"
+  },
   "토스|8009265003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -10805,7 +10909,7 @@
   "토스|8016317003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-11-02",
    "reason": "직무 제외 (제목: 재무)",
    "status": "filtered",
    "title": "Internal Auditor (재무)"
@@ -11041,6 +11145,22 @@
    "reason": "직무 제외 (제목: sales)",
    "status": "filtered",
    "title": "안산 글로벌 라운지 세일즈 어시스턴트 (Field Sales Assistant)"
+  },
+  "토스|8152755003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "",
+   "status": "sent",
+   "title": "카드상품 Manager (기업뱅킹)"
+  },
+  "토스|8152756003": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "자격요건 7년 이상: 은행, 금융권에서 수신 상품을 7년 이상 기획하고 운영해보신 분이 필요해요. 특히 기업뱅킹 또는 법인 고객 대상 수신 상품 경험이 있는 분을 찾고 있어요.",
+   "status": "filtered",
+   "title": "수신상품 기획 담당자 (기업뱅킹)"
   },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
@@ -11370,6 +11490,30 @@
    "status": "filtered",
    "title": "[강남언니] UX Research Operator (계약직)"
   },
+  "힐링페이퍼(강남언니)|242759": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (직군: 마케팅)",
+   "status": "filtered",
+   "title": "[강남언니] 소셜미디어 PD 인턴 (체험형)"
+  },
+  "힐링페이퍼(강남언니)|242767": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[강남언니] 브랜드 마케터 (주니어)"
+  },
+  "힐링페이퍼(강남언니)|242926": {
+   "attempts": 0,
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "reason": "직무 제외 (제목: 개발자)",
+   "status": "filtered",
+   "title": "[강남언니] 웹 프론트엔드 개발자 (글로벌)"
+  },
   "힐링페이퍼(강남언니)|5161": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -11499,6 +11643,7 @@
   "토스|여신 제도 manager": "2026-10-15",
   "토스|여신상품 기획 담당자 (개인대출)": "2026-11-02",
   "토스|외환 상품 manager (해외송금)": "2026-10-15",
+  "토스|카드상품 manager (기업뱅킹)": "2026-11-02",
   "힐링페이퍼(강남언니)|[강남언니] 미국 사업개발 인턴 (체험형)": "2026-10-21",
   "힐링페이퍼(강남언니)|[신사업] 글로벌 사업개발 인턴 (운영)": "2026-10-21",
   "힐링페이퍼(강남언니)|[신사업] 사업개발 인턴 (체험형)": "2026-10-27",
