@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 5,
+   "fail_streak": 6,
    "initialized": true,
    "last_count": 108
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 5,
+   "fail_streak": 6,
    "initialized": true,
    "last_count": 108
   },
@@ -51,13 +51,13 @@
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 53
+   "last_count": 52
   },
   "무신사": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 105
+   "last_count": 104
   },
   "백패커": {
    "adapter": "greeting",
@@ -93,7 +93,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 31
+   "last_count": 32
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
@@ -105,7 +105,7 @@
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 12
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 23
+   "last_count": 24
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 66
+   "last_count": 65
   },
   "크림": {
    "adapter": "naver",
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 286
+   "last_count": 287
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -6093,7 +6093,7 @@
   "여기어때컴퍼니|237020": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-11-03",
    "reason": "직무 제외 (제목: sales)",
    "status": "filtered",
    "title": "Talent Acquisition Manager [Sales/Business]"
@@ -6778,6 +6778,14 @@
    "status": "filtered",
    "title": "카카오프렌즈 SNS 콘텐츠 제작 및 운영관리_어시스턴트"
   },
+  "카카오|P-14580": {
+   "attempts": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "카카오톡 선물하기 마케팅_어시스턴트"
+  },
   "카카오게임즈|151266": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6961,6 +6969,14 @@
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "전자금융/수신 업무 운영 담당자 (계약직)"
+  },
+  "카카오뱅크|261154": {
+   "attempts": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "reason": "자격요건 5년 이상: 모바일 앱 서비스 기획 및 운영 경험이 있는 분 (5년 이상의 경력이 있는 분)",
+   "status": "filtered",
+   "title": "서비스 기획자 - 대화형 AI 서비스"
   },
   "카카오뱅크|262305": {
    "attempts": 0,
@@ -11105,6 +11121,14 @@
    "reason": "직무 제외 (제목: security)",
    "status": "filtered",
    "title": "Information Security Manager [토스 자회사]"
+  },
+  "토스|8047098003": {
+   "attempts": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "reason": "직무 제외 (직군: compliance)",
+   "status": "filtered",
+   "title": "IT Audit Team Leader"
   },
   "토스|8047226003": {
    "attempts": 0,
