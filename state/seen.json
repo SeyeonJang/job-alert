@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 12
+   "last_count": 11
   },
   "네이버페이": {
    "adapter": "naver",
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 0,
+   "fail_streak": 1,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 0,
+   "fail_streak": 1,
    "initialized": true,
    "last_count": 106
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 101
+   "last_count": 103
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,19 +75,19 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 69
+   "last_count": 70
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 14
+   "last_count": 16
   },
   "에이블리": {
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 54
+   "last_count": 52
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
@@ -99,13 +99,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 51
+   "last_count": 52
   },
   "카카오": {
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 12
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 22
+   "last_count": 23
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -134,13 +134,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 29
+   "last_count": 31
   },
   "컬리": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 65
+   "last_count": 67
   },
   "크림": {
    "adapter": "naver",
@@ -152,13 +152,13 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 283
+   "last_count": 281
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 50
+   "last_count": 51
   }
  },
  "jobs": {
@@ -2738,6 +2738,14 @@
    "status": "filtered",
    "title": "Security Operation Manager - 보안 솔루션 운영 (계약직)"
   },
+  "놀유니버스|243219": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "[놀씨어터] 코엑스아티움 하우스 부매니저 (계약직)"
+  },
   "당근|4288939003": {
    "attempts": 0,
    "first_seen": "2026-11-02",
@@ -4394,6 +4402,14 @@
    "status": "filtered",
    "title": "Program Manager (커머스 정책 기획)"
   },
+  "무신사|242947": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: md)",
+   "status": "filtered",
+   "title": "Associate MD (트렌드상품 & IP 기획)"
+  },
   "무신사|243059": {
    "attempts": 0,
    "first_seen": "2026-11-04",
@@ -4401,6 +4417,30 @@
    "reason": "경력 5년 이상",
    "status": "filtered",
    "title": "Product Manager (Settlement)"
+  },
+  "무신사|243332": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: md)",
+   "status": "filtered",
+   "title": "Associate MD (유니섹스패션)"
+  },
+  "무신사|243334": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: md)",
+   "status": "filtered",
+   "title": "Senior MD (아웃도어 스포츠)"
+  },
+  "무신사|243338": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "Global CX Operations Associate"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -5250,6 +5290,14 @@
    "status": "filtered",
    "title": "Brand Designer"
   },
+  "버킷플레이스|243297": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "가구 직매입 AMD (계약직)"
+  },
   "버킷플레이스|94033": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -5553,6 +5601,22 @@
    "reason": "직무 제외 (제목: 영업)",
    "status": "filtered",
    "title": "[경력]'26년 ETUDE 경력채용_e커머스 영업담당"
+  },
+  "아모레퍼시픽|1369892666": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: 영업)",
+   "status": "filtered",
+   "title": "[경력] '26년 INNISFREE 경력채용_e커머스영업관리"
+  },
+  "아모레퍼시픽|1369917366": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "자격요건 5년 이상: 경력 기간: 관련 경험 5년 이상",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_그룹 내부감사 담당"
   },
   "에이블리|0Eu5yjmY": {
    "attempts": 0,
@@ -6746,6 +6810,14 @@
    "status": "filtered",
    "title": "제휴 마케터"
   },
+  "와드(캐치테이블)|243112": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: recruiting)",
+   "status": "filtered",
+   "title": "Recruiting Coordinator (6개월 인턴)"
+  },
   "와드(캐치테이블)|75705": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6881,6 +6953,14 @@
    "reason": "직무 제외 (제목: 마케팅)",
    "status": "filtered",
    "title": "카카오톡 선물하기 마케팅_어시스턴트"
+  },
+  "카카오|P-14582": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "같이가치 서비스 운영 담당자 (경력)"
   },
   "카카오게임즈|151266": {
    "attempts": 0,
@@ -7317,7 +7397,7 @@
   "카카오뱅크|268717": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-11-04",
    "reason": "직무 제외 (제목: 엔지니어)",
    "status": "filtered",
    "title": "쿠버네티스(Kubernetes) 엔지니어"
@@ -7721,6 +7801,30 @@
    "reason": "고용형태: 어시스턴트",
    "status": "filtered",
    "title": "[어시스턴트] 오프라인 가맹점 심사 업무 지원"
+  },
+  "카카오페이|243277": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: 회계)",
+   "status": "filtered",
+   "title": "[어시스턴트] 법인카드 및 회계업무 지원"
+  },
+  "카카오페이|243291": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "[어시스턴트] CS운영 업무 지원"
+  },
+  "카카오페이|243308": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "[어시스턴트] 송금 서비스 운영 지원"
   },
   "카카오페이|93966": {
    "attempts": 0,
@@ -8337,6 +8441,22 @@
    "reason": "경력 7년 이상",
    "status": "filtered",
    "title": "커머스 Product Manager (프로모션)"
+  },
+  "컬리|243220": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: 개발자)",
+   "status": "filtered",
+   "title": "커머스 iOS 개발자 (iOS Developer)"
+  },
+  "컬리|243322": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: hrbp)",
+   "status": "filtered",
+   "title": "HRBP(HR Business Partner)"
   },
   "컬리|78179": {
    "attempts": 0,
@@ -8962,6 +9082,14 @@
    "status": "filtered",
    "title": "Corp Legal Team Leader"
   },
+  "토스|5502598003": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: 컴플라이언스)",
+   "status": "filtered",
+   "title": "컴플라이언스 매니저"
+  },
   "토스|5511044003": {
    "attempts": 0,
    "first_seen": "2026-10-30",
@@ -9297,6 +9425,14 @@
    "reason": "직무 제외 (직군: design)",
    "status": "filtered",
    "title": "Brand Design Assistant"
+  },
+  "토스|6277148003": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "채용 어시스턴트"
   },
   "토스|6279876003": {
    "attempts": 0,
@@ -11410,6 +11546,14 @@
    "status": "filtered",
    "title": "안산 글로벌 라운지 세일즈 어시스턴트 (Field Sales Assistant)"
   },
+  "토스|8152076003": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: 상담)",
+   "status": "filtered",
+   "title": "B2B, B2C 배달 플랫폼 단순문의 상담원 (정규직) (신입, 경력)"
+  },
   "토스|8152755003": {
    "attempts": 0,
    "first_seen": "2026-11-02",
@@ -11682,6 +11826,14 @@
    "status": "filtered",
    "title": "[강남언니] 태국 콘텐츠 마케터 인턴 (체험형)"
   },
+  "힐링페이퍼(강남언니)|240728": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "경력 3년 이상",
+   "status": "filtered",
+   "title": "[병원 운영 솔루션] Data Product Owner"
+  },
   "힐링페이퍼(강남언니)|240800": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -11793,6 +11945,14 @@
    "reason": "직무 제외 (제목: 마케터)",
    "status": "filtered",
    "title": "[신사업] 중화권 마케터 (계약직)"
+  },
+  "힐링페이퍼(강남언니)|243114": {
+   "attempts": 0,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[강남언니] AI Research Engineer - Agent Evaluation 인턴 (체험형)"
   },
   "힐링페이퍼(강남언니)|5161": {
    "attempts": 0,
