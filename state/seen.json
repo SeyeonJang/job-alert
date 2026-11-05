@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 11
   },
   "네이버페이": {
    "adapter": "naver",
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 3,
+   "fail_streak": 4,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 3,
+   "fail_streak": 4,
    "initialized": true,
    "last_count": 106
   },
@@ -45,7 +45,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 9
   },
   "당근": {
    "adapter": "greenhouse",
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 102
+   "last_count": 99
   },
   "백패커": {
    "adapter": "greeting",
@@ -69,7 +69,7 @@
    "adapter": "banksalad",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 13
   },
   "버킷플레이스": {
    "adapter": "greeting",
@@ -81,13 +81,13 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 15
+   "last_count": 16
   },
   "에이블리": {
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 52
+   "last_count": 50
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
@@ -105,7 +105,7 @@
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 12
+   "last_count": 13
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 23
+   "last_count": 25
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -134,7 +134,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 31
+   "last_count": 35
   },
   "컬리": {
    "adapter": "greeting",
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 281
+   "last_count": 283
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -609,6 +609,14 @@
    "reason": "직무 제외 (제목: 애니메이션)",
    "status": "filtered",
    "title": "[네이버웹툰] AI 애니메이션 제작 담당 (정규 전환형)"
+  },
+  "네이버|30005672": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "",
+   "status": "sent",
+   "title": "[NAVER Cloud] Defense Frontier 방산 사업개발 (경력)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -3146,6 +3154,14 @@
    "status": "filtered",
    "title": "Software Engineer, Frontend - 로컬 비즈니스 (로컬 콘텐츠)"
   },
+  "당근|7995021003": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: 정산)",
+   "status": "filtered",
+   "title": "Service Operations Manager (계약직) - 중고거래 (정산)"
+  },
   "당근|7995038003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -4658,6 +4674,22 @@
    "status": "filtered",
    "title": "[최초채용] [초기멤버] Forward Deployed Engineer (BFS Founder Team)"
   },
+  "뱅크샐러드|243540": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[최초채용] 시니어 마케터 (Senior Marketer)"
+  },
+  "뱅크샐러드|243542": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[최초채용] 제휴 마케터 (Partnership Marketer)"
+  },
   "뱅크샐러드|91296": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -5505,6 +5537,14 @@
    "reason": "직무 제외 (제목: 마케팅)",
    "status": "filtered",
    "title": "[경력] '26년 INNISFREE 경력채용_글로벌 소셜 마케팅"
+  },
+  "아모레퍼시픽|1368061066": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "",
+   "status": "sent",
+   "title": "[신입] '26년도 하반기 AMOREPACIFIC 전임직 신입채용_뷰티제조팀_제조(오산"
   },
   "아모레퍼시픽|1368164866": {
    "attempts": 0,
@@ -6962,6 +7002,14 @@
    "status": "filtered",
    "title": "같이가치 서비스 운영 담당자 (경력)"
   },
+  "카카오|P-14583": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: 정산)",
+   "status": "filtered",
+   "title": "선물하기/톡딜 쇼핑 판매자 정산 운영_어시스턴트"
+  },
   "카카오게임즈|151266": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7349,7 +7397,7 @@
   "카카오뱅크|266112": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-05",
    "reason": "자격요건 5년 이상: 5년 이상의 모바일 서비스 기획 및 운영 경험이 있는 분",
    "status": "filtered",
    "title": "서비스 기획자 - 신사업"
@@ -7473,6 +7521,14 @@
    "reason": "자격요건 7년 이상: 최소 7년 이상의 모바일/웹 서비스 기획 및 운영 경험이 있는 분",
    "status": "filtered",
    "title": "서비스 기획자 - 퇴직연금"
+  },
+  "카카오뱅크|271553": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "인증사업 운영 지원 담당자 (계약직)"
   },
   "카카오페이|103673": {
    "attempts": 0,
@@ -7825,6 +7881,38 @@
    "reason": "고용형태: 어시스턴트",
    "status": "filtered",
    "title": "[어시스턴트] 송금 서비스 운영 지원"
+  },
+  "카카오페이|243349": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: 컴플라이언스)",
+   "status": "filtered",
+   "title": "컴플라이언스 담당자 - 준법지원/내부통제"
+  },
+  "카카오페이|243545": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "경력 6년 이상",
+   "status": "filtered",
+   "title": "TPM (Technical Project Manager)"
+  },
+  "카카오페이|243552": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "경력 3년 이상",
+   "status": "filtered",
+   "title": "IT 예산 관리 담당자"
+  },
+  "카카오페이|243571": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "DevOps 엔지니어 - 클러스터 구축/운영 및 CICD 파이프라인 개발/운영"
   },
   "카카오페이|93966": {
    "attempts": 0,
@@ -9138,6 +9226,14 @@
    "status": "filtered",
    "title": "Design Assistant"
   },
+  "토스|5622017003": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "프론트엔드 플랫폼 엔지니어"
+  },
   "토스|5643035003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -9617,6 +9713,14 @@
    "reason": "직무 제외 (직군: customer)",
    "status": "filtered",
    "title": "Customer Hero 플레이스"
+  },
+  "토스|6600534003": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: account manager)",
+   "status": "filtered",
+   "title": "Technical Account Manager (결제/플랫폼)"
   },
   "토스|6600650003": {
    "attempts": 0,
@@ -11602,6 +11706,30 @@
    "status": "filtered",
    "title": "컴플라이언스 매니저 (공정거래) (Compliance Manager)"
   },
+  "토스|8192145003": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "자격요건 5년 이상: 고객의 여러 지표를 데이터로 정의하고, 기준이나 프로세스를 설계해 지표를 개선한 경험이 5년 이상 있는 분이 필요해요.",
+   "status": "filtered",
+   "title": "Operations Excellence Team Lead"
+  },
+  "토스|8196377003": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: sales)",
+   "status": "filtered",
+   "title": "Sales Specialist (Ads)"
+  },
+  "토스|8196378003": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: sales)",
+   "status": "filtered",
+   "title": "Sales Operation Specialist"
+  },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -12036,6 +12164,7 @@
   }
  },
  "sent_titles": {
+  "네이버|[naver cloud] defense frontier 방산 사업개발 (경력)": "2026-11-05",
   "네이버|[네이버웹툰] cuts make 기획 (체험형 인턴)": "2026-10-29",
   "네이버|[네이버웹툰] 웹툰 숏폼 기획/제작 (체험형 인턴)": "2026-10-16",
   "네이버|[네이버웹툰] 캐릭터 ai 모델 기획 및 테스트 (체험형 인턴)": "2026-10-22",
@@ -12054,6 +12183,7 @@
   "버킷플레이스|ceo staff assistant (인턴)": "2026-10-15",
   "아모레퍼시픽|[경력] '26년 amorepacific 경력채용_글로벌 gtm 담당": "2026-10-15",
   "아모레퍼시픽|[경력] '26년 amorepacific 경력채용_글로벌 커머셜 담당": "2026-10-15",
+  "아모레퍼시픽|[신입] '26년도 하반기 amorepacific 전임직 신입채용_뷰티제조팀_제조(오산": "2026-11-05",
   "에이블리|research assistant 인턴": "2026-10-15",
   "에이블리|고객 커뮤니케이션 운영기획 인턴": "2026-10-15",
   "에이블리|데이터 분석가": "2026-10-16",
