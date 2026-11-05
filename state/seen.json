@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 2,
+   "fail_streak": 3,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 2,
+   "fail_streak": 3,
    "initialized": true,
    "last_count": 106
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 103
+   "last_count": 102
   },
   "백패커": {
    "adapter": "greeting",
@@ -81,7 +81,7 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 16
+   "last_count": 15
   },
   "에이블리": {
    "adapter": "ably",
@@ -146,13 +146,13 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 11
   },
   "토스": {
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 280
+   "last_count": 281
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -8634,6 +8634,14 @@
    "status": "filtered",
    "title": "[KREAM] Account Manager 체험형 인턴 모집"
   },
+  "크림|30005675": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[KREAM] 입점 브랜드 마케팅 체험형 인턴 모집"
+  },
   "토스|4071101003": {
    "attempts": 0,
    "first_seen": "2026-10-31",
@@ -11585,6 +11593,14 @@
    "reason": "직무 제외 (제목: 재무)",
    "status": "filtered",
    "title": "재무 담당자 (Finance Manager)"
+  },
+  "토스|8189097003": {
+   "attempts": 0,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "reason": "직무 제외 (제목: compliance)",
+   "status": "filtered",
+   "title": "컴플라이언스 매니저 (공정거래) (Compliance Manager)"
   },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
