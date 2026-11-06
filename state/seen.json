@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 12
   },
   "네이버페이": {
    "adapter": "naver",
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 5,
+   "fail_streak": 6,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 5,
+   "fail_streak": 6,
    "initialized": true,
    "last_count": 106
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 99
+   "last_count": 98
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 70
+   "last_count": 69
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -617,6 +617,14 @@
    "reason": "",
    "status": "sent",
    "title": "[NAVER Cloud] Defense Frontier 방산 사업개발 (경력)"
+  },
+  "네이버|30005674": {
+   "attempts": 0,
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "[SNOW] 브라질 컨텐츠 마케터 (계약직)"
   },
   "넥슨|10009": {
    "attempts": 0,
