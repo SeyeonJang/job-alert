@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 12,
+   "fail_streak": 13,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 12,
+   "fail_streak": 13,
    "initialized": true,
    "last_count": 106
   },
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 71
+   "last_count": 70
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
