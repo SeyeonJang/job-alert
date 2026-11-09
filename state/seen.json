@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 11
   },
   "네이버페이": {
    "adapter": "naver",
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 14,
+   "fail_streak": 15,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 14,
+   "fail_streak": 15,
    "initialized": true,
    "last_count": 106
   },
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 71
+   "last_count": 70
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -99,13 +99,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 53
+   "last_count": 52
   },
   "카카오": {
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 13
+   "last_count": 14
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 22
+   "last_count": 23
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 284
+   "last_count": 285
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -625,6 +625,14 @@
    "reason": "직무 제외 (제목: 마케터)",
    "status": "filtered",
    "title": "[SNOW] 브라질 컨텐츠 마케터 (계약직)"
+  },
+  "네이버|30005683": {
+   "attempts": 0,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "reason": "자격요건 7년 이상: 디지털 광고 세일즈, 에이전시 파트너십 또는 비즈니스 개발(BD) 분야에서 7년 이상의 경력이 있으신 분",
+   "status": "filtered",
+   "title": "[네이버웹툰] Global Agency Partner Manager (Senior) (경력)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -7082,6 +7090,14 @@
    "status": "filtered",
    "title": "선물하기/톡딜 쇼핑 판매자 정산 운영_어시스턴트"
   },
+  "카카오|P-14584": {
+   "attempts": 0,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "카카오 쇼핑라이브 상품 운영_어시스턴트"
+  },
   "카카오게임즈|151266": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7593,6 +7609,14 @@
    "reason": "자격요건 7년 이상: 최소 7년 이상의 모바일/웹 서비스 기획 및 운영 경험이 있는 분",
    "status": "filtered",
    "title": "서비스 기획자 - 퇴직연금"
+  },
+  "카카오뱅크|271437": {
+   "attempts": 0,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "DevOps 엔지니어 (채용연계형 인턴)"
   },
   "카카오뱅크|271553": {
    "attempts": 0,
@@ -10321,6 +10345,14 @@
    "reason": "직무 제외 (제목: finance)",
    "status": "filtered",
    "title": "Finance Manager"
+  },
+  "토스|7675023003": {
+   "attempts": 0,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "reason": "직무 제외 (직군: compensation)",
+   "status": "filtered",
+   "title": "Compensation Manager (Operations)"
   },
   "토스|7683460003": {
    "attempts": 0,
