@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 17,
+   "fail_streak": 18,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 17,
+   "fail_streak": 18,
    "initialized": true,
    "last_count": 106
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 100
+   "last_count": 101
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 67
+   "last_count": 66
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -93,13 +93,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 33
+   "last_count": 34
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 53
+   "last_count": 52
   },
   "카카오": {
    "adapter": "kakao",
@@ -134,7 +134,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 36
+   "last_count": 37
   },
   "컬리": {
    "adapter": "greeting",
@@ -146,13 +146,13 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 11
   },
   "토스": {
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 287
+   "last_count": 286
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -3341,7 +3341,7 @@
   "무신사|167927": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-10",
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "Backend Engineer (Foundation Platform)"
@@ -4521,6 +4521,14 @@
    "reason": "직무 제외 (제목: executive assistant)",
    "status": "filtered",
    "title": "Executive Assistant (임원 비서)"
+  },
+  "무신사|244147": {
+   "attempts": 0,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "reason": "직무 제외 (제목: md)",
+   "status": "filtered",
+   "title": "Buying MD (글로벌패션)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -6546,6 +6554,14 @@
    "status": "filtered",
    "title": "Business Strategy Analyst [계약직 1년]"
   },
+  "여기어때컴퍼니|243699": {
+   "attempts": 0,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "reason": "직무 제외 (직군: 영업)",
+   "status": "filtered",
+   "title": "Global Connectivity & Operation Manager"
+  },
   "여기어때컴퍼니|28796": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8090,6 +8106,22 @@
    "status": "filtered",
    "title": "[어시스턴트] 온라인 가맹점 심사 업무 지원"
   },
+  "카카오페이|244099": {
+   "attempts": 0,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "reason": "경력 2년 이상",
+   "status": "filtered",
+   "title": "프로덕트 매니저 - 보험 플랫폼 서비스"
+  },
+  "카카오페이|244167": {
+   "attempts": 0,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "reason": "경력 2년 이상",
+   "status": "filtered",
+   "title": "프로덕트 매니저 - CS챗봇 & 에이전트 기획/운영"
+  },
   "카카오페이|93966": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8922,6 +8954,14 @@
    "status": "filtered",
    "title": "[KREAM] 입점 브랜드 마케팅 체험형 인턴 모집"
   },
+  "크림|30005690": {
+   "attempts": 0,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "reason": "직무 제외 (제목: vmd)",
+   "status": "filtered",
+   "title": "[KREAM] 오프라인 스토어 VMD (계약직) 모집"
+  },
   "토스|4071101003": {
    "attempts": 0,
    "first_seen": "2026-10-31",
@@ -9589,7 +9629,7 @@
   "토스|6016364003": {
    "attempts": 0,
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-11-10",
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "General Affairs Specialist"
