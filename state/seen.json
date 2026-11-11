@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 19,
+   "fail_streak": 20,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 19,
+   "fail_streak": 20,
    "initialized": true,
    "last_count": 106
   },
@@ -158,7 +158,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 49
+   "last_count": 48
   }
  },
  "jobs": {
