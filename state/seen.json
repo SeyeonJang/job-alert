@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 20,
+   "fail_streak": 21,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 20,
+   "fail_streak": 21,
    "initialized": true,
    "last_count": 106
   },
@@ -57,13 +57,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 102
+   "last_count": 104
   },
   "백패커": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 15
+   "last_count": 14
   },
   "뱅크샐러드": {
    "adapter": "banksalad",
@@ -87,25 +87,25 @@
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 51
+   "last_count": 50
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 32
+   "last_count": 31
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 53
+   "last_count": 54
   },
   "카카오": {
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 13
+   "last_count": 14
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 22
+   "last_count": 23
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -134,7 +134,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 38
+   "last_count": 39
   },
   "컬리": {
    "adapter": "greeting",
@@ -152,13 +152,13 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 288
+   "last_count": 286
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 48
+   "last_count": 49
   }
  },
  "jobs": {
@@ -649,6 +649,14 @@
    "reason": "직무 제외 (제목: 세일즈)",
    "status": "filtered",
    "title": "[NAVER Cloud/한국에이아이컴퓨팅센터] 클라우드·AI 세일즈 담당자 (경력)"
+  },
+  "네이버|30005695": {
+   "attempts": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "reason": "",
+   "status": "sent",
+   "title": "[네이버웹툰] 출판 사업 총괄 (리드)(경력)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -4506,6 +4514,14 @@
    "status": "filtered",
    "title": "Global CX Operations Associate"
   },
+  "무신사|243436": {
+   "attempts": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "reason": "경력 8년 이상",
+   "status": "filtered",
+   "title": "Growth Strategy PM (그로스전략)"
+  },
   "무신사|243724": {
    "attempts": 0,
    "first_seen": "2026-11-06",
@@ -4537,6 +4553,14 @@
    "reason": "직무 제외 (제목: md)",
    "status": "filtered",
    "title": "Buying MD (글로벌패션)"
+  },
+  "무신사|244383": {
+   "attempts": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "reason": "직무 제외 (직군: hrm)",
+   "status": "filtered",
+   "title": "Payroll 담당자 (무신사로지스틱스)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -6853,7 +6877,7 @@
   "와드(캐치테이블)|234416": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-11-11",
    "reason": "직무 제외 (제목: developer)",
    "status": "filtered",
    "title": "B2C Back-end Developer"
@@ -7218,6 +7242,14 @@
    "status": "filtered",
    "title": "카카오 쇼핑라이브 상품 운영_어시스턴트"
   },
+  "카카오|P-14585": {
+   "attempts": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "카카오맵 콘텐츠 마케팅 & 기획_어시스턴트"
+  },
   "카카오게임즈|151266": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7533,7 +7565,7 @@
   "카카오뱅크|262378": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-11",
    "reason": "자격요건 2년 이상: 금융권 수신제도/정책/운영 관련 경력이 2년 이상인 분",
    "status": "filtered",
    "title": "수신제도(정책) 담당자"
@@ -8193,6 +8225,14 @@
    "reason": "고용형태: 어시스턴트",
    "status": "filtered",
    "title": "[어시스턴트] 언론 PR/커뮤니케이션 업무 지원"
+  },
+  "카카오페이|244356": {
+   "attempts": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[어시스턴트] 브랜드 마케팅 업무 지원"
   },
   "카카오페이|93966": {
    "attempts": 0,
@@ -9685,7 +9725,7 @@
   "토스|6004757003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-11",
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "Business Operations Specialist"
@@ -12234,6 +12274,14 @@
    "status": "filtered",
    "title": "[강남언니] 소셜미디어 에디터"
   },
+  "힐링페이퍼(강남언니)|215589": {
+   "attempts": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "reason": "직무 제외 (직군: 마케팅)",
+   "status": "filtered",
+   "title": "[신사업] 언니가이드 사업개발 인턴 (체험형)"
+  },
   "힐링페이퍼(강남언니)|216449": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -12551,6 +12599,7 @@
   "네이버|[naver cloud] defense frontier 방산 사업개발 (경력)": "2026-11-05",
   "네이버|[네이버웹툰] cuts make 기획 (체험형 인턴)": "2026-10-29",
   "네이버|[네이버웹툰] 웹툰 숏폼 기획/제작 (체험형 인턴)": "2026-10-16",
+  "네이버|[네이버웹툰] 출판 사업 총괄 (리드)(경력)": "2026-11-11",
   "네이버|[네이버웹툰] 캐릭터 ai 모델 기획 및 테스트 (체험형 인턴)": "2026-10-22",
   "넥슨|[민트로켓] 사업/대외업무 담당자": "2026-10-17",
   "넥슨|[빅게임본부] 게임 ux 리서치 (인턴)": "2026-10-17",
