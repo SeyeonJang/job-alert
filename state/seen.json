@@ -4,7 +4,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 19
+   "last_count": 18
   },
   "AB180": {
    "fail_streak": 2,
@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 10
   },
   "네이버페이": {
    "adapter": "naver",
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 22,
+   "fail_streak": 23,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 22,
+   "fail_streak": 23,
    "initialized": true,
    "last_count": 106
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 104
+   "last_count": 110
   },
   "백패커": {
    "adapter": "greeting",
@@ -99,7 +99,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 54
+   "last_count": 55
   },
   "카카오": {
    "adapter": "kakao",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 21
+   "last_count": 22
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 64
+   "last_count": 66
   },
   "크림": {
    "adapter": "naver",
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 286
+   "last_count": 292
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -4458,6 +4458,14 @@
    "status": "filtered",
    "title": "예산관리/비용정산 담당자 (무신사 스탠다드)"
   },
+  "무신사|242891": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: designer)",
+   "status": "filtered",
+   "title": "Fashion Designer (PB 브랜드/기준)"
+  },
   "무신사|242927": {
    "attempts": 0,
    "first_seen": "2026-11-02",
@@ -4561,6 +4569,54 @@
    "reason": "직무 제외 (직군: hrm)",
    "status": "filtered",
    "title": "Payroll 담당자 (무신사로지스틱스)"
+  },
+  "무신사|244407": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "패턴사 (PB 브랜드/캐주얼)"
+  },
+  "무신사|244408": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: designer)",
+   "status": "filtered",
+   "title": "Senior Fashion Designer (PB 브랜드/캐주얼)"
+  },
+  "무신사|244409": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: designer)",
+   "status": "filtered",
+   "title": "Fashion Designer (PB 브랜드/캐주얼)"
+  },
+  "무신사|244411": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: md)",
+   "status": "filtered",
+   "title": "상품기획 MD (PB 브랜드/캐주얼)"
+  },
+  "무신사|244412": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: marketer)",
+   "status": "filtered",
+   "title": "Brand Marketer (PB 브랜드/캐주얼)"
+  },
+  "무신사|244414": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: designer)",
+   "status": "filtered",
+   "title": "BX Designer (PB 브랜드/캐주얼)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -7082,6 +7138,14 @@
    "status": "filtered",
    "title": "콘텐츠 마케터 (1년 계약직)"
   },
+  "와드(캐치테이블)|244491": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "경력 7년 이상",
+   "status": "filtered",
+   "title": "캐치테이블 글로벌셀 리더 (Global B2C PO)"
+  },
   "와드(캐치테이블)|75705": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7809,6 +7873,14 @@
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "신사업 서비스 기획 및 운영 담당자 (계약직)"
+  },
+  "카카오뱅크|272246": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "AI 서비스 기획 어시스턴트 (체험형 인턴)"
   },
   "카카오페이|103673": {
    "attempts": 0,
@@ -8881,6 +8953,22 @@
    "reason": "경력 2년 이상",
    "status": "filtered",
    "title": "커머스 상품 전략 담당자"
+  },
+  "컬리|244477": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (직군: finance)",
+   "status": "filtered",
+   "title": "자금 운용 및 여신/신용 관리 담당자"
+  },
+  "컬리|244499": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: 물류)",
+   "status": "filtered",
+   "title": "물류센터 자동화 설비(Automation) 담당자 (평택)"
   },
   "컬리|78179": {
    "attempts": 0,
@@ -11797,7 +11885,7 @@
   "토스|8016316003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-11-12",
    "reason": "직무 제외 (직군: compliance)",
    "status": "filtered",
    "title": "Internal Auditor (업무)"
@@ -11813,7 +11901,7 @@
   "토스|8016322003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-12",
    "reason": "직무 제외 (직군: compliance)",
    "status": "filtered",
    "title": "Internal Auditor (IT)"
@@ -11929,6 +12017,22 @@
    "reason": "직무 제외 (직군: it planning)",
    "status": "filtered",
    "title": "IT Governance Manager"
+  },
+  "토스|8042482003": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: 보안)",
+   "status": "filtered",
+   "title": "내부감사 담당자 (보안)"
+  },
+  "토스|8042483003": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: 개인정보)",
+   "status": "filtered",
+   "title": "내부감사 담당자 (개인정보)"
   },
   "토스|8044053003": {
    "attempts": 0,
@@ -12153,6 +12257,22 @@
    "reason": "직무 제외 (제목: qa)",
    "status": "filtered",
    "title": "QA 테스터 (QA Tester)"
+  },
+  "토스|8201316003": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: 개인정보)",
+   "status": "filtered",
+   "title": "개인정보보호 담당자 (토스 자회사/5년이상)"
+  },
+  "토스|8201837003": {
+   "attempts": 0,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "reason": "직무 제외 (제목: hr)",
+   "status": "filtered",
+   "title": "HR Coordinator (Workday)"
   },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
