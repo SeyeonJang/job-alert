@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 24,
+   "fail_streak": 25,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 24,
+   "fail_streak": 25,
    "initialized": true,
    "last_count": 106
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 115
+   "last_count": 116
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,19 +75,19 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 66
+   "last_count": 67
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 13
+   "last_count": 15
   },
   "에이블리": {
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 50
+   "last_count": 51
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
@@ -158,7 +158,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 49
+   "last_count": 51
   }
  },
  "jobs": {
@@ -4658,6 +4658,14 @@
    "status": "filtered",
    "title": "BX Designer (PB 브랜드/캐주얼)"
   },
+  "무신사|244510": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "직무 제외 (제목: marketer)",
+   "status": "filtered",
+   "title": "Global Brand Marketer"
+  },
   "무신사|244529": {
    "attempts": 0,
    "first_seen": "2026-11-13",
@@ -5618,6 +5626,14 @@
    "status": "filtered",
    "title": "오프라인 세일즈 매니저 (계약직)"
   },
+  "버킷플레이스|244578": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "직무 제외 (제목: 소싱)",
+   "status": "filtered",
+   "title": "글로벌 가구 소싱 매니저 (계약직)"
+  },
   "버킷플레이스|94033": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -5670,6 +5686,14 @@
    "attempts": 0,
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-29",
+   "reason": "직무 제외 (제목: 마케팅)",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_글로벌 마케팅 커뮤니케이션 담당"
+  },
+  "아모레퍼시픽|1362743066": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
    "reason": "직무 제외 (제목: 마케팅)",
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_글로벌 마케팅 커뮤니케이션 담당"
@@ -5969,6 +5993,14 @@
    "reason": "자격요건 3년 이상: 경력: 뷰티 업계 마케팅/상품기획 경력 3년 이상",
    "status": "filtered",
    "title": "[경력] '26년 ETUDE 상품기획 담당 수시채용"
+  },
+  "아모레퍼시픽|1370325066": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "자격요건 7년 이상: 경력: 스킨케어 상품 기획(BM) 및 상품 개발 관련 경험 7년~10년 있으신 분",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_스킨케어 글로벌 상품 기획/개발(BM) 담당"
   },
   "에이블리|0Eu5yjmY": {
    "attempts": 0,
@@ -6377,6 +6409,14 @@
    "reason": "",
    "status": "sent",
    "title": "사업 개발 매니저 인턴"
+  },
+  "에이블리|uU3aZ6Uk": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "고용형태: 아르바이트",
+   "status": "filtered",
+   "title": "에이블리 상품 관리 및 등록 아르바이트"
   },
   "에이블리|wIYVJhmT": {
    "attempts": 0,
@@ -9049,6 +9089,14 @@
    "reason": "직무 제외 (제목: 물류)",
    "status": "filtered",
    "title": "물류센터 자동화 설비(Automation) 담당자 (평택)"
+  },
+  "컬리|244663": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "직무 제외 (제목: md)",
+   "status": "filtered",
+   "title": "패션PB 상품기획 MD"
   },
   "컬리|78179": {
    "attempts": 0,
@@ -12442,6 +12490,14 @@
    "status": "filtered",
    "title": "[강남언니] Head of Product"
   },
+  "힐링페이퍼(강남언니)|190470": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "",
+   "status": "sent",
+   "title": "[병원 운영 솔루션] Business Operation Assistant (체험형 인턴)"
+  },
   "힐링페이퍼(강남언니)|195331": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -12754,6 +12810,14 @@
    "status": "filtered",
    "title": "[강남언니] AI Research Engineer - Agent Evaluation 인턴 (체험형)"
   },
+  "힐링페이퍼(강남언니)|244506": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "",
+   "status": "sent",
+   "title": "[신사업] 미국 사업개발 인턴 (체험형)"
+  },
   "힐링페이퍼(강남언니)|5161": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -12897,7 +12961,9 @@
   "토스|외환 상품 manager (해외송금)": "2026-10-15",
   "토스|카드상품 manager (기업뱅킹)": "2026-11-02",
   "힐링페이퍼(강남언니)|[강남언니] 미국 사업개발 인턴 (체험형)": "2026-10-21",
+  "힐링페이퍼(강남언니)|[병원 운영 솔루션] business operation assistant (체험형 인턴)": "2026-11-13",
   "힐링페이퍼(강남언니)|[신사업] 글로벌 사업개발 인턴 (운영)": "2026-10-21",
+  "힐링페이퍼(강남언니)|[신사업] 미국 사업개발 인턴 (체험형)": "2026-11-13",
   "힐링페이퍼(강남언니)|[신사업] 사업개발 인턴 (체험형)": "2026-10-27",
   "힐링페이퍼(강남언니)|[힐링페이퍼] 사외추천 안내 및 신청": "2026-10-21"
  },
