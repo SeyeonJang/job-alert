@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 12
+   "last_count": 14
   },
   "네이버페이": {
    "adapter": "naver",
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 25,
+   "fail_streak": 26,
    "initialized": true,
    "last_count": 106
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 25,
+   "fail_streak": 26,
    "initialized": true,
    "last_count": 106
   },
@@ -51,13 +51,13 @@
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 54
+   "last_count": 55
   },
   "무신사": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 116
+   "last_count": 115
   },
   "백패커": {
    "adapter": "greeting",
@@ -87,7 +87,7 @@
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 51
+   "last_count": 46
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 22
+   "last_count": 24
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 66
+   "last_count": 67
   },
   "크림": {
    "adapter": "naver",
@@ -152,13 +152,13 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 291
+   "last_count": 293
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 51
+   "last_count": 50
   }
  },
  "jobs": {
@@ -593,6 +593,22 @@
    "reason": "직무 제외 (제목: animator)",
    "status": "filtered",
    "title": "[네이버웹툰] AI 애니메이션 제작 (AI animator) (신입)"
+  },
+  "네이버|30005629": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "",
+   "status": "sent",
+   "title": "[NAVER] 2027 NAVER 동계 인턴십 : Business 트랙"
+  },
+  "네이버|30005632": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "직무 제외 (직군: tech)",
+   "status": "filtered",
+   "title": "NAVER Global Internship, Summer 2027"
   },
   "네이버|30005640": {
    "attempts": 0,
@@ -3045,7 +3061,7 @@
   "당근|6652141003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-13",
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "Software Engineer, Backend (경력) - 피드 (ML Data Platform)"
@@ -4689,6 +4705,14 @@
    "reason": "직무 제외 (제목: designer)",
    "status": "filtered",
    "title": "Fashion Designer (무신사 트레이딩)"
+  },
+  "무신사|244708": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "직무 제외 (직군: cx)",
+   "status": "filtered",
+   "title": "CX Operations Assistant"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -7765,7 +7789,7 @@
   "카카오뱅크|263333": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-11-13",
    "reason": "직무 제외 (직군: compliance)",
    "status": "filtered",
    "title": "전기통신금융사기 업무 지원 담당자 (계약직)"
@@ -8001,6 +8025,14 @@
    "reason": "고용형태: 어시스턴트",
    "status": "filtered",
    "title": "대출비교서비스 운영 어시스턴트 (체험형 인턴)"
+  },
+  "카카오뱅크|272460": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "투자 서비스 운영 업무 담당자 (계약직)"
   },
   "카카오페이|103673": {
    "attempts": 0,
@@ -8505,6 +8537,14 @@
    "reason": "직무 제외 (직군: 디자인)",
    "status": "filtered",
    "title": "브랜드컨텐츠 기획 담당자"
+  },
+  "컬리|189466": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "직무 제외 (제목: people)",
+   "status": "filtered",
+   "title": "HRM (People Analytics) 담당자 (신입 가능)"
   },
   "컬리|189997": {
    "attempts": 0,
@@ -9097,6 +9137,14 @@
    "reason": "직무 제외 (제목: md)",
    "status": "filtered",
    "title": "패션PB 상품기획 MD"
+  },
+  "컬리|244702": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "직무 제외 (직군: finance)",
+   "status": "filtered",
+   "title": "컬리페이 경영관리 담당자 (신입 가능)"
   },
   "컬리|78179": {
    "attempts": 0,
@@ -10229,7 +10277,7 @@
   "토스|6523293003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-13",
    "reason": "직무 제외 (제목: recruiting)",
    "status": "filtered",
    "title": "Recruiting Assistant"
@@ -10273,6 +10321,14 @@
    "reason": "직무 제외 (제목: 보안)",
    "status": "filtered",
    "title": "보안 감사 담당자"
+  },
+  "토스|6558891003": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "직무 제외 (제목: accounting)",
+   "status": "filtered",
+   "title": "Accounting Admin"
   },
   "토스|6570754003": {
    "attempts": 0,
@@ -10833,6 +10889,14 @@
    "reason": "자격요건 7년 이상: 검색·추천 시스템 분야에서의 7년 이상의 경험",
    "status": "filtered",
    "title": "Product Owner [Search]"
+  },
+  "토스|7672970003": {
+   "attempts": 0,
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "Research Assistant"
   },
   "토스|7673255003": {
    "attempts": 0,
@@ -12877,6 +12941,7 @@
  },
  "sent_titles": {
   "네이버|[naver cloud] defense frontier 방산 사업개발 (경력)": "2026-11-05",
+  "네이버|[naver] 2027 naver 동계 인턴십 : business 트랙": "2026-11-13",
   "네이버|[네이버웹툰] cuts make 기획 (체험형 인턴)": "2026-10-29",
   "네이버|[네이버웹툰] 웹툰 숏폼 기획/제작 (체험형 인턴)": "2026-10-16",
   "네이버|[네이버웹툰] 출판 사업 총괄 (리드)(경력)": "2026-11-11",
