@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 11
+   "last_count": 12
   },
   "네이버페이": {
    "adapter": "naver",
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 0,
+   "fail_streak": 1,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 0,
+   "fail_streak": 1,
    "initialized": true,
    "last_count": 105
   },
@@ -75,13 +75,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 67
+   "last_count": 64
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 15
+   "last_count": 16
   },
   "에이블리": {
    "adapter": "ably",
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 291
+   "last_count": 294
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -697,6 +697,14 @@
    "reason": "자격요건 4년 이상: 연차 4년 이상이신 분",
    "status": "filtered",
    "title": "[네이버웹툰] 일본 콘텐츠 프로그래밍 전략 매니저 / JP Content Programming Strategy Manager (경력)"
+  },
+  "네이버|30005713": {
+   "attempts": 0,
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "reason": "직무 제외 (제목: 영업)",
+   "status": "filtered",
+   "title": "[NAVER Cloud] 클라우드 비즈니스 영업/파트너 지원 (계약)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -6138,6 +6146,14 @@
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_스킨케어 글로벌 상품 기획/개발(BM) 담당"
   },
+  "아모레퍼시픽|1370384866": {
+   "attempts": 0,
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "reason": "자격요건 3년 이상: 경력 기간: 관련 경험 3년 이상 있으신 분(글로벌 브랜드 e커머스, 디지털 마케팅, 크리에이터 마케팅)",
+   "status": "filtered",
+   "title": "[경력] '26년 AMOREPACIFIC 경력채용_e커머스 글로벌 전략 담당"
+  },
   "에이블리|0Eu5yjmY": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -10381,7 +10397,7 @@
   "토스|6520290003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-16",
    "reason": "직무 제외 (직군: aml)",
    "status": "filtered",
    "title": "AML Manager (Global)"
@@ -10949,7 +10965,7 @@
   "토스|7627894003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-16",
    "reason": "직무 제외 (제목: 총무)",
    "status": "filtered",
    "title": "보험총무(토스인슈어런스 직영)_인천"
@@ -12538,6 +12554,14 @@
    "status": "filtered",
    "title": "재무 담당자 (Finance Manager)"
   },
+  "토스|8171199003": {
+   "attempts": 0,
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "reason": "직무 제외 (제목: 보안)",
+   "status": "filtered",
+   "title": "토스뱅크 보안 전직군 집중 채용 (~11/29)"
+  },
   "토스|8189097003": {
    "attempts": 0,
    "first_seen": "2026-11-05",
@@ -12601,6 +12625,22 @@
    "reason": "직무 제외 (제목: hr)",
    "status": "filtered",
    "title": "HR Coordinator (Workday)"
+  },
+  "토스|8204580003": {
+   "attempts": 0,
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "reason": "",
+   "status": "sent",
+   "title": "Strategy Manager (Ads)"
+  },
+  "토스|8204582003": {
+   "attempts": 0,
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "reason": "직무 제외 (제목: hr)",
+   "status": "filtered",
+   "title": "HR Planning Manager (~12/7)"
   },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
@@ -13137,6 +13177,7 @@
   "토스|product owner (vertical)": "2026-10-15",
   "토스|product owner [commerce]": "2026-10-15",
   "토스|search quality operations manager": "2026-10-15",
+  "토스|strategy manager (ads)": "2026-11-16",
   "토스|technical product owner": "2026-10-15",
   "토스|technical product owner (ai)": "2026-10-23",
   "토스|수신 상품 manager": "2026-10-15",
