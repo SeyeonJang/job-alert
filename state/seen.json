@@ -4,7 +4,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 17
+   "last_count": 14
   },
   "AB180": {
    "fail_streak": 2,
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 3,
+   "fail_streak": 4,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 3,
+   "fail_streak": 4,
    "initialized": true,
    "last_count": 105
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 115
+   "last_count": 113
   },
   "백패커": {
    "adapter": "greeting",
@@ -87,13 +87,13 @@
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 45
+   "last_count": 43
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 31
+   "last_count": 32
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
@@ -105,7 +105,7 @@
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 13
+   "last_count": 14
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 23
+   "last_count": 24
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -134,13 +134,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 38
+   "last_count": 37
   },
   "컬리": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 69
+   "last_count": 68
   },
   "크림": {
    "adapter": "naver",
@@ -158,7 +158,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 50
+   "last_count": 49
   }
  },
  "jobs": {
@@ -337,6 +337,14 @@
    "reason": "직무 제외 (제목: hr)",
    "status": "filtered",
    "title": "HR Manager (운영/C&B)"
+  },
+  "111퍼센트(게임회사)|245199": {
+   "attempts": 0,
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "reason": "직무 제외 (직군: 마케팅)",
+   "status": "filtered",
+   "title": "[스팀(Steam)] 커뮤니티 매니저 (중국어)"
   },
   "SSG닷컴|5259": {
    "attempts": 0,
@@ -6914,6 +6922,14 @@
    "status": "filtered",
    "title": "Communication Team Leader"
   },
+  "여기어때컴퍼니|238877": {
+   "attempts": 0,
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "reason": "직무 제외 (직군: 디자인)",
+   "status": "filtered",
+   "title": "Platform Design Team Leader"
+  },
   "여기어때컴퍼니|239111": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7634,6 +7650,14 @@
    "status": "filtered",
    "title": "카카오맵 콘텐츠 마케팅 & 기획_어시스턴트"
   },
+  "카카오|P-14587": {
+   "attempts": 0,
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "장소 데이터 운영 지원_어시스턴트"
+  },
   "카카오게임즈|151266": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8117,7 +8141,7 @@
   "카카오뱅크|269639": {
    "attempts": 0,
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-09",
+   "last_seen": "2026-11-17",
    "reason": "직무 제외 (제목: 세무)",
    "status": "filtered",
    "title": "세무 업무 담당자 (계약직)"
@@ -9873,6 +9897,14 @@
    "reason": "직무 제외 (직군: aml)",
    "status": "filtered",
    "title": "STR Monitoring Specialist"
+  },
+  "토스|5051743003": {
+   "attempts": 0,
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "reason": "직무 제외 (제목: 총무)",
+   "status": "filtered",
+   "title": "총무 담당자 (단기계약직)"
   },
   "토스|5160641003": {
    "attempts": 0,
@@ -12697,6 +12729,14 @@
    "reason": "직무 제외 (제목: 개인정보)",
    "status": "filtered",
    "title": "개인정보보호 담당자 (토스 자회사/5년이상)"
+  },
+  "토스|8201422003": {
+   "attempts": 0,
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "reason": "직무 제외 (제목: qa)",
+   "status": "filtered",
+   "title": "QA 매니저 (Platform) (QA Manager)"
   },
   "토스|8201837003": {
    "attempts": 0,
