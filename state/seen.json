@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 5,
+   "fail_streak": 6,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 5,
+   "fail_streak": 6,
    "initialized": true,
    "last_count": 105
   },
@@ -45,7 +45,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 8
+   "last_count": 7
   },
   "당근": {
    "adapter": "greenhouse",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 65
+   "last_count": 66
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -87,7 +87,7 @@
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 43
+   "last_count": 42
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 25
+   "last_count": 26
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -134,13 +134,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 36
+   "last_count": 35
   },
   "컬리": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 67
+   "last_count": 68
   },
   "크림": {
    "adapter": "naver",
@@ -4906,6 +4906,14 @@
    "status": "filtered",
    "title": "Security Engineer (모의해킹 · 소스코드 진단)"
   },
+  "무신사|245345": {
+   "attempts": 0,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "Security Engineer (스팸 메일·망연계 운영)"
+  },
   "백패커|162371": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -5857,6 +5865,14 @@
    "reason": "직무 제외 (제목: fp&a)",
    "status": "filtered",
    "title": "FP&A Manager"
+  },
+  "버킷플레이스|245197": {
+   "attempts": 0,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "reason": "직무 제외 (직군: 마케팅)",
+   "status": "filtered",
+   "title": "인플루언서 체험단 광고 운영 담당자 (계약직)"
   },
   "버킷플레이스|94033": {
    "attempts": 0,
@@ -8330,6 +8346,14 @@
    "status": "filtered",
    "title": "투자 서비스 운영 업무 담당자 (계약직)"
   },
+  "카카오뱅크|272465": {
+   "attempts": 0,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "reason": "직무 제외 (직군: customer)",
+   "status": "filtered",
+   "title": "금융업무 기획 및 운영 담당자 (채용연계형 인턴)"
+  },
   "카카오뱅크|272750": {
    "attempts": 0,
    "first_seen": "2026-11-18",
@@ -9474,6 +9498,14 @@
    "status": "filtered",
    "title": "사내 변호사"
   },
+  "컬리|245372": {
+   "attempts": 0,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "reason": "경력 7년 이상",
+   "status": "filtered",
+   "title": "광고 PM(Product Manager)"
+  },
   "컬리|78179": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -10389,7 +10421,7 @@
   "토스|6082255003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-18",
    "reason": "직무 제외 (직군: customer)",
    "status": "filtered",
    "title": "Operations Supporter (광고 검수)"
@@ -11081,6 +11113,14 @@
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "Asset Specialist (2년 이하)"
+  },
+  "토스|7564232003": {
+   "attempts": 0,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "자산관리 어시스턴트"
   },
   "토스|7566080003": {
    "attempts": 0,
