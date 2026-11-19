@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 7,
+   "fail_streak": 8,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 7,
+   "fail_streak": 8,
    "initialized": true,
    "last_count": 105
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 114
+   "last_count": 112
   },
   "백패커": {
    "adapter": "greeting",
@@ -75,7 +75,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 67
+   "last_count": 66
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -146,13 +146,13 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 8
+   "last_count": 7
   },
   "토스": {
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 293
+   "last_count": 295
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -3773,7 +3773,7 @@
   "무신사|220349": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-19",
    "reason": "경력 5년 이상",
    "status": "filtered",
    "title": "물류 전략 기획 담당자 (무신사로지스틱스)"
@@ -11594,6 +11594,14 @@
    "status": "filtered",
    "title": "Platform Product Owner (Global)"
   },
+  "토스|7747947003": {
+   "attempts": 0,
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "reason": "직무 제외 (직군: pr)",
+   "status": "filtered",
+   "title": "Communications Specialist"
+  },
   "토스|7757642003": {
    "attempts": 0,
    "first_seen": "2026-10-26",
@@ -13001,6 +13009,14 @@
    "reason": "직무 제외 (제목: hr)",
    "status": "filtered",
    "title": "HR Coordinator (Workday)"
+  },
+  "토스|8203076003": {
+   "attempts": 0,
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "reason": "직무 제외 (제목: 풀필먼트)",
+   "status": "filtered",
+   "title": "B2C 풀필먼트사 단순문의 상담원 (정규직) (신입)"
   },
   "토스|8204580003": {
    "attempts": 0,
