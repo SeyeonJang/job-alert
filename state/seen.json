@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 9,
+   "fail_streak": 10,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 9,
+   "fail_streak": 10,
    "initialized": true,
    "last_count": 105
   },
@@ -51,13 +51,13 @@
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 50
+   "last_count": 51
   },
   "무신사": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 110
+   "last_count": 109
   },
   "백패커": {
    "adapter": "greeting",
@@ -99,7 +99,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 52
+   "last_count": 50
   },
   "카카오": {
    "adapter": "kakao",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 27
+   "last_count": 30
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 296
+   "last_count": 298
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -3594,6 +3594,14 @@
    "status": "filtered",
    "title": "Software Engineer, Backend (채용전환형) - 피드 인프라"
   },
+  "당근|8204751003": {
+   "attempts": 0,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "Software Engineer, Backend (인턴) - 서비스 운영 (운영개발)"
+  },
   "당근|8206277003": {
    "attempts": 0,
    "first_seen": "2026-11-18",
@@ -5001,6 +5009,14 @@
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "Product Engineer (Global Integration)"
+  },
+  "무신사|245715": {
+   "attempts": 0,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "[AI Agent 전형] Product Engineer (Global Integration)"
   },
   "백패커|162371": {
    "attempts": 0,
@@ -8490,6 +8506,22 @@
    "status": "filtered",
    "title": "여신관리 운영 업무 담당자 (계약직)"
   },
+  "카카오뱅크|273021": {
+   "attempts": 0,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "reason": "직무 제외 (제목: 디자이너)",
+   "status": "filtered",
+   "title": "AI 프로덕트 디자이너 (채용연계형 인턴)"
+  },
+  "카카오뱅크|273031": {
+   "attempts": 0,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "reason": "",
+   "status": "sent",
+   "title": "AI Native 인증 서비스 기획자 (채용연계형 인턴)"
+  },
   "카카오페이|103673": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -10370,6 +10402,14 @@
    "status": "filtered",
    "title": "프론트엔드 플랫폼 엔지니어"
   },
+  "토스|5641740003": {
+   "attempts": 0,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "IT 어시스턴트 (단기계약직) (IT Assistant)"
+  },
   "토스|5643035003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -12173,7 +12213,7 @@
   "토스|7972062003": {
    "attempts": 0,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-11-20",
    "reason": "30일 안에 같은 제목을 보냄",
    "status": "filtered",
    "title": "Product Operations Manager"
@@ -13106,6 +13146,14 @@
    "status": "filtered",
    "title": "Seller Compliance Manager"
   },
+  "토스|8210124003": {
+   "attempts": 0,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "reason": "직무 제외 (제목: 디자이너)",
+   "status": "filtered",
+   "title": "비주얼 디자이너 (Brand)"
+  },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -13642,6 +13690,7 @@
   "카카오게임즈|[체험형 인턴] 유료화 기획 인턴 채용": "2026-11-04",
   "카카오게임즈|[체험형 인턴] 전략기획 인턴 채용": "2026-11-04",
   "카카오게임즈|[체험형 인턴] 캐주얼 게임 사업 인턴 채용": "2026-10-16",
+  "카카오뱅크|ai native 인증 서비스 기획자 (채용연계형 인턴)": "2026-11-20",
   "카카오뱅크|인증 플랫폼 기획 담당자 (채용연계형 인턴)": "2026-10-15",
   "크림|[kream] 스타일 탭 인플루언서 운영 체험형 인턴 모집": "2026-10-22",
   "크림|[kream] 콘텐츠 기획 체험형 인턴 모집": "2026-10-15",
