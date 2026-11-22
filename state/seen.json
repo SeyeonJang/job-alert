@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 13,
+   "fail_streak": 14,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 13,
+   "fail_streak": 14,
    "initialized": true,
    "last_count": 105
   },
@@ -105,7 +105,7 @@
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 15
+   "last_count": 30
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -7913,6 +7913,14 @@
    "reason": "직무 제외 (제목: 영상)",
    "status": "filtered",
    "title": "카카오비즈니스 영상 콘텐츠 제작 및 라이브 운영 담당자"
+  },
+  "카카오|P-14590": {
+   "attempts": 0,
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "카카오 선물하기 멀티IP CM_어시스턴트"
   },
   "카카오게임즈|151266": {
    "attempts": 0,
