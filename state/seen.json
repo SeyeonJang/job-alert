@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 17
+   "last_count": 16
   },
   "네이버페이": {
    "adapter": "naver",
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 16,
+   "fail_streak": 17,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 16,
+   "fail_streak": 17,
    "initialized": true,
    "last_count": 105
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 110
+   "last_count": 108
   },
   "백패커": {
    "adapter": "greeting",
@@ -93,7 +93,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 31
+   "last_count": 30
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
@@ -134,13 +134,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 36
+   "last_count": 35
   },
   "컬리": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 68
+   "last_count": 69
   },
   "크림": {
    "adapter": "naver",
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 295
+   "last_count": 293
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -9762,6 +9762,14 @@
    "status": "filtered",
    "title": "브랜드 콘텐츠 마케터 (체험형 인턴)"
   },
+  "컬리|245870": {
+   "attempts": 0,
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "reason": "직무 제외 (제목: 엔지니어)",
+   "status": "filtered",
+   "title": "QA 엔지니어 (커머스/물류)"
+  },
   "컬리|78179": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -11861,7 +11869,7 @@
   "토스|7788116003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-11-23",
    "reason": "직무 제외 (직군: legal)",
    "status": "filtered",
    "title": "GRC Manager"
