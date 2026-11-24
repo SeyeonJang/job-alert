@@ -21,7 +21,7 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 23
+   "last_count": 24
   },
   "네이버페이": {
    "adapter": "naver",
@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 18,
+   "fail_streak": 19,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 18,
+   "fail_streak": 19,
    "initialized": true,
    "last_count": 105
   },
@@ -45,13 +45,13 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 6
+   "last_count": 5
   },
   "당근": {
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 52
+   "last_count": 53
   },
   "무신사": {
    "adapter": "greeting",
@@ -69,13 +69,13 @@
    "adapter": "banksalad",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 14
+   "last_count": 15
   },
   "버킷플레이스": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 62
+   "last_count": 63
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
@@ -87,13 +87,13 @@
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 42
+   "last_count": 37
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 30
+   "last_count": 29
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
@@ -105,19 +105,19 @@
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 30
+   "last_count": 28
   },
   "카카오게임즈": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 6
+   "last_count": 7
   },
   "카카오뱅크": {
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 28
+   "last_count": 30
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -128,7 +128,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 0
+   "last_count": 1
   },
   "카카오페이": {
    "adapter": "greeting",
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 69
+   "last_count": 70
   },
   "크림": {
    "adapter": "naver",
@@ -152,7 +152,7 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 295
+   "last_count": 290
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
@@ -841,6 +841,14 @@
    "reason": "직무 제외 (제목: 배송)",
    "status": "filtered",
    "title": "[NAVER] N배송 주문/배송 플랫폼 기획 (리더급)"
+  },
+  "네이버|30005747": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "",
+   "status": "sent",
+   "title": "[네이버웹툰] 글로벌웹툰 콘텐츠 기획/운영 (체험형 인턴)"
   },
   "넥슨|10009": {
    "attempts": 0,
@@ -3138,6 +3146,14 @@
    "status": "filtered",
    "title": "Software Engineer, Backend - 당근페이"
   },
+  "당근|4519954003": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "직무 제외 (제목: recruiting)",
+   "status": "filtered",
+   "title": "Recruiting Manager (인턴) (채용전환형) - 경영지원 (피플)"
+  },
   "당근|5004587003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -3165,7 +3181,7 @@
   "당근|5120737003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-24",
    "reason": "직무 제외 (제목: designer)",
    "status": "filtered",
    "title": "Product Designer - 커뮤니티"
@@ -5130,6 +5146,30 @@
    "status": "filtered",
    "title": "Product Engineer (Commerce)"
   },
+  "무신사|246022": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "Product Manager (Partner Platform)"
+  },
+  "무신사|246067": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "직무 제외 (제목: 디자이너)",
+   "status": "filtered",
+   "title": "브랜드 디자이너 (29CM)"
+  },
+  "무신사|246073": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "Product Engineer (Personalization)"
+  },
   "백패커|162371": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -5401,6 +5441,14 @@
    "reason": "경력 15년 이상",
    "status": "filtered",
    "title": "[최초채용] [리더십] Head of Business (사업총괄)"
+  },
+  "뱅크샐러드|91379": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "QA Engineer (QA 엔지니어)"
   },
   "버킷플레이스|141773": {
    "attempts": 0,
@@ -6105,6 +6153,22 @@
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "Backend Engineer, Commerce Foundation"
+  },
+  "버킷플레이스|245818": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "직무 제외 (제목: 보안)",
+   "status": "filtered",
+   "title": "AI 보안전문가(Red)"
+  },
+  "버킷플레이스|245911": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "커머스 콘텐츠 운영 담당자 (바이너리샵, ONLY) (계약직)"
   },
   "버킷플레이스|94033": {
    "attempts": 0,
@@ -7810,6 +7874,14 @@
    "status": "filtered",
    "title": "캐치테이블 글로벌셀 리더 (Global B2C PO)"
   },
+  "와드(캐치테이블)|246085": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "직무 제외 (제목: 마케터)",
+   "status": "filtered",
+   "title": "일본 B2B/B2C 마케터"
+  },
   "와드(캐치테이블)|75705": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8226,6 +8298,14 @@
    "status": "sent",
    "title": "[체험형 인턴] SNS 홍보 인턴 채용"
   },
+  "카카오게임즈|246064": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "[경력] 오딘 MMORPG 사업PM (유료화 기획 담당자) 영입"
+  },
   "카카오뱅크|203574": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8265,6 +8345,14 @@
    "reason": "직무 제외 (직군: engineering)",
    "status": "filtered",
    "title": "뱅킹 아키텍트"
+  },
+  "카카오뱅크|243233": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "직무 제외 (제목: 개발자)",
+   "status": "filtered",
+   "title": "수신업무 도메인 개발자"
   },
   "카카오뱅크|244006": {
    "attempts": 0,
@@ -8682,6 +8770,22 @@
    "status": "sent",
    "title": "AI Native 인증 서비스 기획자 (채용연계형 인턴)"
   },
+  "카카오뱅크|273332": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "제휴 상품 및 서비스 운영 담당자 (계약직)"
+  },
+  "카카오엔터테인먼트|245902": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "경력 7년 이상",
+   "status": "filtered",
+   "title": "회원/인증 플랫폼 기획"
+  },
   "카카오페이|103673": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8781,7 +8885,7 @@
   "카카오페이|228948": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-24",
    "reason": "경력 2년 이상",
    "status": "filtered",
    "title": "사업 담당자 - 해외 온라인 결제"
@@ -9857,6 +9961,14 @@
    "reason": "직무 제외 (제목: 엔지니어)",
    "status": "filtered",
    "title": "QA 엔지니어 (커머스/물류)"
+  },
+  "컬리|246095": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "직무 제외 (제목: 디자이너)",
+   "status": "filtered",
+   "title": "상세페이지 컨텐츠 디자이너"
   },
   "컬리|78179": {
    "attempts": 0,
@@ -13386,6 +13498,14 @@
    "status": "filtered",
    "title": "시장운용팀 리더 (Markets & Investment Team Leader)"
   },
+  "토스|8214669003": {
+   "attempts": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "reason": "직무 제외 (직군: aml)",
+   "status": "filtered",
+   "title": "Senior AML Analyst (Analista Sênior de PLD/FT)"
+  },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -13880,6 +14000,7 @@
   "네이버|[naver] 2027 naver 동계 인턴십 : business 트랙": "2026-11-13",
   "네이버|[네이버웹툰] byus product lead (경력)": "2026-11-24",
   "네이버|[네이버웹툰] cuts make 기획 (체험형 인턴)": "2026-10-29",
+  "네이버|[네이버웹툰] 글로벌웹툰 콘텐츠 기획/운영 (체험형 인턴)": "2026-11-24",
   "네이버|[네이버웹툰] 웹툰 숏폼 기획/제작 (체험형 인턴)": "2026-10-16",
   "네이버|[네이버웹툰] 출판 사업 총괄 (리드)(경력)": "2026-11-11",
   "네이버|[네이버웹툰] 캐릭터 ai 모델 기획 및 테스트 (체험형 인턴)": "2026-10-22",
