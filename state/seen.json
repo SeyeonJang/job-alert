@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 20,
+   "fail_streak": 21,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 20,
+   "fail_streak": 21,
    "initialized": true,
    "last_count": 105
   },
@@ -51,7 +51,7 @@
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 53
+   "last_count": 54
   },
   "무신사": {
    "adapter": "greeting",
@@ -99,7 +99,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 50
+   "last_count": 51
   },
   "카카오": {
    "adapter": "kakao",
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 69
+   "last_count": 68
   },
   "크림": {
    "adapter": "naver",
@@ -152,13 +152,13 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 293
+   "last_count": 289
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 47
+   "last_count": 45
   }
  },
  "jobs": {
@@ -3301,7 +3301,7 @@
   "당근|6573822003": {
    "attempts": 0,
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-25",
    "reason": "직무 제외 (직군: compliance)",
    "status": "filtered",
    "title": "AML Monitoring Specialist (계약직) - 당근페이"
@@ -6178,6 +6178,14 @@
    "status": "filtered",
    "title": "커머스 콘텐츠 운영 담당자 (바이너리샵, ONLY) (계약직)"
   },
+  "버킷플레이스|246191": {
+   "attempts": 0,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "reason": "경력 5년 이상",
+   "status": "filtered",
+   "title": "Product Owner"
+  },
   "버킷플레이스|94033": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -7889,6 +7897,14 @@
    "reason": "직무 제외 (제목: 마케터)",
    "status": "filtered",
    "title": "일본 B2B/B2C 마케터"
+  },
+  "와드(캐치테이블)|246183": {
+   "attempts": 0,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "reason": "직무 제외 (직군: sales)",
+   "status": "filtered",
+   "title": "일본 Business Builder"
   },
   "와드(캐치테이블)|75705": {
    "attempts": 0,
@@ -13546,6 +13562,30 @@
    "status": "filtered",
    "title": "Senior AML Analyst (Analista Sênior de PLD/FT)"
   },
+  "토스|8215133003": {
+   "attempts": 0,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "음성 검수 어시스턴트"
+  },
+  "토스|8215134003": {
+   "attempts": 0,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "reason": "",
+   "status": "sent",
+   "title": "절세 상품 운영 매니저 (ISA)"
+  },
+  "토스|8215325003": {
+   "attempts": 0,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "reason": "",
+   "status": "sent",
+   "title": "Product Owner (Trading)"
+  },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
    "first_seen": "2026-10-21",
@@ -14116,6 +14156,7 @@
   "토스|product operations manager": "2026-10-15",
   "토스|product owner": "2026-10-15",
   "토스|product owner (growth)": "2026-10-15",
+  "토스|product owner (trading)": "2026-11-25",
   "토스|product owner (user journey)": "2026-10-15",
   "토스|product owner (vertical)": "2026-10-15",
   "토스|product owner [commerce]": "2026-10-15",
@@ -14128,6 +14169,7 @@
   "토스|여신 제도 manager": "2026-10-15",
   "토스|여신상품 기획 담당자 (개인대출)": "2026-11-02",
   "토스|외환 상품 manager (해외송금)": "2026-10-15",
+  "토스|절세 상품 운영 매니저 (isa)": "2026-11-25",
   "토스|카드상품 manager (기업뱅킹)": "2026-11-02",
   "힐링페이퍼(강남언니)|[강남언니] data analyst 인턴 (마켓 인사이트, 체험형)": "2026-11-18",
   "힐링페이퍼(강남언니)|[강남언니] 미국 사업개발 인턴 (체험형)": "2026-10-21",
