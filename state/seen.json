@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 22,
+   "fail_streak": 23,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 22,
+   "fail_streak": 23,
    "initialized": true,
    "last_count": 105
   },
@@ -57,7 +57,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 105
+   "last_count": 104
   },
   "백패커": {
    "adapter": "greeting",
@@ -69,7 +69,7 @@
    "adapter": "banksalad",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 15
+   "last_count": 14
   },
   "버킷플레이스": {
    "adapter": "greeting",
@@ -81,7 +81,7 @@
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 12
+   "last_count": 13
   },
   "에이블리": {
    "adapter": "ably",
@@ -93,19 +93,19 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 29
+   "last_count": 28
   },
   "와드(캐치테이블)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 51
+   "last_count": 50
   },
   "카카오": {
    "adapter": "kakao",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 16
+   "last_count": 17
   },
   "카카오게임즈": {
    "adapter": "greeting",
@@ -117,7 +117,7 @@
    "adapter": "kakaobank",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 26
+   "last_count": 28
   },
   "카카오스타일": {
    "fail_streak": 2,
@@ -134,7 +134,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 34
+   "last_count": 33
   },
   "컬리": {
    "adapter": "greeting",
@@ -146,19 +146,19 @@
    "adapter": "naver",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 10
+   "last_count": 11
   },
   "토스": {
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 288
+   "last_count": 291
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 44
+   "last_count": 45
   }
  },
  "jobs": {
@@ -6226,6 +6226,14 @@
    "status": "sent",
    "title": "오프라인 AMD (인턴)"
   },
+  "버킷플레이스|246261": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "서비스 운영 매니저 (계약직)"
+  },
   "버킷플레이스|94033": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6665,6 +6673,14 @@
    "reason": "",
    "status": "sent",
    "title": "[신입] 2026 하반기 AMOREPACIFIC 신입사원 채용_품질 관리"
+  },
+  "아모레퍼시픽|1370911566": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "직무 제외 (제목: 포장)",
+   "status": "filtered",
+   "title": "[경력] 2026년 하반기 AMOREPACIFIC 전임직 채용_포장기술"
   },
   "에이블리|0Eu5yjmY": {
    "attempts": 0,
@@ -8154,6 +8170,14 @@
    "status": "filtered",
    "title": "카카오톡 예약하기 서비스 마케팅 운영_어시스턴트"
   },
+  "카카오|P-14594": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "선물하기/톡딜 CM기획_어시스턴트"
+  },
   "카카오게임즈|151266": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -8849,6 +8873,22 @@
    "reason": "고용형태: 계약",
    "status": "filtered",
    "title": "제휴 상품 및 서비스 운영 담당자 (계약직)"
+  },
+  "카카오뱅크|273583": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "교육/문화 어시스턴트 (체험형 인턴)"
+  },
+  "카카오뱅크|273585": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "고용형태: 어시스턴트",
+   "status": "filtered",
+   "title": "문화 콘텐츠 어시스턴트 (체험형 인턴)"
   },
   "카카오엔터테인먼트|245902": {
    "attempts": 0,
@@ -10265,6 +10305,14 @@
    "reason": "",
    "status": "sent",
    "title": "[KREAM] Global팀 체험형 인턴 모집"
+  },
+  "크림|30005763": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "직무 제외 (제목: 영업)",
+   "status": "filtered",
+   "title": "[KREAM] 영업 기획 체험형 인턴 모집"
   },
   "토스|4071101003": {
    "attempts": 0,
@@ -11769,6 +11817,14 @@
    "reason": "자격요건 2년 이상: 최소 2~3년 이상의 관련 업무 경험이 필요해요.",
    "status": "filtered",
    "title": "계좌 도메인 운영 Manager"
+  },
+  "토스|7598918003": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "직무 제외 (제목: qa)",
+   "status": "filtered",
+   "title": "QA Specialist (일반계약직)"
   },
   "토스|7601721003": {
    "attempts": 0,
@@ -13477,7 +13533,7 @@
   "토스|8196377003": {
    "attempts": 0,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-26",
    "reason": "직무 제외 (제목: sales)",
    "status": "filtered",
    "title": "Sales Specialist (Ads)"
@@ -13626,6 +13682,14 @@
    "status": "filtered",
    "title": "Senior AML Analyst (Analista Sênior de PLD/FT)"
   },
+  "토스|8215121003": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "고용형태: 계약",
+   "status": "filtered",
+   "title": "IT Assistant (단기계약직)"
+  },
   "토스|8215133003": {
    "attempts": 0,
    "first_seen": "2026-11-25",
@@ -13657,6 +13721,22 @@
    "reason": "직무 제외 (직군: aml)",
    "status": "filtered",
    "title": "AML Operations Specialist"
+  },
+  "토스|8216892003": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "직무 제외 (제목: qa)",
+   "status": "filtered",
+   "title": "QA 어시스턴트"
+  },
+  "토스|8217449003": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "직무 제외 (직군: finance)",
+   "status": "filtered",
+   "title": "자금 운영 담당자 (일반계약직)"
   },
   "힐링페이퍼(강남언니)|10053": {
    "attempts": 0,
@@ -14089,6 +14169,14 @@
    "reason": "직무 제외 (제목: 개발자)",
    "status": "filtered",
    "title": "[병원 운영 솔루션] 백엔드 개발자 인턴 (체험형)"
+  },
+  "힐링페이퍼(강남언니)|246274": {
+   "attempts": 0,
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "reason": "경력 3년 이상",
+   "status": "filtered",
+   "title": "[HPJP] 미용의료 해외 인바운드 사업개발 (도쿄 근무)"
   },
   "힐링페이퍼(강남언니)|5161": {
    "attempts": 0,
