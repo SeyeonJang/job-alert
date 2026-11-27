@@ -31,13 +31,13 @@
   },
   "넥슨": {
    "adapter": "nexon",
-   "fail_streak": 24,
+   "fail_streak": 25,
    "initialized": true,
    "last_count": 105
   },
   "넥슨코리아": {
    "adapter": "nexon",
-   "fail_streak": 24,
+   "fail_streak": 25,
    "initialized": true,
    "last_count": 105
   },
@@ -51,7 +51,7 @@
    "adapter": "greenhouse",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 53
+   "last_count": 54
   },
   "무신사": {
    "adapter": "greeting",
@@ -75,19 +75,19 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 64
+   "last_count": 60
   },
   "아모레퍼시픽": {
    "adapter": "successfactors",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 14
+   "last_count": 15
   },
   "에이블리": {
    "adapter": "ably",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 37
+   "last_count": 36
   },
   "여기어때컴퍼니": {
    "adapter": "greeting",
@@ -140,7 +140,7 @@
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 68
+   "last_count": 67
   },
   "크림": {
    "adapter": "naver",
@@ -152,13 +152,13 @@
    "adapter": "toss",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 293
+   "last_count": 292
   },
   "힐링페이퍼(강남언니)": {
    "adapter": "greeting",
    "fail_streak": 0,
    "initialized": true,
-   "last_count": 45
+   "last_count": 46
   }
  },
  "jobs": {
@@ -3485,7 +3485,7 @@
   "당근|7675338003": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-11-27",
    "reason": "직무 제외 (제목: engineer)",
    "status": "filtered",
    "title": "Software Engineer, Backend - 로컬 잡스 (레슨/과외 팀)"
@@ -3761,6 +3761,14 @@
    "reason": "직무 제외 (제목: designer)",
    "status": "filtered",
    "title": "Product Designer (인턴) - 커머스"
+  },
+  "당근|8216734003": {
+   "attempts": 0,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "reason": "직무 제외 (제목: 총무)",
+   "status": "filtered",
+   "title": "General Affairs Specialist (총무) (계약직) - 경영지원 (피플)"
   },
   "무신사|167927": {
    "attempts": 0,
@@ -5218,6 +5226,14 @@
    "status": "filtered",
    "title": "액션스포츠 MD"
   },
+  "무신사|246491": {
+   "attempts": 0,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "reason": "직무 제외 (제목: engineer)",
+   "status": "filtered",
+   "title": "Product Engineer (Partner Platform)"
+  },
   "백패커|162371": {
    "attempts": 0,
    "first_seen": "2026-10-15",
@@ -6461,7 +6477,7 @@
   "아모레퍼시픽|1366891666": {
    "attempts": 0,
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-27",
    "reason": "직무 제외 (제목: 물류)",
    "status": "filtered",
    "title": "[경력] '26년 AMOREPACIFIC 경력채용_글로벌 물류 운영 및 전략 담당"
@@ -7193,6 +7209,14 @@
    "reason": "직무 제외 (제목: 디자이너)",
    "status": "filtered",
    "title": "프로덕트 디자이너 (주니어)"
+  },
+  "에이블리|zX4PuZxT": {
+   "attempts": 0,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "reason": "직무 제외 (제목: 회계)",
+   "status": "filtered",
+   "title": "회계팀 리더(팀장)"
   },
   "에이블리|zkY0lq61": {
    "attempts": 0,
@@ -14033,6 +14057,14 @@
    "reason": "직무 제외 (제목: account manager)",
    "status": "filtered",
    "title": "[강남언니] Account Manager"
+  },
+  "힐링페이퍼(강남언니)|235707": {
+   "attempts": 0,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "reason": "직무 제외 (직군: 영업)",
+   "status": "filtered",
+   "title": "[강남언니] Account Executive"
   },
   "힐링페이퍼(강남언니)|235941": {
    "attempts": 0,
